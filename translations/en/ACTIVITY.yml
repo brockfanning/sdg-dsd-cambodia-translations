@@ -1,18 +1,11 @@
 ACTIVITY: Economic activity
-HH: Activities by households
 ISIC4_A: Agriculture, forestry and fishing
 ISIC4_B: Mining and quarrying
-ISIC4_BTFXE: Industries
-ISIC4_BTU: Non-agriculture
 ISIC4_C: Manufacturing
-ISIC4_C10T32X19: Manufacturing excl. coke and refined petroleum products and repair
-  and installation of machinery and equipment
 ISIC4_D: Electricity, gas, steam and air conditioning supply
 ISIC4_E: Water supply; sewerage, waste management and remediation activities
 ISIC4_F: Construction
 ISIC4_G: Wholesale and retail trade; repair of motor vehicles and motorcycles
-ISIC4_GTS: Services
-ISIC4_GTS_HH: Services, and activities by households
 ISIC4_H: Transportation and storage
 ISIC4_I: Accommodation and food service activities
 ISIC4_J: Information and communication

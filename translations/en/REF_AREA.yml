@@ -3,62 +3,61 @@
 '100': Bulgaria
 '104': Myanmar
 '108': Burundi
-'11': Western Africa
+'11': Western Africa (M49)
 '112': Belarus
 '116': Cambodia
 '12': Algeria
 '120': Cameroon
 '124': Canada
-'127': Southern Asia (excluding India)
-'13': Central America
+'127': Southern Asia, exc. India (MDG)
+'13': Central America (M49)
 '132': Cabo Verde
-'135': Caucasus and Central Asia
+'135': Caucasus and Central Asia (MDG)
 '136': Cayman Islands
-'14': Eastern Africa
+'14': Eastern Africa (M49)
 '140': Central African Republic
-'142': Asia
-'143': Central Asia
+'142': Asia (M49)
+'143': Central Asia (M49)
 '144': Sri Lanka
-'145': Western Asia
+'145': Western Asia (M49)
 '148': Chad
-'15': Northern Africa
-'150': Europe
-'151': Eastern Europe
+'15': Northern Africa (M49)
+'150': Europe (M49)
+'151': Eastern Europe (M49)
 '152': Chile
-'154': Northern Europe
-'155': Western Europe
+'154': Northern Europe (M49)
+'155': Western Europe (M49)
 '156': China
-'158': Other non-specified areas in Eastern Asia
 '16': American Samoa
 '162': Christmas Island
 '166': Cocos (Keeling) Islands
-'17': Middle Africa
+'17': Middle Africa (M49)
 '170': Colombia
 '174': Comoros
 '175': Mayotte
 '178': Congo
-'18': Southern Africa
+'18': Southern Africa (M49)
 '180': Democratic Republic of the Congo
 '184': Cook Islands
 '188': Costa Rica
-'19': Americas
+'19': Americas (M49)
 '191': Croatia
 '192': Cuba
 '196': Cyprus
-'198': Organisation for Economic Co-operation and Development (OECD) Member States
+'198': OECD Member States
 '199': Least Developed Countries (LDCs)
-'2': Africa
+'2': Africa (M49)
 '20': Andorra
-'202': Sub-Saharan Africa
+'202': Sub-Saharan Africa (SDG)
 '203': Czechia
 '204': Benin
 '208': Denmark
-'21': Northern America
+'21': Northern America (M49)
 '212': Dominica
 '214': Dominican Republic
 '218': Ecuador
 '222': El Salvador
-'223': Eastern Asia (excluding Japan and China)
+'223': Eastern Asia, exc. Japan and China (MDG)
 '226': Equatorial Guinea
 '231': Ethiopia
 '232': Eritrea
@@ -69,7 +68,7 @@
 '24': Angola
 '242': Fiji
 '246': Finland
-'248': "\xC5land Islands"
+'248': Åland Islands
 '250': France
 '254': French Guiana
 '258': French Polynesia
@@ -82,10 +81,10 @@
 '276': Germany
 '28': Antigua and Barbuda
 '288': Ghana
-'29': Caribbean
+'29': Caribbean (M49)
 '292': Gibraltar
 '296': Kiribati
-'30': Eastern Asia
+'30': Eastern Asia (M49)
 '300': Greece
 '304': Greenland
 '308': Grenada
@@ -99,25 +98,23 @@
 '332': Haiti
 '334': Heard Island and McDonald Islands
 '336': Holy See
-'34': Southern Asia
+'34': Southern Asia (M49-MDG)
 '340': Honduras
 '344': China, Hong Kong Special Administrative Region
 '348': Hungary
-'35': South-Eastern Asia
+'35': South-eastern Asia (M49-MDG)
 '352': Iceland
 '356': India
 '36': Australia
 '360': Indonesia
 '364': Iran (Islamic Republic of)
 '368': Iraq
-'369': Iraq (Central Iraq)
-'370': Iraq (Kurdistan Region)
 '372': Ireland
 '376': Israel
 '380': Italy
-'384': "C\xF4te d'Ivoire"
+'384': Côte d'Ivoire
 '388': Jamaica
-'39': Southern Europe
+'39': Southern Europe (M49)
 '392': Japan
 '398': Kazakhstan
 '4': Afghanistan
@@ -130,8 +127,8 @@
 '414': Kuwait
 '417': Kyrgyzstan
 '418': Lao People's Democratic Republic
-'419': Latin America and the Caribbean
-'420': Latin America
+'419': Latin America and the Caribbean (SDG-MDG)
+'420': Latin America (MDG)
 '422': Lebanon
 '426': Lesotho
 '428': Latvia
@@ -154,52 +151,49 @@
 '48': Bahrain
 '480': Mauritius
 '484': Mexico
-'485': Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)
-'487': Other non-OECD Asia
+'485': Western Asia, exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia (MDG)
 '492': Monaco
 '496': Mongolia
 '498': Republic of Moldova
 '499': Montenegro
-'5': South America
+'5': South America (M49)
 '50': Bangladesh
 '500': Montserrat
 '504': Morocco
 '508': Mozambique
 '51': Armenia
 '512': Oman
-'513': Europe and Northern America
-'514': Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia
-  & New Zealand)
-'515': Developing regions
+'513': Northern America and Europe (SDG)
+'514': Developed regions - Europe, Cyprus, Israel, Northern America, Japan, Australia
+  & New Zealand (MDG)
+'515': Developing regions (MDG)
 '516': Namibia
-'518': Eastern Asia (excluding Japan)
+'518': Eastern Asia, exc. Japan (MDG)
 '52': Barbados
 '520': Nauru
 '524': Nepal
-'527': Other non-OECD Oceania
 '528': Netherlands
-'53': Australia and New Zealand
-'530': Netherlands Antilles
-'531': "Cura\xE7ao"
+'53': Australia and New Zealand (SDG)
+'530': Netherlands Antilles [former, 1986 to 2010]
+'531': Curaçao
 '533': Aruba
 '534': Sint Maarten (Dutch part)
 '535': Bonaire, Sint Eustatius and Saba
-'54': Melanesia
+'54': Melanesia (M49)
 '540': New Caledonia
-'543': Oceania (exc. Australia and New Zealand)
+'543': Oceania, exc. Australia and New Zealand (SDG-MDG)
 '548': Vanuatu
 '554': New Zealand
 '558': Nicaragua
 '56': Belgium
 '562': Niger
 '566': Nigeria
-'57': Micronesia
+'57': Micronesia (M49)
 '570': Niue
 '574': Norfolk Island
-'577': Africa not elsewhere specified
 '578': Norway
 '580': Northern Mariana Islands
-'581': United States Minor Outlying Islands
+'581': United States minor outlying islands
 '583': Micronesia (Federated States of)
 '584': Marshall Islands
 '585': Palau
@@ -211,22 +205,21 @@
 '600': Paraguay
 '604': Peru
 '608': Philippines
-'61': Polynesia
+'61': Polynesia (M49)
 '612': Pitcairn
 '616': Poland
-'62': Central and Southern Asia
+'62': Central Asia and Southern Asia (SDG)
 '620': Portugal
 '624': Guinea-Bissau
 '626': Timor-Leste
 '630': Puerto Rico
 '634': Qatar
-'636': Other non-oecd Americas
-'638': "R\xE9union"
+'638': Réunion
 '64': Bhutan
 '642': Romania
 '643': Russian Federation
 '646': Rwanda
-'652': "Saint Barth\xE9lemy"
+'652': Saint Barthélemy
 '654': Saint Helena
 '659': Saint Kitts and Nevis
 '660': Anguilla
@@ -237,7 +230,6 @@
 '674': San Marino
 '678': Sao Tome and Principe
 '68': Bolivia (Plurinational State of)
-'680': Sark
 '682': Saudi Arabia
 '686': Senegal
 '688': Serbia
@@ -258,15 +250,14 @@
 '729': Sudan
 '732': Western Sahara
 '736': Sudan [former]
-'738': Sub-Saharan Africa (inc. Sudan)
-'74': Bouvet Island
+'738': Sub-Saharan Africa, inc. Sudan (MDG)
 '740': Suriname
 '744': Svalbard and Jan Mayen Islands
-'746': Northern Africa (exc. Sudan)
-'747': Northern Africa and Western Asia
-'748': Eswatini
+'746': Northern Africa, exc. Sudan (MDG)
+'747': Western Asia and Northern Africa (SDG)
+'748': Swaziland
 '752': Sweden
-'753': Eastern and South-Eastern Asia
+'753': Eastern Asia and South-eastern Asia (SDG)
 '756': Switzerland
 '76': Brazil
 '760': Syrian Arab Republic
@@ -285,12 +276,9 @@
 '8': Albania
 '800': Uganda
 '804': Ukraine
-'807': North Macedonia
+'807': The former Yugoslav Republic of Macedonia
 '818': Egypt
 '826': United Kingdom of Great Britain and Northern Ireland
-'827': United Kingdom (England and Wales)
-'828': United Kingdom (Northern Ireland)
-'829': United Kingdom (Scotland)
 '830': Channel Islands
 '831': Guernsey
 '832': Jersey
@@ -309,12 +297,10 @@
 '876': Wallis and Futuna Islands
 '882': Samoa
 '887': Yemen
-'889': World Trade Organization (WTO) Member States
-'890': Yugoslavia [former]
+'889': WTO Member States
 '891': Serbia and Montenegro [former]
 '894': Zambia
-'896': Areas not elsewhere specified
-'9': Oceania
+'9': Oceania (M49)
 '90': Solomon Islands
 '901': Africa (ILO)
 '902': Asia and the Pacific (ILO)
@@ -333,39 +319,8 @@
 '915': WTO Developing Member States
 '916': WTO Developed Member States
 '917': International Centers (FAO)
-'918': European Union (EU) Institutions
-'919': Regional Centres (FAO)
 '92': British Virgin Islands
-'920': Azores Islands
-'921': ODA residual
-'922': Custom groupings of data providers
-'951': Other Africa (IEA)
 '96': Brunei Darussalam
-'97': European Union
-'99018': 'FAO Major Fishing Area: Pacific, Eastern Central'
-'99019': 'FAO Major Fishing Area: Pacific, Northeast'
-'99020': 'FAO Major Fishing Area: Pacific, Northwest'
-'99021': 'FAO Major Fishing Area: Pacific, Western Central'
-'99022': 'FAO Major Fishing Area: Pacific, Southwest'
-'99023': 'FAO Major Fishing Area: Atlantic, Northwest'
-'99024': 'FAO Major Fishing Area: Atlantic, Northeast'
-'99025': 'FAO Major Fishing Area: Indian Ocean, Eastern'
-'99026': 'FAO Major Fishing Area: Atlantic, Southeast'
-'99027': 'FAO Major Fishing Area: Indian Ocean, Western'
-'99028': 'FAO Major Fishing Area: Atlantic, Western Central'
-'99029': 'FAO Major Fishing Area: Atlantic, Eastern Central'
-'99030': 'FAO Major Fishing Area: Atlantic, Southwest'
-'99031': 'FAO Major Fishing Area: Pacific, Southeast'
-'99032': 'FAO Major Fishing Area: Mediterranean and Black Sea'
-'99033': World Marine Bunkers
-'99034': World Aviation Bunkers
-'99035': 'Residual/unallocated ODA: Central Asia and Southern Asia'
-'99036': 'Residual/unallocated ODA: Eastern and South-eastern Asia'
-'99037': 'Residual/unallocated ODA: Latin America and the Caribbean'
-'99038': 'Residual/unallocated ODA: Oceania excl. Aus. and N. Zealand'
-'99039': 'Residual/unallocated ODA: Sub-Saharan Africa'
-'99040': "Residual/unallocated ODA: Western Asia\_and Northern Africa"
-'99041': Belgium and Luxembourg
 AD: Andorra
 AE: United Arab Emirates
 AF: Afghanistan
@@ -373,7 +328,7 @@ AG: Antigua and Barbuda
 AI: Anguilla
 AL: Albania
 AM: Armenia
-AN: Netherlands Antilles
+AN: Netherlands Antilles [former]
 AO: Angola
 AQ: Antarctica
 AR: Argentina
@@ -381,7 +336,7 @@ AS: American Samoa
 AT: Austria
 AU: Australia
 AW: Aruba
-AX: "\xC5land Islands"
+AX: Åland Islands
 AZ: Azerbaijan
 BA: Bosnia and Herzegovina
 BB: Barbados
@@ -392,7 +347,7 @@ BG: Bulgaria
 BH: Bahrain
 BI: Burundi
 BJ: Benin
-BL: "Saint Barth\xE9lemy"
+BL: Saint Barthélemy
 BM: Bermuda
 BN: Brunei Darussalam
 BO: Bolivia (Plurinational State of)
@@ -400,7 +355,6 @@ BQ: Bonaire, Sint Eustatius and Saba
 BR: Brazil
 BS: Bahamas
 BT: Bhutan
-BV: Bouvet Island
 BW: Botswana
 BY: Belarus
 BZ: Belize
@@ -410,7 +364,7 @@ CD: Democratic Republic of the Congo
 CF: Central African Republic
 CG: Congo
 CH: Switzerland
-CI: "C\xF4te d'Ivoire"
+CI: Côte d'Ivoire
 CK: Cook Islands
 CL: Chile
 CM: Cameroon
@@ -419,7 +373,7 @@ CO: Colombia
 CR: Costa Rica
 CU: Cuba
 CV: Cabo Verde
-CW: "Cura\xE7ao"
+CW: Curaçao
 CX: Christmas Island
 CY: Cyprus
 CZ: Czechia
@@ -485,6 +439,39 @@ JP: Japan
 KE: Kenya
 KG: Kyrgyzstan
 KH: Cambodia
+KH01: Banteay Meanchey
+KH02: Battambang
+KH03: Kampong Cham
+KH04: Kampong Chhnang
+KH05: Kampong Speu
+KH06: Kampong Thom
+KH07: Kampot
+KH08: Kandal
+KH09: Koh Kong
+KH10: Kratie
+KH11: Mondul Kiri
+KH12: Phnom Penh
+KH13: Preah Vihear
+KH14: Prey Veng
+KH15: Pursat
+KH16: Ratanak Kiri
+KH17: Siemreap
+KH18: Preah Sihanouk
+KH19: Stung Treng
+KH20: Svay Rieng
+KH21: Takeo
+KH22: Oddar Meanchey
+KH23: Kep
+KH24: Pailin
+KH25: Tboung Khmum
+KH_AGG_KH02_KH24: Battambang and Pailin
+KH_AGG_KH07_KH18_KH23: Kampot, Preah Sihanouk and Kep
+KH_AGG_KH07_KH23: Kampot and Kep
+KH_AGG_KH10_KH13_KH19: Kratie, Preah Vihear and Stung Treng
+KH_AGG_KH11_KH16: Mondul Kiri and Ratanak Kiri
+KH_AGG_KH13_KH19: Preah Vihear and Stung Treng
+KH_AGG_KH22_KH17: Otdar Meanchey and Siem Reap
+KH_KH09_KH18: Koh Kong and Preah Sihanouk
 KI: Kiribati
 KM: Comoros
 KN: Saint Kitts and Nevis
@@ -508,10 +495,10 @@ MA: Morocco
 MC: Monaco
 MD: Republic of Moldova
 ME: Montenegro
-MF: Saint Martin (French Part)
+MF: Saint Martin (French part)
 MG: Madagascar
 MH: Marshall Islands
-MK: North Macedonia
+MK: The former Yugoslav Republic of Macedonia
 ML: Mali
 MM: Myanmar
 MN: Mongolia
@@ -555,7 +542,7 @@ PT: Portugal
 PW: Palau
 PY: Paraguay
 QA: Qatar
-RE: "R\xE9union"
+RE: Réunion
 REF_AREA: Reference area
 RO: Romania
 RS: Serbia
@@ -581,10 +568,9 @@ ST: Sao Tome and Principe
 SV: El Salvador
 SX: Sint Maarten (Dutch part)
 SY: Syrian Arab Republic
-SZ: Eswatini
+SZ: Swaziland
 TC: Turks and Caicos Islands
 TD: Chad
-TF: French Southern Territories
 TG: Togo
 TH: Thailand
 TJ: Tajikistan
@@ -599,7 +585,7 @@ TV: Tuvalu
 TZ: United Republic of Tanzania
 UA: Ukraine
 UG: Uganda
-UM: United States Minor Outlying Islands
+UM: United States minor outlying islands
 US: United States of America
 UY: Uruguay
 UZ: Uzbekistan

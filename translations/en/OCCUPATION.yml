@@ -2,7 +2,6 @@ ISCO08_0: Armed forces occupations
 ISCO08_1: Managers
 ISCO08_2: Professionals
 ISCO08_221: Medical doctors
-ISCO08_2221_3221: Nursing personnel
 ISCO08_222_322: Nursing and midwifery personnel
 ISCO08_2261: Dentists
 ISCO08_2262: Pharmacists
@@ -39,4 +38,4 @@ ISCO88_8: Plant and machine operators and assemblers
 ISCO88_9: Elementary occupations
 ISCO88_X: Not elsewhere classified
 OCCUPATION: Occupation
-_T: All occupations or no breakdown by Occupation
+_T: Total or no breakdown by Occupation
