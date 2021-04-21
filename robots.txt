@@ -1,1 +1,1 @@
-Sitemap: /sdg-dsd-translations/sitemap.xml
+Sitemap: /sdg-dsd-translations-cambodia/sitemap.xml
