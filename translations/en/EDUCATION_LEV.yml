@@ -47,10 +47,8 @@ ISCED97_1: Primary education or first stage of basic education
 ISCED97_2: Lower secondary or second stage of basic education
 ISCED97_3: Upper secondary education
 ISCED97_4: Post-secondary non-tertiary education
-ISCED97_5: First stage of tertiary education (not leading directly to an advanced
-  research qualification)
+ISCED97_5: First stage of tertiary education (not leading directly to an advanced research qualification)
 ISCED97_5A: First stage of tertiary education (theoretically based/research preparatory)
-ISCED97_5B: First stage of tertiary education (practical/technical/occupationally
-  specific)
+ISCED97_5B: First stage of tertiary education (practical/technical/occupationally specific)
 ISCED97_6: Second stage of tertiary education (leading to an advanced research qualification)
 _T: Total or no breakdown by education level

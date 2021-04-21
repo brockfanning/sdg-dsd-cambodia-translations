@@ -102,22 +102,16 @@ NCD_CARDIO: 'Non-communicable disease: Cardiovascular disease'
 NCD_CNCR: 'Non-communicable disease: Cancer'
 NCD_CRESPD: 'Non-communicable disease: Chronic respiratory disease'
 NCD_DIABTS: 'Non-communicable disease: Diabetes'
-NCD_NCOM: 'Non-communicable disease: Cardiovascular disease, cancer, diabetes, or
-  chronic respiratory disease'
+NCD_NCOM: 'Non-communicable disease: Cardiovascular disease, cancer, diabetes, or chronic respiratory disease'
 SKILL_ICTATCH: 'Skill: ICT Skill: Sending e-mails with attached files'
 SKILL_ICTCDV: 'Skill: ICT Skill: connecting and installing new devices'
 SKILL_ICTCMFL: 'Skill: ICT Skill: Copying or moving a file or folder'
-SKILL_ICTCPT: 'Skill: ICT Skill: Using copy and paste tools to duplicate or move information
-  within a document'
-SKILL_ICTPRGM: 'Skill: ICT Skill: Writing a computer program using a specialized programming
-  language'
-SKILL_ICTPST: 'Skill: ICT Skill: Creating electronic presentations with presentation
-  software'
-SKILL_ICTSFWR: 'Skill: ICT Skill: Finding, downloading, installing and configuring
-  software'
+SKILL_ICTCPT: 'Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document'
+SKILL_ICTPRGM: 'Skill: ICT Skill: Writing a computer program using a specialized programming language'
+SKILL_ICTPST: 'Skill: ICT Skill: Creating electronic presentations with presentation software'
+SKILL_ICTSFWR: 'Skill: ICT Skill: Finding, downloading, installing and configuring software'
 SKILL_ICTSSHT: 'Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet'
-SKILL_ICTTRFF: 'Skill: ICT Skill: Transferring files between a computer and other
-  devices'
+SKILL_ICTTRFF: 'Skill: ICT Skill: Transferring files between a computer and other devices'
 SKILL_LTRCY: 'Skill: Functional literacy'
 SKILL_MATH: 'Skill: Minimum proficiency in mathematics'
 SKILL_NMRCY: 'Skill: Functional numeracy'
