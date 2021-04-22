@@ -787,273 +787,273 @@
         <structure:Code id="C">
           <common:Name xml:lang="en">Country Data</common:Name>
           <common:Description xml:lang="en">Country Data</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ទិន្នន័យប្រទេស</common:Name></structure:Code>
         <structure:Code id="CA">
           <common:Name xml:lang="en">Country Adjusted</common:Name>
           <common:Description xml:lang="en">Country Adjusted</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">កែសំរួលប្រទេស</common:Name></structure:Code>
         <structure:Code id="E">
           <common:Name xml:lang="en">Estimated</common:Name>
           <common:Description xml:lang="en">Estimated</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៉ាន់ស្មាន</common:Name></structure:Code>
         <structure:Code id="G">
           <common:Name xml:lang="en">Global monitoring data</common:Name>
           <common:Description xml:lang="en">Global monitoring data</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ទិន្នន័យត្រួតពិនិត្យសកល</common:Name></structure:Code>
         <structure:Code id="M">
           <common:Name xml:lang="en">Modeled</common:Name>
           <common:Description xml:lang="en">Modeled</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">យកគំរូតាម</common:Name></structure:Code>
         <structure:Code id="N">
           <common:Name xml:lang="en">Non-relevant</common:Name>
           <common:Description xml:lang="en">Non-relevant</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនទាក់ទង</common:Name></structure:Code>
         <structure:Code id="_X">
           <common:Name xml:lang="en">Not Available</common:Name>
           <common:Description xml:lang="en">Not Available</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនអាច</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="IAEG-SDGs" id="CL_OCCUPATION" isFinal="true" version="1.0">
         <common:Name xml:lang="en">Job or position held by an individual who performs a set of tasks and duties. Based on the ISCO classification.</common:Name>
         <structure:Code id="_T">
           <common:Name xml:lang="en">Total or no breakdown by Occupation</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សរុបឬគ្មានការវិភាគដោយការកាន់កាប់</common:Name></structure:Code>
         <structure:Code id="ISCO08_0">
           <common:Name xml:lang="en">Armed forces occupations</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មុខរបររបស់កងកម្លាំងប្រដាប់អាវុធ</common:Name></structure:Code>
         <structure:Code id="ISCO08_1">
           <common:Name xml:lang="en">Managers</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ្នកគ្រប់គ្រង</common:Name></structure:Code>
         <structure:Code id="ISCO08_2">
           <common:Name xml:lang="en">Professionals</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ្នកជំនាញ</common:Name></structure:Code>
         <structure:Code id="ISCO08_3">
           <common:Name xml:lang="en">Technicians and associate professionals</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ្នកបច្ចេកទេសនិងវិជ្ជាជីវៈជាសហការី</common:Name></structure:Code>
         <structure:Code id="ISCO08_4">
           <common:Name xml:lang="en">Clerical support workers</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បុគ្គលិកជំនួយការស្មៀន</common:Name></structure:Code>
         <structure:Code id="ISCO08_5">
           <common:Name xml:lang="en">Service and sales workers</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ្នកផ្តល់សេវាកម្មនិងអ្នកលក់</common:Name></structure:Code>
         <structure:Code id="ISCO08_6">
           <common:Name xml:lang="en">Skilled agricultural, forestry and fishery workers</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ្នកធ្វើការផ្នែកកសិកម្មរុក្ខាប្រមាញ់និងនេសាទជំនាញ</common:Name></structure:Code>
         <structure:Code id="ISCO08_7">
           <common:Name xml:lang="en">Craft and related trades workers</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សិប្បករនិងអ្នកធ្វើការផ្នែកអាជីវកម្មដែលពាក់ព័ន្ធ</common:Name></structure:Code>
         <structure:Code id="ISCO08_8">
           <common:Name xml:lang="en">Plant and machine operators, and assemblers</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ្នកបញ្ជាម៉ាស៊ីននិងម៉ាស៊ីននិងអ្នកប្រមូលផ្តុំ</common:Name></structure:Code>
         <structure:Code id="ISCO08_9">
           <common:Name xml:lang="en">Elementary occupations</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មុខរបរបឋម</common:Name></structure:Code>
         <structure:Code id="ISCO08_X">
           <common:Name xml:lang="en">Not elsewhere classified</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនត្រូវបានចាត់ថ្នាក់ផ្សេងទៀតទេ</common:Name></structure:Code>
         <structure:Code id="ISCO08_2261">
           <common:Name xml:lang="en">Dentists</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ទន្តពេទ្យ</common:Name></structure:Code>
         <structure:Code id="ISCO08_2262">
           <common:Name xml:lang="en">Pharmacists</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ឱសថការី</common:Name></structure:Code>
         <structure:Code id="ISCO08_221">
           <common:Name xml:lang="en">Medical doctors</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">វេជ្ជបណ្ឌិត</common:Name></structure:Code>
         <structure:Code id="ISCO08_222_322">
           <common:Name xml:lang="en">Nursing and midwifery personnel</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បុគ្គលិកថែទាំនិងឆ្មប</common:Name></structure:Code>
         <structure:Code id="ISCO68_0-1">
           <common:Name xml:lang="en">Professional, technical and related workers</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កម្មករជំនាញបច្ចេកទេសនិងពាក់ព័ន្ធ</common:Name></structure:Code>
         <structure:Code id="ISCO68_2">
           <common:Name xml:lang="en">Administrative and managerial workers</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កម្មកររដ្ឋបាលនិងអ្នកគ្រប់គ្រង</common:Name></structure:Code>
         <structure:Code id="ISCO68_3">
           <common:Name xml:lang="en">Clerical and related workers</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្មៀននិងអ្នកធ្វើការដែលពាក់ព័ន្ធ</common:Name></structure:Code>
         <structure:Code id="ISCO68_4">
           <common:Name xml:lang="en">Sales workers</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កម្មករលក់</common:Name></structure:Code>
         <structure:Code id="ISCO68_5">
           <common:Name xml:lang="en">Service workers</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ្នកធ្វើការផ្នែកសេវាកម្ម</common:Name></structure:Code>
         <structure:Code id="ISCO68_6">
           <common:Name xml:lang="en">Agriculture, animal husbandry and forestry workers, fishermen and hunters</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កសិកម្មអ្នកចិញ្ចឹមសត្វនិងអ្នកធ្វើការផ្នែកព្រៃឈើអ្នកនេសាទនិងអ្នកប្រមាញ់</common:Name></structure:Code>
         <structure:Code id="ISCO68_7-9">
           <common:Name xml:lang="en">Production and related workers, transport equipment operators and labourers</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ្នកផលិតនិងកម្មករដែលពាក់ព័ន្ធប្រតិបត្តិករឧបករណ៍ដឹកជញ្ជូននិងកម្មករ</common:Name></structure:Code>
         <structure:Code id="ISCO68_AF">
           <common:Name xml:lang="en">Armed Forces</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កងកម្លាំងប្រដាប់អាវុធ</common:Name></structure:Code>
         <structure:Code id="ISCO68_X">
           <common:Name xml:lang="en">Not elsewhere classified</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនត្រូវបានចាត់ថ្នាក់ផ្សេងទៀតទេ</common:Name></structure:Code>
         <structure:Code id="ISCO88_0">
           <common:Name xml:lang="en">Armed forces</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កងកម្លាំងប្រដាប់អាវុធ</common:Name></structure:Code>
         <structure:Code id="ISCO88_1">
           <common:Name xml:lang="en">Legislators, senior officials and managers</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ្នកតាក់តែងច្បាប់មន្ត្រីជាន់ខ្ពស់និងអ្នកគ្រប់គ្រង</common:Name></structure:Code>
         <structure:Code id="ISCO88_2">
           <common:Name xml:lang="en">Professionals</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ្នកជំនាញ</common:Name></structure:Code>
         <structure:Code id="ISCO88_3">
           <common:Name xml:lang="en">Technicians and associate professionals</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ្នកបច្ចេកទេសនិងវិជ្ជាជីវៈជាសហការី</common:Name></structure:Code>
         <structure:Code id="ISCO88_4">
           <common:Name xml:lang="en">Clerks</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្មៀន</common:Name></structure:Code>
         <structure:Code id="ISCO88_5">
           <common:Name xml:lang="en">Service workers and shop and market sales workers</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ្នកធ្វើការផ្នែកសេវាកម្មនិងអ្នកធ្វើការផ្នែកលក់ដូរនិងផ្សារ</common:Name></structure:Code>
         <structure:Code id="ISCO88_6">
           <common:Name xml:lang="en">Skilled agricultural and fishery workers</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ្នកធ្វើការផ្នែកកសិកម្មនិងនេសាទជំនាញ</common:Name></structure:Code>
         <structure:Code id="ISCO88_7">
           <common:Name xml:lang="en">Craft and related trades workers</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សិប្បករនិងអ្នកធ្វើការផ្នែកអាជីវកម្មដែលពាក់ព័ន្ធ</common:Name></structure:Code>
         <structure:Code id="ISCO88_8">
           <common:Name xml:lang="en">Plant and machine operators and assemblers</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ្នកបញ្ជាម៉ាស៊ីននិងអ្នកដំឡើងម៉ាស៊ីននិងម៉ាស៊ីន</common:Name></structure:Code>
         <structure:Code id="ISCO88_9">
           <common:Name xml:lang="en">Elementary occupations</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មុខរបរបឋម</common:Name></structure:Code>
         <structure:Code id="ISCO88_X">
           <common:Name xml:lang="en">Not elsewhere classified</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនត្រូវបានចាត់ថ្នាក់ផ្សេងទៀតទេ</common:Name></structure:Code>
         <structure:Code id="ISCO88_2221">
           <common:Name xml:lang="en">Medical doctors</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">វេជ្ជបណ្ឌិត</common:Name></structure:Code>
         <structure:Code id="ISCO88_2222">
           <common:Name xml:lang="en">Dentists</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ទន្តពេទ្យ</common:Name></structure:Code>
         <structure:Code id="ISCO88_2224">
           <common:Name xml:lang="en">Pharmacists</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ឱសថការី</common:Name></structure:Code>
         <structure:Code id="ISCO88_223">
           <common:Name xml:lang="en">Nursing and midwifery professionals</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ្នកជំនាញផ្នែកថែទាំនិងឆ្មប</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="IAEG-SDGs" id="CL_PRODUCT" isFinal="true" version="1.0">
         <common:Name xml:lang="en">SDG Type of product code list</common:Name>
         <structure:Code id="_T">
           <common:Name xml:lang="en">No breakdown</common:Name>
           <common:Description xml:lang="en">No breakdown</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនមានការបែកបាក់</common:Name></structure:Code>
         <structure:Code id="AGG_ARMS">
           <common:Name xml:lang="en">Arms</common:Name>
           <common:Description xml:lang="en">Arms</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាវុធ</common:Name></structure:Code>
         <structure:Code id="AGG_CLTH">
           <common:Name xml:lang="en">Clothing</common:Name>
           <common:Description xml:lang="en">Clothing</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សម្លៀកបំពាក់</common:Name></structure:Code>
         <structure:Code id="AGG_IND">
           <common:Name xml:lang="en">Industrial products</common:Name>
           <common:Description xml:lang="en">Industrial products</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ផលិតផលឧស្សាហកម្ម</common:Name></structure:Code>
         <structure:Code id="AGG_AGR">
           <common:Name xml:lang="en">Agriculture products</common:Name>
           <common:Description xml:lang="en">Agriculture products</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ផលិតផលកសិកម្ម</common:Name></structure:Code>
         <structure:Code id="AGG_OIL">
           <common:Name xml:lang="en">Oil</common:Name>
           <common:Description xml:lang="en">Oil</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រេង</common:Name></structure:Code>
         <structure:Code id="AGG_TXT">
           <common:Name xml:lang="en">Textiles</common:Name>
           <common:Description xml:lang="en">Textiles</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">វាយនភ័ណ្ឌ</common:Name></structure:Code>
         <structure:Code id="CPC2_1_112">
           <common:Name xml:lang="en">Maize</common:Name>
           <common:Description xml:lang="en">Maize</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ពោត</common:Name></structure:Code>
         <structure:Code id="CPC2_1_118">
           <common:Name xml:lang="en">Millet</common:Name>
           <common:Description xml:lang="en">Millet</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មីល</common:Name></structure:Code>
         <structure:Code id="CPC2_1_113">
           <common:Name xml:lang="en">Rice</common:Name>
           <common:Description xml:lang="en">Rice</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្រូវ</common:Name></structure:Code>
         <structure:Code id="CPC2_1_114">
           <common:Name xml:lang="en">Sorghum</common:Name>
           <common:Description xml:lang="en">Sorghum</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដុកទ័រ</common:Name></structure:Code>
         <structure:Code id="CPC2_1_111">
           <common:Name xml:lang="en">Wheat</common:Name>
           <common:Description xml:lang="en">Wheat</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្រូវសាលី</common:Name></structure:Code>
         <structure:Code id="MF1">
           <common:Name xml:lang="en">Biomass (material flows)</common:Name>
           <common:Description xml:lang="en">Biomass (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជីវម៉ាស (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF2">
           <common:Name xml:lang="en">Metal ores (material flows)</common:Name>
           <common:Description xml:lang="en">Metal ores (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រ៉ែដែក (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF3">
           <common:Name xml:lang="en">Non-metallic minerals (material flows)</common:Name>
           <common:Description xml:lang="en">Non-metallic minerals (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រ៉ែមិនមែនលោហធាតុ (លំហូរវត្ថុធាតុដើម)</common:Name></structure:Code>
         <structure:Code id="MF4">
           <common:Name xml:lang="en">Fossil fuels (material flows)</common:Name>
           <common:Description xml:lang="en">Fossil fuels (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ឥន្ធនៈហ្វូស៊ីល (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF121">
           <common:Name xml:lang="en">Crop residues (material flows)</common:Name>
           <common:Description xml:lang="en">Crop residues (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សំណល់ដំណាំ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF11">
           <common:Name xml:lang="en">Crops (material flows)</common:Name>
           <common:Description xml:lang="en">Crops (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដំណាំ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF122">
           <common:Name xml:lang="en">Grazed biomass and fodder crops (material flows)</common:Name>
           <common:Description xml:lang="en">Grazed biomass and fodder crops (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជីវម៉ាស់និងដំណាំចំណី (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF14">
           <common:Name xml:lang="en">Wild catch and harvest (material flows)</common:Name>
           <common:Description xml:lang="en">Wild catch and harvest (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការចាប់និងការប្រមូលផលព្រៃ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF13">
           <common:Name xml:lang="en">Wood (material flows)</common:Name>
           <common:Description xml:lang="en">Wood (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ឈើ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF41">
           <common:Name xml:lang="en">Coal (material flows)</common:Name>
           <common:Description xml:lang="en">Coal (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ធ្យូងថ្ម (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF422">
           <common:Name xml:lang="en">Natural gas (material flows)</common:Name>
           <common:Description xml:lang="en">Natural gas (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ឧស្ម័នធម្មជាតិ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF413">
           <common:Name xml:lang="en">Oil shale and tar sands (material flows)</common:Name>
           <common:Description xml:lang="en">Oil shale and tar sands (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដីខ្សាច់និងដីខ្សាច់ (លំហូរវត្ថុធាតុដើម)</common:Name></structure:Code>
         <structure:Code id="MF421">
           <common:Name xml:lang="en">Petroleum (material flows)</common:Name>
           <common:Description xml:lang="en">Petroleum (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រេងឥន្ធនៈ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF21">
           <common:Name xml:lang="en">Ferrous ores (material flows)</common:Name>
           <common:Description xml:lang="en">Ferrous ores (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រ៉ែដែក (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF22">
           <common:Name xml:lang="en">Non-ferrous ores (material flows)</common:Name>
           <common:Description xml:lang="en">Non-ferrous ores (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រ៉ែដែលមិនមែនជាជាតិដែក (លំហូរវត្ថុធាតុដើម)</common:Name></structure:Code>
         <structure:Code id="MF_AGG3A">
           <common:Name xml:lang="en">Non-metallic minerals - construction dominant (material flows)</common:Name>
           <common:Description xml:lang="en">Non-metallic minerals - construction dominant (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រ៉ែមិនមែនលោហធាតុ - សំណង់លេចធ្លោ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF_AGG3B">
           <common:Name xml:lang="en">Non-metallic minerals - industrial or agricultural dominant (material flows)</common:Name>
           <common:Description xml:lang="en">Non-metallic minerals - industrial or agricultural dominant (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រ៉ែមិនមែនលោហធាតុ - ឥទ្ធិពលឧស្សាហកម្មឬកសិកម្ម (លំហូរវត្ថុធាតុដើម)</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="IAEG-SDGs" id="CL_QUANTILE" isFinal="true" version="1.2">
         <common:Name xml:lang="en">Income/wealth quantile code list</common:Name>
@@ -1066,7 +1066,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Total (national average) or no breakdown</common:Name>
           <common:Description xml:lang="en">Total (national average) or no breakdown</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សរុប (មធ្យមថ្នាក់ជាតិ) ឬគ្មានការវិភាគ</common:Name></structure:Code>
         <structure:Code id="Q1">
           <common:Annotations>
             <common:Annotation>
@@ -1076,7 +1076,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Quintile 1 (poorest)</common:Name>
           <common:Description xml:lang="en">Quintile 1 (poorest)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ឃ្វីនទី ១ (ក្របំផុត)</common:Name></structure:Code>
         <structure:Code id="Q2">
           <common:Annotations>
             <common:Annotation>
@@ -1086,7 +1086,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Quintile 2</common:Name>
           <common:Description xml:lang="en">Quintile 2</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ឃ្វីនទី ២</common:Name></structure:Code>
         <structure:Code id="Q3">
           <common:Annotations>
             <common:Annotation>
@@ -1096,7 +1096,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Quintile 3</common:Name>
           <common:Description xml:lang="en">Quintile 3</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ឃ្វីនទី ៣</common:Name></structure:Code>
         <structure:Code id="Q4">
           <common:Annotations>
             <common:Annotation>
@@ -1106,7 +1106,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Quintile 4</common:Name>
           <common:Description xml:lang="en">Quintile 4</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ឃ្វីនទី ៤</common:Name></structure:Code>
         <structure:Code id="Q5">
           <common:Annotations>
             <common:Annotation>
@@ -1116,7 +1116,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Quintile 5 (richest)</common:Name>
           <common:Description xml:lang="en">Quintile 5 (richest)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ឃ្វីនទី ៥ (មានជាងគេបំផុត)</common:Name></structure:Code>
         <structure:Code id="B40">
           <common:Annotations>
             <common:Annotation>
@@ -1126,7 +1126,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Bottom 40%</common:Name>
           <common:Description xml:lang="en">Bottom 40%</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">បាត ៤០%</common:Name></structure:Code>
         <structure:Code id="R60">
           <common:Annotations>
             <common:Annotation>
@@ -1136,7 +1136,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Richest 60%</common:Name>
           <common:Description xml:lang="en">Richest 60%</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">៦០%</common:Name></structure:Code>
         <structure:Code id="B50">
           <common:Annotations>
             <common:Annotation>
@@ -1146,7 +1146,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Bottom 50%</common:Name>
           <common:Description xml:lang="en">Bottom 50%</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្រោម ៥០%</common:Name></structure:Code>
         <structure:Code id="R50">
           <common:Annotations>
             <common:Annotation>
@@ -1156,7 +1156,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Richest 50%</common:Name>
           <common:Description xml:lang="en">Richest 50%</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">៥០ ភាគរយបំផុត</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="IAEG-SDGs" id="CL_REPORTING_TYPE" isFinal="true" version="1.0">
         <common:Name xml:lang="en">Reporting type code list</common:Name>
@@ -6232,83 +6232,83 @@
         <structure:Code id="A">
           <common:Name xml:lang="en">Normal value</common:Name>
           <common:Description xml:lang="en">To be used as default value if no value is provided or when no special coded qualification is assumed. Usually, it can be assumed that the source agency assigns sufficient confidence to the provided observation and/or the value is not expected to be dramatically revised.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">តម្លៃធម្មតា</common:Name></structure:Code>
         <structure:Code id="B">
           <common:Name xml:lang="en">Time series break</common:Name>
           <common:Description xml:lang="en">Observations are characterised as such when different content exists or a different methodology has been applied to this observation as compared with the preceding one (the one given for the previous period).</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការសម្រាកស៊េរីពេលវេលា</common:Name></structure:Code>
         <structure:Code id="D">
           <common:Name xml:lang="en">Definition differs</common:Name>
           <common:Description xml:lang="en">Used to indicate slight deviations from the established methodology (footnote-type information); these divergences do not imply a break in time series.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">និយមន័យខុសគ្នា</common:Name></structure:Code>
         <structure:Code id="E">
           <common:Name xml:lang="en">Estimated value</common:Name>
           <common:Description xml:lang="en">Observation obtained through an estimation methodology (e.g. to produce back-casts) or based on the use of a limited amount of data or ad hoc sampling and through additional calculations (e.g. to produce a value at an early stage of the production stage while not all data are available). It may also be used in case of experimental data (e.g. in the context of a pilot ahead of a full scale production process) or in case of data of (anticipated/assessed) low quality. If needed, additional information can be provided through free text using the COMMENT_OBS attribute at the observation level or at a higher level.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">តម្លៃប៉ាន់ស្មាន</common:Name></structure:Code>
         <structure:Code id="F">
           <common:Name xml:lang="en">Forecast value</common:Name>
           <common:Description xml:lang="en">Value deemed to assess the magnitude which a quantity will assume at some future point of time (as distinct from "estimated value" which attempts to assess the magnitude of an already existent quantity).</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">តម្លៃព្យាករណ៍</common:Name></structure:Code>
         <structure:Code id="G">
           <common:Name xml:lang="en">Experimental value</common:Name>
           <common:Description xml:lang="en">Data collected on the basis of definitions or (alternative) collection methods under development. Data not of guaranteed quality as normally expected from provider.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">តម្លៃពិសោធន៍</common:Name></structure:Code>
         <structure:Code id="H">
           <common:Name xml:lang="en">Missing value; holiday or weekend</common:Name>
           <common:Description xml:lang="en">Used in some daily data flows.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">បាត់តម្លៃ; ថ្ងៃឈប់សម្រាកឬចុងសប្តាហ៍</common:Name></structure:Code>
         <structure:Code id="I">
           <common:Name xml:lang="en">Imputed value (CCSA definition)</common:Name>
           <common:Description xml:lang="en">Observation imputed by international organisations to replace or fill gaps in national data series, in line with the recommendations of the United Nations Committee for the Coordination of Statistical Activities (CCSA).</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">គុណតម្លៃ (និយមន័យស៊ីស៊ីស៊ីស៊ី)</common:Name></structure:Code>
         <structure:Code id="J">
           <common:Name xml:lang="en">Derogation</common:Name>
           <common:Description xml:lang="en">Clause in an agreement (e.g. legal act, gentlemen's agreement) stating that some provisions in the agreement are not to be implemented by designated parties; these derogations may affect the observation or cause a missing value. In general, derogations are limited in time.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការបោកប្រាស់</common:Name></structure:Code>
         <structure:Code id="K">
           <common:Name xml:lang="en">Data included in another category</common:Name>
           <common:Description xml:lang="en">This code is used when data for a given category are missing and are included in another category, sub-total or total. Generally where code "K" is used there should be a corresponding code "W - Includes data from another category" assigned to the over-covered category. Implementers and data reporters should use the COMMENT_OBS observation-level attribute to specify under which category the data are included.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ទិន្នន័យត្រូវបានបញ្ចូលទៅក្នុងប្រភេទផ្សេងទៀត</common:Name></structure:Code>
         <structure:Code id="L">
           <common:Name xml:lang="en">Missing value; data exist but were not collected</common:Name>
           <common:Description xml:lang="en">Used, for example, when some data are not reported/disseminated because they are below a certain threshold.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">បាត់តម្លៃ; ទិន្នន័យមានប៉ុន្តែមិនត្រូវបានប្រមូល</common:Name></structure:Code>
         <structure:Code id="M">
           <common:Name xml:lang="en">Missing value; data cannot exist</common:Name>
           <common:Description xml:lang="en">Used to denote empty cells resulting from the impossibility to collect a statistical value (e.g. a particular education level or type of institution may be not applicable to a given country's education system).</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">បាត់តម្លៃ; ទិន្នន័យមិនអាចមានទេ</common:Name></structure:Code>
         <structure:Code id="N">
           <common:Name xml:lang="en">Not significant</common:Name>
           <common:Description xml:lang="en">Used to indicate a value which is not a "real" zero (e.g. a result of 0.0004 rounded to zero).</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនសំខាន់</common:Name></structure:Code>
         <structure:Code id="O">
           <common:Name xml:lang="en">Missing value</common:Name>
           <common:Description xml:lang="en">This code is to be used when no breakdown is made between the reasons why data are missing. Data can be missing due to many reasons: data cannot exist, data exist but are not collected (e.g. because they are below a certain threshold or subject to a derogation clause), data are unreliable, etc.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">បាត់តម្លៃ</common:Name></structure:Code>
         <structure:Code id="P">
           <common:Name xml:lang="en">Provisional value</common:Name>
           <common:Description xml:lang="en">An observation is characterised as "provisional" when the source agency - while it bases its calculations on its standard production methodology - considers that the data, almost certainly, are expected to be revised.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">តម្លៃបណ្តោះអាសន្ន</common:Name></structure:Code>
         <structure:Code id="Q">
           <common:Name xml:lang="en">Missing value; suppressed</common:Name>
           <common:Description xml:lang="en">Used, for example, when data are suppressed due to statistical confidentiality considerations.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">បាត់តម្លៃ; បង្ក្រាប</common:Name></structure:Code>
         <structure:Code id="S">
           <common:Name xml:lang="en">Strike and other special events</common:Name>
           <common:Description xml:lang="en">Special circumstances (e.g. strike) affecting the observation or causing a missing value.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">កូដកម្មនិងព្រឹត្តិការណ៍ពិសេសផ្សេងទៀត</common:Name></structure:Code>
         <structure:Code id="U">
           <common:Name xml:lang="en">Low reliability</common:Name>
           <common:Description xml:lang="en">This indicates existing observations, but for which the user should also be aware of the low quality assigned.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ភាពជឿជាក់ទាប</common:Name></structure:Code>
         <structure:Code id="V">
           <common:Name xml:lang="en">Unvalidated value</common:Name>
           <common:Description xml:lang="en">Observation as received from the respondent without further evaluation of data quality.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">តម្លៃដែលមិនបានវាយតម្លៃ</common:Name></structure:Code>
         <structure:Code id="W">
           <common:Name xml:lang="en">Includes data from another category</common:Name>
           <common:Description xml:lang="en">This code is used when data include another category, or go beyond the scope of the data collection and are therefore over-covered. Generally, where code "W" is used there should be a corresponding code "K - Data included in another category" assigned to the category which is under-covered. Implementers and data reporters should use the COMMENT_OBS observation-level attribute to specify which additional data are included.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រួមបញ្ចូលទិន្នន័យពីប្រភេទផ្សេងទៀត</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="SDMX" id="CL_UNIT_MULT" isFinal="true" version="1.1">
         <common:Name xml:lang="en">Unit Multiplier</common:Name>
