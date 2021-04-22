@@ -5937,211 +5937,211 @@
         <structure:Code id="CON_USD">
           <common:Name xml:lang="en">Constant USD</common:Name>
           <common:Description xml:lang="en">Constant USD</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដុល្លារថេរ</common:Name></structure:Code>
         <structure:Code id="HA">
           <common:Name xml:lang="en">Hectares</common:Name>
           <common:Description xml:lang="en">Hectares</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ហិកតា</common:Name></structure:Code>
         <structure:Code id="INDEX">
           <common:Name xml:lang="en">Index</common:Name>
           <common:Description xml:lang="en">Index</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សន្ទស្សន៍</common:Name></structure:Code>
         <structure:Code id="KG_CO2_PER_GDP_CON_PPP_USD">
           <common:Name xml:lang="en">kg CO2 equivalent per USD1 constant PPP GDP</common:Name>
           <common:Description xml:lang="en">kg CO2 equivalent per USD1 constant PPP GDP</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សមមូលឧស្ម័នកាបូនិកក្នុងមួយផ។ ស។ សថេរភីភី ១ ដុល្លារ</common:Name></structure:Code>
         <structure:Code id="KG_OE_PER_GDP_CON_PPP_USD">
           <common:Name xml:lang="en">kg oil equivalent per USD1,000 constant PPP GDP</common:Name>
           <common:Description xml:lang="en">kg oil equivalent per USD1,000 constant PPP GDP</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សមមូលប្រេងក្នុងមួយផ។ ស។ ស។ ភី។ ភីថេរ ១.០០០ ដុល្លារ</common:Name></structure:Code>
         <structure:Code id="KG">
           <common:Name xml:lang="en">Kilograms</common:Name>
           <common:Description xml:lang="en">Kilograms</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">គីឡូក្រាម</common:Name></structure:Code>
         <structure:Code id="KG_PER_CON_USD">
           <common:Name xml:lang="en">Kilograms per constant USD</common:Name>
           <common:Description xml:lang="en">Kilograms per constant USD</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">គីឡូក្រាមក្នុងមួយដុល្លារថេរ</common:Name></structure:Code>
         <structure:Code id="KM">
           <common:Name xml:lang="en">Kilometers</common:Name>
           <common:Description xml:lang="en">Kilometers</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">គីឡូម៉ែត្រ</common:Name></structure:Code>
         <structure:Code id="KM2">
           <common:Name xml:lang="en">Square kilometers</common:Name>
           <common:Description xml:lang="en">Square kilometers</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">គីឡូម៉ែត្រ​ការ៉េ</common:Name></structure:Code>
         <structure:Code id="LITRES_PURE_ALCOHOL">
           <common:Name xml:lang="en">Litres pure alcohol</common:Name>
           <common:Description xml:lang="en">Litres pure alcohol</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">លីត្រអាល់កុលសុទ្ធ</common:Name></structure:Code>
         <structure:Code id="CUR_LCU">
           <common:Name xml:lang="en">Local currency</common:Name>
           <common:Description xml:lang="en">Local currency</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រូបិយប័ណ្ណ​ក្នុងស្រុក</common:Name></structure:Code>
         <structure:Code id="LCU_PPP_USD">
           <common:Name xml:lang="en">Local currency per USD (PPP)</common:Name>
           <common:Description xml:lang="en">Local currency per USD (PPP)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រូបិយប័ណ្ណក្នុងស្រុកក្នុងមួយដុល្លារ (ភីភីភី)</common:Name></structure:Code>
         <structure:Code id="MJ_PER_GDP_CON_PPP_USD">
           <common:Name xml:lang="en">Megajoules per USD constant PPP GDP</common:Name>
           <common:Description xml:lang="en">Megajoules per USD constant PPP GDP</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មេហ្គាហ្កាលក្នុងមួយភី។ ភី។ ភី។ ភីថេរ</common:Name></structure:Code>
         <structure:Code id="T">
           <common:Name xml:lang="en">Metric Tons</common:Name>
           <common:Description xml:lang="en">Metric Tons</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">តោន</common:Name></structure:Code>
         <structure:Code id="GPERM3">
           <common:Name xml:lang="en">Micrograms per cubic meter</common:Name>
           <common:Description xml:lang="en">Micrograms per cubic meter</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មីក្រូក្រាមក្នុងមួយម៉ែត្រគូប</common:Name></structure:Code>
         <structure:Code id="NA">
           <common:Name xml:lang="en">Not applicable</common:Name>
           <common:Description xml:lang="en">Not applicable</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនអាចអនុវត្តបាន</common:Name></structure:Code>
         <structure:Code id="NUMBER">
           <common:Name xml:lang="en">Number</common:Name>
           <common:Description xml:lang="en">Number</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ចំនួន</common:Name></structure:Code>
         <structure:Code id="USD_GDP_PPP">
           <common:Name xml:lang="en">Per 1 USD GDP (PPP)</common:Name>
           <common:Description xml:lang="en">Per 1 USD GDP (PPP)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្នុង ១ ដុល្លារអាមេរិក (ភី។ ភី។ ភី)</common:Name></structure:Code>
         <structure:Code id="PER_1000_LIVE_BIRTHS">
           <common:Name xml:lang="en">Per 1,000 live births</common:Name>
           <common:Description xml:lang="en">Per 1,000 live births</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្នុង ១.០០០ កំណើតរស់</common:Name></structure:Code>
         <structure:Code id="PER_1000_POP">
           <common:Name xml:lang="en">Per 1,000 population</common:Name>
           <common:Description xml:lang="en">Per 1,000 population</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្នុង ១.០០០ នាក់</common:Name></structure:Code>
         <structure:Code id="PER_1000_USD">
           <common:Name xml:lang="en">Per 1,000 USD</common:Name>
           <common:Description xml:lang="en">Per 1,000 USD</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្នុង ១.០០០ ដុល្លារ</common:Name></structure:Code>
         <structure:Code id="PER_1000_UNINFECTED_POP">
           <common:Name xml:lang="en">Per 1,000 uninfected population</common:Name>
           <common:Description xml:lang="en">Per 1,000 uninfected population</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្នុងចំណោមប្រជាជន ១០០០ នាក់ដែលមិនបានឆ្លងរោគ</common:Name></structure:Code>
         <structure:Code id="PER_100_LIVE_BIRTHS">
           <common:Name xml:lang="en">Per 100 live births</common:Name>
           <common:Description xml:lang="en">Per 100 live births</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្នុង ១០០ កំណើតរស់</common:Name></structure:Code>
         <structure:Code id="PER_100_POP">
           <common:Name xml:lang="en">Per 100 population</common:Name>
           <common:Description xml:lang="en">Per 100 population</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្នុង ១០០ នាក់</common:Name></structure:Code>
         <structure:Code id="PER_100000_EMP">
           <common:Name xml:lang="en">Per 100,000 employees</common:Name>
           <common:Description xml:lang="en">Per 100,000 employees</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្នុងមួយ 100,000 បុគ្គលិក</common:Name></structure:Code>
         <structure:Code id="PER_100000_FTE">
           <common:Name xml:lang="en">Per 100,000 full-time equivalents</common:Name>
           <common:Description xml:lang="en">Per 100,000 full-time equivalents</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្នុងចំនួន ១០០,០០០ សមមូលពេញម៉ោង</common:Name></structure:Code>
         <structure:Code id="PER_100000_LIVE_BIRTHS">
           <common:Name xml:lang="en">Per 100,000 live births</common:Name>
           <common:Description xml:lang="en">Per 100,000 live births</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្នុងមួយកំណើតរស់ ១០០.០០០ នាក់</common:Name></structure:Code>
         <structure:Code id="PER_100000_PRSN_INSR">
           <common:Name xml:lang="en">Per 100,000 persons insured</common:Name>
           <common:Description xml:lang="en">Per 100,000 persons insured</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្នុងចំណោមមនុស្ស ១០០.០០០ នាក់ត្រូវបានធានារ៉ាប់រង</common:Name></structure:Code>
         <structure:Code id="PER_100000_POP">
           <common:Name xml:lang="en">Per 100,000 population</common:Name>
           <common:Description xml:lang="en">Per 100,000 population</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្នុងមួយប្រជាជន ១០០.០០០ នាក់</common:Name></structure:Code>
         <structure:Code id="PER_100000_WKRS_EMP">
           <common:Name xml:lang="en">Per 100,000 workers employed</common:Name>
           <common:Description xml:lang="en">Per 100,000 workers employed</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្នុងចំណោមកម្មករ ១០០.០០០ នាក់មានការងារធ្វើ</common:Name></structure:Code>
         <structure:Code id="PER_100000_WKRS_EXPD">
           <common:Name xml:lang="en">Per 100,000 workers exposed to risk</common:Name>
           <common:Description xml:lang="en">Per 100,000 workers exposed to risk</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្នុងចំណោមកម្មករ ១០០.០០០ នាក់ប្រឈមនឹងហានិភ័យ</common:Name></structure:Code>
         <structure:Code id="PER_1000000_POP">
           <common:Name xml:lang="en">Per million population</common:Name>
           <common:Description xml:lang="en">Per million population</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្នុងមួយលាននាក់</common:Name></structure:Code>
         <structure:Code id="PERCENT">
           <common:Name xml:lang="en">Deprecated (Percent)</common:Name>
           <common:Description xml:lang="en">Deprecated (Percent)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">បដិសេធ (គិតជាភាគរយ)</common:Name></structure:Code>
         <structure:Code id="PROB">
           <common:Name xml:lang="en">Probability</common:Name>
           <common:Description xml:lang="en">Probability</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រូបាប</common:Name></structure:Code>
         <structure:Code id="RATIO">
           <common:Name xml:lang="en">Deprecated (Ratio)</common:Name>
           <common:Description xml:lang="en">Deprecated (Ratio)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សមាមាត្រ (សមាមាត្រ)</common:Name></structure:Code>
         <structure:Code id="T_KM">
           <common:Name xml:lang="en">Tonne kilometres</common:Name>
           <common:Description xml:lang="en">Tonne kilometres</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">តោន</common:Name></structure:Code>
         <structure:Code id="T_PER_HA">
           <common:Name xml:lang="en">Tonnes per hectare</common:Name>
           <common:Description xml:lang="en">Tonnes per hectare</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">តោនក្នុងមួយហិកតា</common:Name></structure:Code>
         <structure:Code id="USD">
           <common:Name xml:lang="en">USD</common:Name>
           <common:Description xml:lang="en">USD</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដុល្លារ​អាមេរិក</common:Name></structure:Code>
         <structure:Code id="PV_USD">
           <common:Name xml:lang="en">USD in net present value terms</common:Name>
           <common:Description xml:lang="en">USD in net present value terms</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដុល្លារគិតតាមលក្ខខណ្ឌតម្លៃបច្ចុប្បន្នសុទ្ធ</common:Name></structure:Code>
         <structure:Code id="USD_PER_M3">
           <common:Name xml:lang="en">United States dollars per cubic metre</common:Name>
           <common:Description xml:lang="en">United States dollars per cubic metre</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដុល្លារអាមេរិកក្នុងមួយម៉ែត្រគូប</common:Name></structure:Code>
         <structure:Code id="PER_10000_POP">
           <common:Name xml:lang="en">Per 10,000 population</common:Name>
           <common:Description xml:lang="en">Per 10,000 population</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្នុងមួយម៉ឺននាក់</common:Name></structure:Code>
         <structure:Code id="P_KM">
           <common:Name xml:lang="en">Passenger kilometres</common:Name>
           <common:Description xml:lang="en">Passenger kilometres</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">គីឡូម៉ែត្រអ្នកដំណើរ</common:Name></structure:Code>
         <structure:Code id="M_M3_PER_YR">
           <common:Name xml:lang="en">Million of cubic metres per annum</common:Name>
           <common:Description xml:lang="en">Million of cubic metres per annum</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាប់លានម៉ែត្រគូបក្នុងមួយឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="BOOL">
           <common:Name xml:lang="en">Boolean or binary measure</common:Name>
           <common:Description xml:lang="en">Boolean or binary measure</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រង្វាស់ប៊ូលីនឬគោលពីរ</common:Name></structure:Code>
         <structure:Code id="KWH">
           <common:Name xml:lang="en">Kilowatt hour</common:Name>
           <common:Description xml:lang="en">Kilowatt hour</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">គីឡូម៉ែត្រម៉ោង</common:Name></structure:Code>
         <structure:Code id="LIVE_BIRTHS_PER_WOMAN">
           <common:Name xml:lang="en">Live births per woman</common:Name>
           <common:Description xml:lang="en">Live births per woman</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">កំណើតរស់ក្នុងស្ត្រីម្នាក់</common:Name></structure:Code>
         <structure:Code id="Y">
           <common:Name xml:lang="en">Years</common:Name>
           <common:Description xml:lang="en">Years</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="USD_PER_HA">
           <common:Name xml:lang="en">USD per Hectare</common:Name>
           <common:Description xml:lang="en">USD per Hectare</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដុល្លារក្នុងមួយហិកតា</common:Name></structure:Code>
         <structure:Code id="USD_PER_FARMER">
           <common:Name xml:lang="en">USD per farmer</common:Name>
           <common:Description xml:lang="en">USD per farmer</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដុល្លារអាមេរិកសម្រាប់កសិករម្នាក់</common:Name></structure:Code>
         <structure:Code id="PT">
           <common:Name xml:lang="en">Percent</common:Name>
           <common:Description xml:lang="en">Percent</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ភាគរយ</common:Name></structure:Code>
         <structure:Code id="RO">
           <common:Name xml:lang="en">Ratio</common:Name>
           <common:Description xml:lang="en">Ratio</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សមាមាត្រ</common:Name></structure:Code>
         <structure:Code id="T_OE">
           <common:Name xml:lang="en">Tons oil equivalent</common:Name>
           <common:Description xml:lang="en">Tons oil equivalent</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្មើនឹងប្រេងកាតតោន</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="KH_NIS" id="CL_URBANISATION" isFinal="true" version="1.0">
         <common:Name xml:lang="en">Degree of urbanisation code list</common:Name>
@@ -6316,127 +6316,127 @@
         <structure:Code id="0">
           <common:Name xml:lang="en">Units</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of zero (10^0)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ឯកតា</common:Name></structure:Code>
         <structure:Code id="1">
           <common:Name xml:lang="en">Tens</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of one (10^1)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាប់ម៉ឺន</common:Name></structure:Code>
         <structure:Code id="2">
           <common:Name xml:lang="en">Hundreds</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of two (10^2)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាប់រយ</common:Name></structure:Code>
         <structure:Code id="3">
           <common:Name xml:lang="en">Thousands</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of three (10^3)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាប់ពាន់នាក់</common:Name></structure:Code>
         <structure:Code id="4">
           <common:Name xml:lang="en">Tens of thousands</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of four (10^4)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាប់ម៉ឺននាក់</common:Name></structure:Code>
         <structure:Code id="5">
           <common:Name xml:lang="en">Hundreds of thousands</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of five(10^5)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាប់រយរាប់ពាន់នាក់</common:Name></structure:Code>
         <structure:Code id="6">
           <common:Name xml:lang="en">Millions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of six (10^6)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាប់លាន</common:Name></structure:Code>
         <structure:Code id="7">
           <common:Name xml:lang="en">Tens of millions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of seven (10^7)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាប់សិបលាន</common:Name></structure:Code>
         <structure:Code id="8">
           <common:Name xml:lang="en">Hundreds of millions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of eight (10^8)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាប់រយលាន</common:Name></structure:Code>
         <structure:Code id="9">
           <common:Name xml:lang="en">Billions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of nine (10^9)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាប់ពាន់លាន</common:Name></structure:Code>
         <structure:Code id="10">
           <common:Name xml:lang="en">Tens of billions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of ten (10^10)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាប់សិបកោដិដុល្លារ</common:Name></structure:Code>
         <structure:Code id="11">
           <common:Name xml:lang="en">Hundreds of billions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of eleven (10^11)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាប់រយពាន់លាន</common:Name></structure:Code>
         <structure:Code id="12">
           <common:Name xml:lang="en">Trillions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of twelve (10^12)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">លានលាន</common:Name></structure:Code>
         <structure:Code id="13">
           <common:Name xml:lang="en">Tens of trillions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of thirteen (10^13)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាប់លានកោដិ</common:Name></structure:Code>
         <structure:Code id="14">
           <common:Name xml:lang="en">Hundreds of trillions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of fourteen (10^14)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាប់រយលានកោដិ</common:Name></structure:Code>
         <structure:Code id="15">
           <common:Name xml:lang="en">Quadrillions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of fifteen (10^15)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">Quadrillions</common:Name></structure:Code>
         <structure:Code id="-1">
           <common:Name xml:lang="en">Tenths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus one (10^-1)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">តង់</common:Name></structure:Code>
         <structure:Code id="-2">
           <common:Name xml:lang="en">Hundredths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus two (10^-2)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាប់រយ</common:Name></structure:Code>
         <structure:Code id="-3">
           <common:Name xml:lang="en">Thousandths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus three (10^-3)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មួយម៉ឺន</common:Name></structure:Code>
         <structure:Code id="-4">
           <common:Name xml:lang="en">Ten-thousandths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus four (10^-4)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដប់ម៉ឺន</common:Name></structure:Code>
         <structure:Code id="-5">
           <common:Name xml:lang="en">Hundred-thousandths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus five (10^-5)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រយពាន់</common:Name></structure:Code>
         <structure:Code id="-6">
           <common:Name xml:lang="en">Millionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus six (10^-6)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">លាន</common:Name></structure:Code>
         <structure:Code id="-7">
           <common:Name xml:lang="en">Ten-millionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus seven (10^-7)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដប់លាន</common:Name></structure:Code>
         <structure:Code id="-8">
           <common:Name xml:lang="en">Hundred-millionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus eight (10^-8)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាប់រយលាន</common:Name></structure:Code>
         <structure:Code id="-9">
           <common:Name xml:lang="en">Billionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus nine (10^-9)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ពាន់លាន</common:Name></structure:Code>
         <structure:Code id="-10">
           <common:Name xml:lang="en">Ten-billionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus ten (10^-10)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដប់ពាន់លាន</common:Name></structure:Code>
         <structure:Code id="-11">
           <common:Name xml:lang="en">Hundred-billionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus eleven (10^-11)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាប់រយពាន់លាន</common:Name></structure:Code>
         <structure:Code id="-12">
           <common:Name xml:lang="en">Trillionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus twelve (10^-12)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មួយលានលាន</common:Name></structure:Code>
         <structure:Code id="-13">
           <common:Name xml:lang="en">Ten-trillionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus thirteen (10^-13)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដប់សែនកោដិវិនាទី</common:Name></structure:Code>
         <structure:Code id="-14">
           <common:Name xml:lang="en">Hundred-trillionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus fourteen (10^-14)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាប់រយលានកោដិវិនាទី</common:Name></structure:Code>
         <structure:Code id="-15">
           <common:Name xml:lang="en">Quadrillionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus fifteen (10^-15)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ពាន់លានលាន</common:Name></structure:Code>
       </structure:Codelist>
     </structure:Codelists>
     <structure:Concepts>
