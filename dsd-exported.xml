@@ -787,31 +787,31 @@
         <structure:Code id="C">
           <common:Name xml:lang="en">Country Data</common:Name>
           <common:Description xml:lang="en">Country Data</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ទិន្នន័យប្រទេស</common:Name></structure:Code>
         <structure:Code id="CA">
           <common:Name xml:lang="en">Country Adjusted</common:Name>
           <common:Description xml:lang="en">Country Adjusted</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">កែសំរួលប្រទេស</common:Name></structure:Code>
         <structure:Code id="E">
           <common:Name xml:lang="en">Estimated</common:Name>
           <common:Description xml:lang="en">Estimated</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៉ាន់ស្មាន</common:Name></structure:Code>
         <structure:Code id="G">
           <common:Name xml:lang="en">Global monitoring data</common:Name>
           <common:Description xml:lang="en">Global monitoring data</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ទិន្នន័យត្រួតពិនិត្យសកល</common:Name></structure:Code>
         <structure:Code id="M">
           <common:Name xml:lang="en">Modeled</common:Name>
           <common:Description xml:lang="en">Modeled</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">យកគំរូតាម</common:Name></structure:Code>
         <structure:Code id="N">
           <common:Name xml:lang="en">Non-relevant</common:Name>
           <common:Description xml:lang="en">Non-relevant</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនទាក់ទង</common:Name></structure:Code>
         <structure:Code id="_X">
           <common:Name xml:lang="en">Not Available</common:Name>
           <common:Description xml:lang="en">Not Available</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនអាច</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="IAEG-SDGs" id="CL_OCCUPATION" isFinal="true" version="1.0">
         <common:Name xml:lang="en">Job or position held by an individual who performs a set of tasks and duties. Based on the ISCO classification.</common:Name>
@@ -1066,7 +1066,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Total (national average) or no breakdown</common:Name>
           <common:Description xml:lang="en">Total (national average) or no breakdown</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សរុប (មធ្យមថ្នាក់ជាតិ) ឬគ្មានការវិភាគ</common:Name></structure:Code>
         <structure:Code id="Q1">
           <common:Annotations>
             <common:Annotation>
@@ -1076,7 +1076,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Quintile 1 (poorest)</common:Name>
           <common:Description xml:lang="en">Quintile 1 (poorest)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ឃ្វីនទី ១ (ក្របំផុត)</common:Name></structure:Code>
         <structure:Code id="Q2">
           <common:Annotations>
             <common:Annotation>
@@ -1086,7 +1086,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Quintile 2</common:Name>
           <common:Description xml:lang="en">Quintile 2</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ឃ្វីនទី ២</common:Name></structure:Code>
         <structure:Code id="Q3">
           <common:Annotations>
             <common:Annotation>
@@ -1096,7 +1096,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Quintile 3</common:Name>
           <common:Description xml:lang="en">Quintile 3</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ឃ្វីនទី ៣</common:Name></structure:Code>
         <structure:Code id="Q4">
           <common:Annotations>
             <common:Annotation>
@@ -1106,7 +1106,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Quintile 4</common:Name>
           <common:Description xml:lang="en">Quintile 4</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ឃ្វីនទី ៤</common:Name></structure:Code>
         <structure:Code id="Q5">
           <common:Annotations>
             <common:Annotation>
@@ -1116,7 +1116,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Quintile 5 (richest)</common:Name>
           <common:Description xml:lang="en">Quintile 5 (richest)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ឃ្វីនទី ៥ (មានជាងគេបំផុត)</common:Name></structure:Code>
         <structure:Code id="B40">
           <common:Annotations>
             <common:Annotation>
@@ -1126,7 +1126,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Bottom 40%</common:Name>
           <common:Description xml:lang="en">Bottom 40%</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">បាត ៤០%</common:Name></structure:Code>
         <structure:Code id="R60">
           <common:Annotations>
             <common:Annotation>
@@ -1136,7 +1136,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Richest 60%</common:Name>
           <common:Description xml:lang="en">Richest 60%</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">៦០%</common:Name></structure:Code>
         <structure:Code id="B50">
           <common:Annotations>
             <common:Annotation>
@@ -1146,7 +1146,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Bottom 50%</common:Name>
           <common:Description xml:lang="en">Bottom 50%</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្រោម ៥០%</common:Name></structure:Code>
         <structure:Code id="R50">
           <common:Annotations>
             <common:Annotation>
@@ -1156,7 +1156,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Richest 50%</common:Name>
           <common:Description xml:lang="en">Richest 50%</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">៥០ ភាគរយបំផុត</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="IAEG-SDGs" id="CL_REPORTING_TYPE" isFinal="true" version="1.0">
         <common:Name xml:lang="en">Reporting type code list</common:Name>
