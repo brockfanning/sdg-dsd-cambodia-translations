@@ -3581,539 +3581,539 @@
         <structure:Code id="_T">
           <common:Name xml:lang="en">No breakdown</common:Name>
           <common:Description xml:lang="en">No breakdown</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនមានការបែកបាក់</common:Name></structure:Code>
         <structure:Code id="SKILL_MATH">
           <common:Name xml:lang="en">Skill: Minimum proficiency in mathematics</common:Name>
           <common:Description xml:lang="en">Skill: Minimum proficiency in mathematics</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជំនាញ៖ ជំនាញអប្បបរមាផ្នែកគណិតវិទ្យា</common:Name></structure:Code>
         <structure:Code id="SKILL_READ">
           <common:Name xml:lang="en">Skill: Minimum proficiency in reading</common:Name>
           <common:Description xml:lang="en">Skill: Minimum proficiency in reading</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជំនាញ៖ ជំនាញក្នុងការអាន</common:Name></structure:Code>
         <structure:Code id="SKILL_LTRCY">
           <common:Name xml:lang="en">Skill: Functional literacy</common:Name>
           <common:Description xml:lang="en">Skill: Functional literacy</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជំនាញ៖ អក្ខរកម្មមុខងារ</common:Name></structure:Code>
         <structure:Code id="SKILL_NMRCY">
           <common:Name xml:lang="en">Skill: Functional numeracy</common:Name>
           <common:Description xml:lang="en">Skill: Functional numeracy</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជំនាញ៖ លេខមុខងារ</common:Name></structure:Code>
         <structure:Code id="SKILL_ICTATCH">
           <common:Name xml:lang="en">Skill: ICT Skill: Sending e-mails with attached files</common:Name>
           <common:Description xml:lang="en">Skill: ICT Skill: Sending e-mails with attached files</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជំនាញ: បច្ចេកវិទ្យាអាយស៊ីធីៈការផ្ញើអ៊ីមែលជាមួយឯកសារភ្ជាប់</common:Name></structure:Code>
         <structure:Code id="SKILL_ICTCPT">
           <common:Name xml:lang="en">Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document</common:Name>
           <common:Description xml:lang="en">Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជំនាញ៖ បច្ចេកវិទ្យាអាយស៊ីធីៈប្រើឧបករណ៍ចម្លងនិងបិទភ្ជាប់ដើម្បីចម្លងឬផ្លាស់ទីព័ត៌មាននៅក្នុងឯកសារ</common:Name></structure:Code>
         <structure:Code id="SKILL_ICTCDV">
           <common:Name xml:lang="en">Skill: ICT Skill: connecting and installing new devices</common:Name>
           <common:Description xml:lang="en">Skill: ICT Skill: connecting and installing new devices</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជំនាញ៖ បច្ចេកវិទ្យាអាយស៊ីធីៈតភ្ជាប់និងតំឡើងឧបករណ៍ថ្មីៗ</common:Name></structure:Code>
         <structure:Code id="SKILL_ICTSSHT">
           <common:Name xml:lang="en">Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet</common:Name>
           <common:Description xml:lang="en">Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជំនាញ៖ បច្ចេកវិទ្យាអាយស៊ីធី: ប្រើរូបមន្តនព្វន្ធមូលដ្ឋានក្នុងសៀវភៅបញ្ជី</common:Name></structure:Code>
         <structure:Code id="SKILL_ICTPRGM">
           <common:Name xml:lang="en">Skill: ICT Skill: Writing a computer program using a specialized programming language</common:Name>
           <common:Description xml:lang="en">Skill: ICT Skill: Writing a computer program using a specialized programming language</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជំនាញ៖ បច្ចេកវិទ្យាអាយស៊ីធីៈសរសេរកម្មវិធីកុំព្យូទ័រដោយប្រើភាសាសរសេរកម្មវិធីជំនាញ</common:Name></structure:Code>
         <structure:Code id="SKILL_ICTPST">
           <common:Name xml:lang="en">Skill: ICT Skill: Creating electronic presentations with presentation software</common:Name>
           <common:Description xml:lang="en">Skill: ICT Skill: Creating electronic presentations with presentation software</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជំនាញ៖ បច្ចេកវិទ្យាអាយស៊ីធីៈបង្កើតបទបង្ហាញអេឡិចត្រូនិចជាមួយកម្មវិធីធ្វើបទបង្ហាញ</common:Name></structure:Code>
         <structure:Code id="SKILL_ICTSFWR">
           <common:Name xml:lang="en">Skill: ICT Skill: Finding, downloading, installing and configuring software</common:Name>
           <common:Description xml:lang="en">Skill: ICT Skill: Finding, downloading, installing and configuring software</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជំនាញ៖ បច្ចេកវិទ្យាអាយស៊ីធីៈស្វែងរកទាញយកតំឡើងនិងតំឡើងកម្មវិធី</common:Name></structure:Code>
         <structure:Code id="SKILL_ICTTRFF">
           <common:Name xml:lang="en">Skill: ICT Skill: Transferring files between a computer and other devices</common:Name>
           <common:Description xml:lang="en">Skill: ICT Skill: Transferring files between a computer and other devices</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជំនាញ៖ បច្ចេកវិទ្យាអាយស៊ីធីៈផ្ទេរឯកសាររវាងកុំព្យូទ័រនិងឧបករណ៍ផ្សេងទៀត</common:Name></structure:Code>
         <structure:Code id="SKILL_ICTCMFL">
           <common:Name xml:lang="en">Skill: ICT Skill: Copying or moving a file or folder</common:Name>
           <common:Description xml:lang="en">Skill: ICT Skill: Copying or moving a file or folder</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជំនាញ៖ បច្ចេកវិទ្យាអាយស៊ីធីៈការចម្លងឬផ្លាស់ទីឯកសារឬថតឯកសារ</common:Name></structure:Code>
         <structure:Code id="IO_ADB">
           <common:Name xml:lang="en">International Organisation: Asian Development Bank</common:Name>
           <common:Description xml:lang="en">International Organisation: Asian Development Bank</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អង្គការអន្តរជាតិ៖ ធនាគារអភិវឌ្ឍន៍អាស៊ី</common:Name></structure:Code>
         <structure:Code id="IO_AFDB">
           <common:Name xml:lang="en">International Organisation: African Development Bank</common:Name>
           <common:Description xml:lang="en">International Organisation: African Development Bank</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អង្គការអន្តរជាតិ៖ ធនាគារអភិវឌ្ឍន៍អាហ្វ្រិក</common:Name></structure:Code>
         <structure:Code id="IO_ECOSOC">
           <common:Name xml:lang="en">International Organisation: UN Economic and Social Council</common:Name>
           <common:Description xml:lang="en">International Organisation: UN Economic and Social Council</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អង្គការអន្តរជាតិ៖ ក្រុមប្រឹក្សាសេដ្ឋកិច្ចនិងសង្គមរបស់អង្គការសហប្រជាជាតិ</common:Name></structure:Code>
         <structure:Code id="IO_FSB">
           <common:Name xml:lang="en">International Organisation: Financial Stability Board</common:Name>
           <common:Description xml:lang="en">International Organisation: Financial Stability Board</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អង្គការអន្តរជាតិ៖ ក្រុមប្រឹក្សាស្ថិរភាពហិរញ្ញវត្ថុ</common:Name></structure:Code>
         <structure:Code id="IO_IADB">
           <common:Name xml:lang="en">International Organisation: Inter-American Development Bank</common:Name>
           <common:Description xml:lang="en">International Organisation: Inter-American Development Bank</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អង្គការអន្តរជាតិ៖ ធនាគារអភិវឌ្ឍន៍អន្តរអាមេរិក</common:Name></structure:Code>
         <structure:Code id="IO_IBRD">
           <common:Name xml:lang="en">International Organisation: International Bank for Reconstruction and Development</common:Name>
           <common:Description xml:lang="en">International Organisation: International Bank for Reconstruction and Development</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អង្គការអន្តរជាតិ៖ ធនាគារអន្តរជាតិសម្រាប់ការកសាងឡើងវិញនិងអភិវឌ្ឍន៍</common:Name></structure:Code>
         <structure:Code id="IO_IFC">
           <common:Name xml:lang="en">International Organisation: International Finance Corporation</common:Name>
           <common:Description xml:lang="en">International Organisation: International Finance Corporation</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អង្គការអន្តរជាតិ៖ សាជីវកម្មហិរញ្ញវត្ថុអន្តរជាតិ</common:Name></structure:Code>
         <structure:Code id="IO_IMF">
           <common:Name xml:lang="en">International Organisation: International Monetary Fund</common:Name>
           <common:Description xml:lang="en">International Organisation: International Monetary Fund</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អង្គការអន្តរជាតិ៖ មូលនិធិរូបិយវត្ថុអន្តរជាតិ</common:Name></structure:Code>
         <structure:Code id="IO_UNGA">
           <common:Name xml:lang="en">International Organisation: UN General Assembly</common:Name>
           <common:Description xml:lang="en">International Organisation: UN General Assembly</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អង្គការអន្តរជាតិ៖ មហាសន្និបាតអង្គការសហប្រជាជាតិ</common:Name></structure:Code>
         <structure:Code id="IO_UNSC">
           <common:Name xml:lang="en">International Organisation: UN Security Council</common:Name>
           <common:Description xml:lang="en">International Organisation: UN Security Council</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អង្គការអន្តរជាតិ៖ ក្រុមប្រឹក្សាសន្តិសុខអង្គការសហប្រជាជាតិ</common:Name></structure:Code>
         <structure:Code id="IO_WTO">
           <common:Name xml:lang="en">International Organisation: World Trade Organisation</common:Name>
           <common:Description xml:lang="en">International Organisation: World Trade Organisation</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អង្គការអន្តរជាតិ៖ អង្គការពាណិជ្ជកម្មពិភពលោក</common:Name></structure:Code>
         <structure:Code id="NCD_CNCR">
           <common:Name xml:lang="en">Non-communicable disease: Cancer</common:Name>
           <common:Description xml:lang="en">Non-communicable disease: Cancer</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជំងឺមិនឆ្លង៖ មហារីក</common:Name></structure:Code>
         <structure:Code id="NCD_CARDIO">
           <common:Name xml:lang="en">Non-communicable disease: Cardiovascular disease</common:Name>
           <common:Description xml:lang="en">Non-communicable disease: Cardiovascular disease</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជំងឺមិនឆ្លង៖ ជំងឺសរសៃឈាមបេះដូង</common:Name></structure:Code>
         <structure:Code id="NCD_CRESPD">
           <common:Name xml:lang="en">Non-communicable disease: Chronic respiratory disease</common:Name>
           <common:Description xml:lang="en">Non-communicable disease: Chronic respiratory disease</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជំងឺមិនឆ្លង៖ ជំងឺផ្លូវដង្ហើមរ៉ាំរ៉ៃ</common:Name></structure:Code>
         <structure:Code id="NCD_DIABTS">
           <common:Name xml:lang="en">Non-communicable disease: Diabetes</common:Name>
           <common:Description xml:lang="en">Non-communicable disease: Diabetes</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជំងឺមិនឆ្លង៖ ជំងឺទឹកនោមផ្អែម</common:Name></structure:Code>
         <structure:Code id="NCD_NCOM">
           <common:Name xml:lang="en">Non-communicable disease: Cardiovascular disease, cancer, diabetes, or chronic respiratory disease</common:Name>
           <common:Description xml:lang="en">Non-communicable disease: Cardiovascular disease, cancer, diabetes, or chronic respiratory disease</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជំងឺមិនឆ្លង៖ ជំងឺសរសៃឈាមបេះដូងមហារីកទឹកនោមផ្អែមឬជំងឺផ្លូវដង្ហើមរ៉ាំរ៉ៃ</common:Name></structure:Code>
         <structure:Code id="MS_MIGRANT">
           <common:Name xml:lang="en">Migrant Status: Migrant</common:Name>
           <common:Description xml:lang="en">Migrant Status: Migrant</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្ថានភាពជនចំណាកស្រុក៖ ជនចំណាកស្រុក</common:Name></structure:Code>
         <structure:Code id="MS_NOMIGRANT">
           <common:Name xml:lang="en">Migrant Status: Non-migrant</common:Name>
           <common:Description xml:lang="en">Migrant Status: Non-migrant</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្ថានភាពជនចំណាកស្រុក៖ មិនមែនជនចំណាកស្រុក</common:Name></structure:Code>
         <structure:Code id="MS_EUMIGRANT">
           <common:Name xml:lang="en">Migrant Status: EU Migrant</common:Name>
           <common:Description xml:lang="en">Migrant Status: EU Migrant</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្ថានភាពជនចំណាកស្រុក៖ ជនចំណាកស្រុកសហភាពអឺរ៉ុប</common:Name></structure:Code>
         <structure:Code id="MS_NONEUMIGRANT">
           <common:Name xml:lang="en">Migrant Status: Non-EU Migrant</common:Name>
           <common:Description xml:lang="en">Migrant Status: Non-EU Migrant</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្ថានភាពជនចំណាកស្រុក៖ មិនមែនជាជនចំណាកស្រុកមិនមែនសហភាពអឺរ៉ុប</common:Name></structure:Code>
         <structure:Code id="HZT_ACIDT">
           <common:Name xml:lang="en">Hazard Type: Accident</common:Name>
           <common:Description xml:lang="en">Hazard Type: Accident</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់៖ គ្រោះថ្នាក់</common:Name></structure:Code>
         <structure:Code id="HZT_ACIDR">
           <common:Name xml:lang="en">Hazard Type: Acid Rain</common:Name>
           <common:Description xml:lang="en">Hazard Type: Acid Rain</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ទឹកអាស៊ីតទឹកភ្លៀង</common:Name></structure:Code>
         <structure:Code id="HZT_ALLUV">
           <common:Name xml:lang="en">Hazard Type: Alluvion</common:Name>
           <common:Description xml:lang="en">Hazard Type: Alluvion</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: Alluvion</common:Name></structure:Code>
         <structure:Code id="HZT_ANIAK">
           <common:Name xml:lang="en">Hazard Type: Animal Attack</common:Name>
           <common:Description xml:lang="en">Hazard Type: Animal Attack</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ការវាយប្រហារសត្វ</common:Name></structure:Code>
         <structure:Code id="HZT_AVALE">
           <common:Name xml:lang="en">Hazard Type: Avalanche</common:Name>
           <common:Description xml:lang="en">Hazard Type: Avalanche</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: អាប៊ែលប៊ែក</common:Name></structure:Code>
         <structure:Code id="HZT_BIOGL">
           <common:Name xml:lang="en">Hazard Type: Biological</common:Name>
           <common:Description xml:lang="en">Hazard Type: Biological</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ជីវសាស្ត្រ</common:Name></structure:Code>
         <structure:Code id="HZT_CHESP">
           <common:Name xml:lang="en">Hazard Type: Chemical Spill</common:Name>
           <common:Description xml:lang="en">Hazard Type: Chemical Spill</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ការកំពប់សារធាតុគីមី</common:Name></structure:Code>
         <structure:Code id="HZT_COSER">
           <common:Name xml:lang="en">Hazard Type: Coastal Erosion</common:Name>
           <common:Description xml:lang="en">Hazard Type: Coastal Erosion</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់ៈសំណឹកឆ្នេរសមុទ្រ</common:Name></structure:Code>
         <structure:Code id="HZT_COSFL">
           <common:Name xml:lang="en">Hazard Type: Coastal Flood</common:Name>
           <common:Description xml:lang="en">Hazard Type: Coastal Flood</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ទឹកជំនន់ឆ្នេរសមុទ្រ</common:Name></structure:Code>
         <structure:Code id="HZT_COLDW">
           <common:Name xml:lang="en">Hazard Type: Cold Wave</common:Name>
           <common:Description xml:lang="en">Hazard Type: Cold Wave</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: រលកត្រជាក់</common:Name></structure:Code>
         <structure:Code id="HZT_CSOLD">
           <common:Name xml:lang="en">Hazard Type: Consolidate</common:Name>
           <common:Description xml:lang="en">Hazard Type: Consolidate</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ពង្រឹង</common:Name></structure:Code>
         <structure:Code id="HZT_CONTM">
           <common:Name xml:lang="en">Hazard Type: Contamination</common:Name>
           <common:Description xml:lang="en">Hazard Type: Contamination</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ការចម្លងរោគ</common:Name></structure:Code>
         <structure:Code id="HZT_CYCLN">
           <common:Name xml:lang="en">Hazard Type: Cyclone</common:Name>
           <common:Description xml:lang="en">Hazard Type: Cyclone</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ព្យុះស៊ីក្លូន</common:Name></structure:Code>
         <structure:Code id="HZT_DFRST">
           <common:Name xml:lang="en">Hazard Type: Deforestation</common:Name>
           <common:Description xml:lang="en">Hazard Type: Deforestation</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ការកាប់បំផ្លាញព្រៃឈើ</common:Name></structure:Code>
         <structure:Code id="HZT_DROUG">
           <common:Name xml:lang="en">Hazard Type: Drought</common:Name>
           <common:Description xml:lang="en">Hazard Type: Drought</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: គ្រោះរាំងស្ងួត</common:Name></structure:Code>
         <structure:Code id="HZT_DZUD">
           <common:Name xml:lang="en">Hazard Type: Dzud</common:Name>
           <common:Description xml:lang="en">Hazard Type: Dzud</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ឌីហ្សូដ</common:Name></structure:Code>
         <structure:Code id="HZT_ERQAK">
           <common:Name xml:lang="en">Hazard Type: Earthquake</common:Name>
           <common:Description xml:lang="en">Hazard Type: Earthquake</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ការរញ្ជួយដី</common:Name></structure:Code>
         <structure:Code id="HZT_ELEST">
           <common:Name xml:lang="en">Hazard Type: Electric Storm</common:Name>
           <common:Description xml:lang="en">Hazard Type: Electric Storm</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ព្យុះអគ្គិសនី</common:Name></structure:Code>
         <structure:Code id="HZT_EPIDM">
           <common:Name xml:lang="en">Hazard Type: Epidemics</common:Name>
           <common:Description xml:lang="en">Hazard Type: Epidemics</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: រោគរាតត្បាត</common:Name></structure:Code>
         <structure:Code id="HZT_EPIZT">
           <common:Name xml:lang="en">Hazard Type: Epizootic</common:Name>
           <common:Description xml:lang="en">Hazard Type: Epizootic</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: អេពីហ្សូទីក</common:Name></structure:Code>
         <structure:Code id="HZT_EROSN">
           <common:Name xml:lang="en">Hazard Type: Erosion</common:Name>
           <common:Description xml:lang="en">Hazard Type: Erosion</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: សំណឹក</common:Name></structure:Code>
         <structure:Code id="HZT_EXPLN">
           <common:Name xml:lang="en">Hazard Type: Explosion</common:Name>
           <common:Description xml:lang="en">Hazard Type: Explosion</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ការផ្ទុះ</common:Name></structure:Code>
         <structure:Code id="HZT_EXTEM">
           <common:Name xml:lang="en">Hazard Type: Extreme Temperature</common:Name>
           <common:Description xml:lang="en">Hazard Type: Extreme Temperature</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: សីតុណ្ហភាពខ្លាំង</common:Name></structure:Code>
         <structure:Code id="HZT_FIREX">
           <common:Name xml:lang="en">Hazard Type: Fire</common:Name>
           <common:Description xml:lang="en">Hazard Type: Fire</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ភ្លើង</common:Name></structure:Code>
         <structure:Code id="HZT_FLSFL">
           <common:Name xml:lang="en">Hazard Type: Flash Flood</common:Name>
           <common:Description xml:lang="en">Hazard Type: Flash Flood</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ទឹកជំនន់ភ្លឹបភ្លែត</common:Name></structure:Code>
         <structure:Code id="HZT_FLOOD">
           <common:Name xml:lang="en">Hazard Type: Flood</common:Name>
           <common:Description xml:lang="en">Hazard Type: Flood</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ទឹកជំនន់</common:Name></structure:Code>
         <structure:Code id="HZT_FOGXX">
           <common:Name xml:lang="en">Hazard Type: Fog</common:Name>
           <common:Description xml:lang="en">Hazard Type: Fog</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: អ័ព្ទ</common:Name></structure:Code>
         <structure:Code id="HZT_FRZRN">
           <common:Name xml:lang="en">Hazard Type: Freezing Rain</common:Name>
           <common:Description xml:lang="en">Hazard Type: Freezing Rain</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ភ្លៀងត្រជាក់</common:Name></structure:Code>
         <structure:Code id="HZT_FROST">
           <common:Name xml:lang="en">Hazard Type: Frost</common:Name>
           <common:Description xml:lang="en">Hazard Type: Frost</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: សាយសត្វ</common:Name></structure:Code>
         <structure:Code id="HZT_GLCFL">
           <common:Name xml:lang="en">Hazard Type: Glacial Lake Outburst Flood</common:Name>
           <common:Description xml:lang="en">Hazard Type: Glacial Lake Outburst Flood</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់៖ បឹងទឹកប្រៃរីកសាយទឹកជំនន់</common:Name></structure:Code>
         <structure:Code id="HZT_HAILS">
           <common:Name xml:lang="en">Hazard Type: Hailstorm</common:Name>
           <common:Description xml:lang="en">Hazard Type: Hailstorm</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ព្យុះភ្លៀង</common:Name></structure:Code>
         <structure:Code id="HZT_HETWA">
           <common:Name xml:lang="en">Hazard Type: Heat Wave</common:Name>
           <common:Description xml:lang="en">Hazard Type: Heat Wave</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: រលកកម្តៅ</common:Name></structure:Code>
         <structure:Code id="HZT_HEVRN">
           <common:Name xml:lang="en">Hazard Type: Heavy Rain</common:Name>
           <common:Description xml:lang="en">Hazard Type: Heavy Rain</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ភ្លៀងធ្លាក់ខ្លាំង</common:Name></structure:Code>
         <structure:Code id="HZT_INFET">
           <common:Name xml:lang="en">Hazard Type: Insect Infestation</common:Name>
           <common:Description xml:lang="en">Hazard Type: Insect Infestation</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ការឆ្លងសត្វល្អិត</common:Name></structure:Code>
         <structure:Code id="HZT_INTOX">
           <common:Name xml:lang="en">Hazard Type: Intoxication</common:Name>
           <common:Description xml:lang="en">Hazard Type: Intoxication</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់ៈការរំលោភសេពសន្ថវៈ</common:Name></structure:Code>
         <structure:Code id="HZT_LAHAR">
           <common:Name xml:lang="en">Hazard Type: Lahar</common:Name>
           <common:Description xml:lang="en">Hazard Type: Lahar</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ឡាហ</common:Name></structure:Code>
         <structure:Code id="HZT_LNDRG">
           <common:Name xml:lang="en">Hazard Type: Land Degradation</common:Name>
           <common:Description xml:lang="en">Hazard Type: Land Degradation</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ការរិចរិលដី</common:Name></structure:Code>
         <structure:Code id="HZT_LNDSL">
           <common:Name xml:lang="en">Hazard Type: Landslide</common:Name>
           <common:Description xml:lang="en">Hazard Type: Landslide</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់៖ ការបាក់ដី</common:Name></structure:Code>
         <structure:Code id="HZT_LIQFN">
           <common:Name xml:lang="en">Hazard Type: Liquefaction</common:Name>
           <common:Description xml:lang="en">Hazard Type: Liquefaction</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: Liquefaction</common:Name></structure:Code>
         <structure:Code id="HZT_NUCIN">
           <common:Name xml:lang="en">Hazard Type: Nuclear Incident</common:Name>
           <common:Description xml:lang="en">Hazard Type: Nuclear Incident</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់៖ ឧប្បត្តិហេតុនុយក្លេអ៊ែរ</common:Name></structure:Code>
         <structure:Code id="HZT_OTHER">
           <common:Name xml:lang="en">Hazard Type: Other</common:Name>
           <common:Description xml:lang="en">Hazard Type: Other</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ផ្សេងទៀត</common:Name></structure:Code>
         <structure:Code id="HZT_PANIC">
           <common:Name xml:lang="en">Hazard Type: Panic</common:Name>
           <common:Description xml:lang="en">Hazard Type: Panic</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ភ័យស្លន់ស្លោ</common:Name></structure:Code>
         <structure:Code id="HZT_PEATX">
           <common:Name xml:lang="en">Hazard Type: Peat</common:Name>
           <common:Description xml:lang="en">Hazard Type: Peat</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: Peat</common:Name></structure:Code>
         <structure:Code id="HZT_PESTX">
           <common:Name xml:lang="en">Hazard Type: Pest</common:Name>
           <common:Description xml:lang="en">Hazard Type: Pest</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: សត្វល្អិត</common:Name></structure:Code>
         <structure:Code id="HZT_PLGUE">
           <common:Name xml:lang="en">Hazard Type: Plague</common:Name>
           <common:Description xml:lang="en">Hazard Type: Plague</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ប៉េស្ត</common:Name></structure:Code>
         <structure:Code id="HZT_POLUT">
           <common:Name xml:lang="en">Hazard Type: Pollution</common:Name>
           <common:Description xml:lang="en">Hazard Type: Pollution</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ការបំពុល</common:Name></structure:Code>
         <structure:Code id="HZT_SANDS">
           <common:Name xml:lang="en">Hazard Type: Sand Storm</common:Name>
           <common:Description xml:lang="en">Hazard Type: Sand Storm</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ព្យុះខ្សាច់</common:Name></structure:Code>
         <structure:Code id="HZT_SEDMN">
           <common:Name xml:lang="en">Hazard Type: Sedimentation</common:Name>
           <common:Description xml:lang="en">Hazard Type: Sedimentation</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ការប្រើថ្នាំលាប</common:Name></structure:Code>
         <structure:Code id="HZT_SNSTM">
           <common:Name xml:lang="en">Hazard Type: Snowstorm</common:Name>
           <common:Description xml:lang="en">Hazard Type: Snowstorm</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ព្យុះទឹកកក</common:Name></structure:Code>
         <structure:Code id="HZT_STORM">
           <common:Name xml:lang="en">Hazard Type: Storm</common:Name>
           <common:Description xml:lang="en">Hazard Type: Storm</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ព្យុះ</common:Name></structure:Code>
         <structure:Code id="HZT_STCOL">
           <common:Name xml:lang="en">Hazard Type: Structural Collapse</common:Name>
           <common:Description xml:lang="en">Hazard Type: Structural Collapse</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: បង្រួមរចនាសម្ព័ន្ធ</common:Name></structure:Code>
         <structure:Code id="HZT_STUCK">
           <common:Name xml:lang="en">Hazard Type: Stuck</common:Name>
           <common:Description xml:lang="en">Hazard Type: Stuck</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់៖ ជាប់</common:Name></structure:Code>
         <structure:Code id="HZT_SUBSD">
           <common:Name xml:lang="en">Hazard Type: Subsidence</common:Name>
           <common:Description xml:lang="en">Hazard Type: Subsidence</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ភាពជាវ</common:Name></structure:Code>
         <structure:Code id="HZT_TECHH">
           <common:Name xml:lang="en">Hazard Type: Technological Hazard</common:Name>
           <common:Description xml:lang="en">Hazard Type: Technological Hazard</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: គ្រោះថ្នាក់បច្ចេកទេស</common:Name></structure:Code>
         <structure:Code id="HZT_TORND">
           <common:Name xml:lang="en">Hazard Type: Tornado</common:Name>
           <common:Description xml:lang="en">Hazard Type: Tornado</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ព្យុះកំបុតត្បូង</common:Name></structure:Code>
         <structure:Code id="HZT_TSUNM">
           <common:Name xml:lang="en">Hazard Type: Tsunami</common:Name>
           <common:Description xml:lang="en">Hazard Type: Tsunami</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់៖ ស៊ូណាមិ</common:Name></structure:Code>
         <structure:Code id="HZT_VOLER">
           <common:Name xml:lang="en">Hazard Type: Volcanic Eruption</common:Name>
           <common:Description xml:lang="en">Hazard Type: Volcanic Eruption</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់៖ បន្ទុះភ្នំភ្លើង</common:Name></structure:Code>
         <structure:Code id="HZT_WLDFR">
           <common:Name xml:lang="en">Hazard Type: Wild Fire</common:Name>
           <common:Description xml:lang="en">Hazard Type: Wild Fire</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ភ្លើងឆេះព្រៃ</common:Name></structure:Code>
         <structure:Code id="HZT_WNDST">
           <common:Name xml:lang="en">Hazard Type: Windstorm</common:Name>
           <common:Description xml:lang="en">Hazard Type: Windstorm</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទគ្រោះថ្នាក់: ខ្យល់ព្យុះ</common:Name></structure:Code>
         <structure:Code id="MOT_AIR">
           <common:Name xml:lang="en">Mode of Transport: Air</common:Name>
           <common:Description xml:lang="en">Mode of Transport: Air</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">របៀបដឹកជញ្ជូន៖ អាកាស</common:Name></structure:Code>
         <structure:Code id="MOT_RAI">
           <common:Name xml:lang="en">Mode of Transport: Rail</common:Name>
           <common:Description xml:lang="en">Mode of Transport: Rail</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">របៀបនៃការដឹកជញ្ជូន៖ ផ្លូវដែក</common:Name></structure:Code>
         <structure:Code id="MOT_ROA">
           <common:Name xml:lang="en">Mode of Transport: Road</common:Name>
           <common:Description xml:lang="en">Mode of Transport: Road</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">របៀបដឹកជញ្ជូន៖ ផ្លូវ</common:Name></structure:Code>
         <structure:Code id="IHR_01">
           <common:Name xml:lang="en">IHR Capacity: National legislation, policy and financing</common:Name>
           <common:Description xml:lang="en">IHR Capacity: National legislation, policy and financing</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សមត្ថភាព IHR៖ នីតិកម្មជាតិគោលនយោបាយនិងហិរញ្ញប្បទាន</common:Name></structure:Code>
         <structure:Code id="IHR_02">
           <common:Name xml:lang="en">IHR Capacity: Coordination and National Focal Point communications</common:Name>
           <common:Description xml:lang="en">IHR Capacity: Coordination and National Focal Point communications</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សមត្ថភាពអង្គការអាយ។ អេស។ អេស៖ ការសំរបសំរួលនិងការទំនាក់ទំនងចំណុចជាតិ</common:Name></structure:Code>
         <structure:Code id="IHR_03">
           <common:Name xml:lang="en">IHR Capacity: Surveillance</common:Name>
           <common:Description xml:lang="en">IHR Capacity: Surveillance</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សមត្ថភាព IHR: ការឃ្លាំមើល</common:Name></structure:Code>
         <structure:Code id="IHR_04">
           <common:Name xml:lang="en">IHR Capacity: Response</common:Name>
           <common:Description xml:lang="en">IHR Capacity: Response</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សមត្ថភាព IHR: ការឆ្លើយតប</common:Name></structure:Code>
         <structure:Code id="IHR_05">
           <common:Name xml:lang="en">IHR Capacity: Preparedness</common:Name>
           <common:Description xml:lang="en">IHR Capacity: Preparedness</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សមត្ថភាព IHR: ការត្រៀមលក្ខណៈ</common:Name></structure:Code>
         <structure:Code id="IHR_06">
           <common:Name xml:lang="en">IHR Capacity: Risk communication</common:Name>
           <common:Description xml:lang="en">IHR Capacity: Risk communication</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សមត្ថភាពរបស់អាយ។ អេស។ អេស៖ ការប្រស្រ័យទាក់ទងគ្នា</common:Name></structure:Code>
         <structure:Code id="IHR_07">
           <common:Name xml:lang="en">IHR Capacity: Human resources</common:Name>
           <common:Description xml:lang="en">IHR Capacity: Human resources</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សមត្ថភាពអង្គការអាយ។ អេស។ អេ។ អិលៈធនធានមនុស្ស</common:Name></structure:Code>
         <structure:Code id="IHR_08">
           <common:Name xml:lang="en">IHR Capacity: Laboratory</common:Name>
           <common:Description xml:lang="en">IHR Capacity: Laboratory</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សមត្ថភាព IHR: មន្ទីរពិសោធន៍</common:Name></structure:Code>
         <structure:Code id="IHR_09">
           <common:Name xml:lang="en">IHR Capacity: Points of entry</common:Name>
           <common:Description xml:lang="en">IHR Capacity: Points of entry</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សមត្ថភាពអាយ។ អេ។ អេ។ អេ។ អេ។ អេស។ ៖ ចំណុចចូល</common:Name></structure:Code>
         <structure:Code id="IHR_10">
           <common:Name xml:lang="en">IHR Capacity: Zoonotic events</common:Name>
           <common:Description xml:lang="en">IHR Capacity: Zoonotic events</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សមត្ថភាព IHR: ព្រឹត្តិការណ៍ហ្សូណូទិក</common:Name></structure:Code>
         <structure:Code id="IHR_11">
           <common:Name xml:lang="en">IHR Capacity: Food safety</common:Name>
           <common:Description xml:lang="en">IHR Capacity: Food safety</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សមត្ថភាពអង្គការអាយ។ អេស។ អេស៖ សុវត្ថិភាពចំណីអាហារ</common:Name></structure:Code>
         <structure:Code id="IHR_12">
           <common:Name xml:lang="en">IHR Capacity: Chemical events</common:Name>
           <common:Description xml:lang="en">IHR Capacity: Chemical events</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សមត្ថភាព IHR: ព្រឹត្តិការណ៍គីមី</common:Name></structure:Code>
         <structure:Code id="IHR_13">
           <common:Name xml:lang="en">IHR Capacity: Radionuclear emergencies</common:Name>
           <common:Description xml:lang="en">IHR Capacity: Radionuclear emergencies</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សមត្ថភាពរបស់អាយ។ អេ។ អេ។ អេស។ អេជៈភាពបន្ទាន់នៃកាំរស្មី</common:Name></structure:Code>
         <structure:Code id="IS_256KT2M">
           <common:Name xml:lang="en">Internet speed: 256 kbit/s to less than 2 Mbit/s</common:Name>
           <common:Description xml:lang="en">Internet speed: 256 kbit/s to less than 2 Mbit/s</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ល្បឿនអ៊ីនធឺណិត៖ ២៥៦ kbit / s ដល់តិចជាង ២ Mbit / s</common:Name></structure:Code>
         <structure:Code id="IS_2MT10M">
           <common:Name xml:lang="en">Internet speed: 2 Mbit/s to less than 10 Mbit/s</common:Name>
           <common:Description xml:lang="en">Internet speed: 2 Mbit/s to less than 10 Mbit/s</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ល្បឿនអ៊ីនធឺណិត៖ ២ Mbit / s ទៅតិចជាង ១០ Mbit / s</common:Name></structure:Code>
         <structure:Code id="IS_GE10M">
           <common:Name xml:lang="en">Internet speed: 10 Mbit/s or above</common:Name>
           <common:Description xml:lang="en">Internet speed: 10 Mbit/s or above</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ល្បឿនអ៊ីនធឺណិត៖ ១០ Mbit / s ឬខ្ពស់ជាងនេះ</common:Name></structure:Code>
         <structure:Code id="DEG_HIG">
           <common:Name xml:lang="en">Degree: High level</common:Name>
           <common:Description xml:lang="en">Degree: High level</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សញ្ញាប័ត្រ៖ កំរិតខ្ពស់</common:Name></structure:Code>
         <structure:Code id="DEG_LOW">
           <common:Name xml:lang="en">Degree: Low level</common:Name>
           <common:Description xml:lang="en">Degree: Low level</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សញ្ញាប័ត្រ៖ កំរិតទាប</common:Name></structure:Code>
         <structure:Code id="DEG_MHIG">
           <common:Name xml:lang="en">Degree: Medium-high level</common:Name>
           <common:Description xml:lang="en">Degree: Medium-high level</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សញ្ញាប័ត្រ៖ កំរិតមធ្យម - ខ្ពស់</common:Name></structure:Code>
         <structure:Code id="DEG_VHIG">
           <common:Name xml:lang="en">Degree: Very high level</common:Name>
           <common:Description xml:lang="en">Degree: Very high level</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សញ្ញាប័ត្រ៖ កំរិតខ្ពស់ណាស់</common:Name></structure:Code>
         <structure:Code id="DEG_VLOW">
           <common:Name xml:lang="en">Degree: Very low level</common:Name>
           <common:Description xml:lang="en">Degree: Very low level</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">កំរិតសញ្ញាបត្រ៖ កំរិតទាបបំផុត</common:Name></structure:Code>
         <structure:Code id="DEG_MLOW">
           <common:Name xml:lang="en">Degree: Medium-low level</common:Name>
           <common:Description xml:lang="en">Degree: Medium-low level</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">កំរិតសញ្ញាបត្រ៖ កំរិតមធ្យម - ទាប</common:Name></structure:Code>
         <structure:Code id="_L_SL_SOLAR">
           <common:Name xml:lang="en">Source of light: Solar</common:Name>
           <common:Description xml:lang="en">Source of light: Solar</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភពនៃពន្លឺ: សូឡា</common:Name></structure:Code>
         <structure:Code id="_L_SL_PUBLIC">
           <common:Name xml:lang="en">Source of light: Publicly-provided electricity</common:Name>
           <common:Description xml:lang="en">Source of light: Publicly-provided electricity</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភពនៃពន្លឺ៖ អគ្គិសនីផ្តល់ដោយសាធារណៈ</common:Name></structure:Code>
         <structure:Code id="_L_SL_PRIVATE">
           <common:Name xml:lang="en">Source of light: Privately-generated electricity</common:Name>
           <common:Description xml:lang="en">Source of light: Privately-generated electricity</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភពនៃពន្លឺ: អគ្គិសនីដែលបង្កើតដោយឯកឯង</common:Name></structure:Code>
         <structure:Code id="_L_SL_OTHER">
           <common:Name xml:lang="en">Source of light: Other</common:Name>
           <common:Description xml:lang="en">Source of light: Other</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភពនៃពន្លឺ: ផ្សេងទៀត</common:Name></structure:Code>
         <structure:Code id="_L_SL_NONE">
           <common:Name xml:lang="en">Source of light: None</common:Name>
           <common:Description xml:lang="en">Source of light: None</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភពនៃពន្លឺ: គ្មាន</common:Name></structure:Code>
         <structure:Code id="_L_SL_KEROSENE_LAMP">
           <common:Name xml:lang="en">Source of light: Kerosene lamp</common:Name>
           <common:Description xml:lang="en">Source of light: Kerosene lamp</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភពនៃពន្លឺ: ចង្កៀងប្រេងកាត</common:Name></structure:Code>
         <structure:Code id="_L_SL_CANDLE">
           <common:Name xml:lang="en">Source of light: Candle</common:Name>
           <common:Description xml:lang="en">Source of light: Candle</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភពនៃពន្លឺ: ទៀន</common:Name></structure:Code>
         <structure:Code id="_L_SL_BATTERY">
           <common:Name xml:lang="en">Source of light: Battery</common:Name>
           <common:Description xml:lang="en">Source of light: Battery</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភពនៃពន្លឺ: ថ្ម</common:Name></structure:Code>
         <structure:Code id="_L_TWS_PIPE">
           <common:Name xml:lang="en">Type of water source: Piped In Dwelling Or On Premises</common:Name>
           <common:Description xml:lang="en">Type of water source: Piped In Dwelling Or On Premises</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទប្រភពទឹក: បំពង់បង្ហូរទឹកនៅក្នុងទីជម្រកឬនៅតាមបរិវេណ</common:Name></structure:Code>
         <structure:Code id="_L_TWS_PUBTAP">
           <common:Name xml:lang="en">Type of water source: Public Tap</common:Name>
           <common:Description xml:lang="en">Type of water source: Public Tap</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទប្រភពទឹក៖ ប្រភពសាធារណៈ</common:Name></structure:Code>
         <structure:Code id="_L_TWS_PIPEWELL">
           <common:Name xml:lang="en">Type of water source: Tube Piped Well Or Borehole</common:Name>
           <common:Description xml:lang="en">Type of water source: Tube Piped Well Or Borehole</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទប្រភពទឹក៖ បំពង់ទុយោអណ្តូងរឺបូរី</common:Name></structure:Code>
         <structure:Code id="_L_TWS_DUGWELL">
           <common:Name xml:lang="en">Type of water source: Protected Dug Well</common:Name>
           <common:Description xml:lang="en">Type of water source: Protected Dug Well</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទប្រភពទឹក៖ ជីកអណ្តូងការពារ</common:Name></structure:Code>
         <structure:Code id="_L_TWS_RAINCOLL">
           <common:Name xml:lang="en">Type of water source: Improved Rainwater Collection</common:Name>
           <common:Description xml:lang="en">Type of water source: Improved Rainwater Collection</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទប្រភពទឹក៖ ការប្រមូលទឹកភ្លៀងឱ្យប្រសើរឡើង</common:Name></structure:Code>
         <structure:Code id="_L_TLT_FLSEWER">
           <common:Name xml:lang="en">Type of toilet: Pour Flush Connected To Sewerage</common:Name>
           <common:Description xml:lang="en">Type of toilet: Pour Flush Connected To Sewerage</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទបង្គន់: ចាក់ទឹកភ្ជាប់ភ្ជាប់ទៅនឹងលូទឹក</common:Name></structure:Code>
         <structure:Code id="_L_TLT_FLSEPT">
           <common:Name xml:lang="en">Type of toilet: Pour FlushConnected To Septic Tank</common:Name>
           <common:Description xml:lang="en">Type of toilet: Pour FlushConnected To Septic Tank</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទបង្គន់: ចាក់ FlushConnected To Septic Tank</common:Name></structure:Code>
         <structure:Code id="_L_TLT_PLWS">
           <common:Name xml:lang="en">Type of toilet: Pit Latrine With Slab</common:Name>
           <common:Description xml:lang="en">Type of toilet: Pit Latrine With Slab</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រភេទបង្គន់៖ បង្គន់រណ្តៅជាមួយស្លា</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="KH_NIS" id="CL_SERIES" isFinal="true" version="1.2">
         <common:Name xml:lang="en">SDG Series</common:Name>
