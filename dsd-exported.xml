@@ -1164,15 +1164,15 @@
         <structure:Code id="G">
           <common:Name xml:lang="en">Global</common:Name>
           <common:Description xml:lang="en">Global</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សកល</common:Name></structure:Code>
         <structure:Code id="R">
           <common:Name xml:lang="en">Regional</common:Name>
           <common:Description xml:lang="en">Regional</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">តំបន់</common:Name></structure:Code>
         <structure:Code id="N">
           <common:Name xml:lang="en">National</common:Name>
           <common:Description xml:lang="en">National</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជាតិ</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="IAEG-SDGs" id="CL_SEX" isFinal="true" version="1.0">
         <common:Name xml:lang="en">The state of being male or female.</common:Name>
@@ -1184,7 +1184,7 @@
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Female</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្រី</common:Name></structure:Code>
         <structure:Code id="M">
           <common:Annotations>
             <common:Annotation>
@@ -1193,7 +1193,7 @@
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Male</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រុស</common:Name></structure:Code>
         <structure:Code id="_N">
           <common:Annotations>
             <common:Annotation>
@@ -1202,7 +1202,7 @@
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Non response</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនឆ្លើយតប</common:Name></structure:Code>
         <structure:Code id="_O">
           <common:Annotations>
             <common:Annotation>
@@ -1211,7 +1211,7 @@
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Other</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ផ្សេងទៀត</common:Name></structure:Code>
         <structure:Code id="_U">
           <common:Annotations>
             <common:Annotation>
@@ -1220,7 +1220,7 @@
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Unknown</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនស្គាល់</common:Name></structure:Code>
         <structure:Code id="_T">
           <common:Annotations>
             <common:Annotation>
@@ -1229,7 +1229,7 @@
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Both sexes or no breakdown by sex</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ទាំងភេទទាំងការបែកបាក់គ្នាដោយការរួមភេទ</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="KH_NIS" id="CL_AGE" isFinal="true" version="1.0">
         <common:Name xml:lang="en">SDG age group code list</common:Name>
