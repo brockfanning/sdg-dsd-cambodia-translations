@@ -1066,7 +1066,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Total (national average) or no breakdown</common:Name>
           <common:Description xml:lang="en">Total (national average) or no breakdown</common:Description>
-        <common:Name xml:lang="km">សរុប (មធ្យមថ្នាក់ជាតិ) ឬគ្មានការវិភាគ</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="Q1">
           <common:Annotations>
             <common:Annotation>
@@ -1076,7 +1076,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Quintile 1 (poorest)</common:Name>
           <common:Description xml:lang="en">Quintile 1 (poorest)</common:Description>
-        <common:Name xml:lang="km">ឃ្វីនទី ១ (ក្របំផុត)</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="Q2">
           <common:Annotations>
             <common:Annotation>
@@ -1086,7 +1086,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Quintile 2</common:Name>
           <common:Description xml:lang="en">Quintile 2</common:Description>
-        <common:Name xml:lang="km">ឃ្វីនទី ២</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="Q3">
           <common:Annotations>
             <common:Annotation>
@@ -1096,7 +1096,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Quintile 3</common:Name>
           <common:Description xml:lang="en">Quintile 3</common:Description>
-        <common:Name xml:lang="km">ឃ្វីនទី ៣</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="Q4">
           <common:Annotations>
             <common:Annotation>
@@ -1106,7 +1106,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Quintile 4</common:Name>
           <common:Description xml:lang="en">Quintile 4</common:Description>
-        <common:Name xml:lang="km">ឃ្វីនទី ៤</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="Q5">
           <common:Annotations>
             <common:Annotation>
@@ -1116,7 +1116,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Quintile 5 (richest)</common:Name>
           <common:Description xml:lang="en">Quintile 5 (richest)</common:Description>
-        <common:Name xml:lang="km">ឃ្វីនទី ៥ (មានជាងគេបំផុត)</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="B40">
           <common:Annotations>
             <common:Annotation>
@@ -1126,7 +1126,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Bottom 40%</common:Name>
           <common:Description xml:lang="en">Bottom 40%</common:Description>
-        <common:Name xml:lang="km">បាត ៤០%</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="R60">
           <common:Annotations>
             <common:Annotation>
@@ -1136,7 +1136,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Richest 60%</common:Name>
           <common:Description xml:lang="en">Richest 60%</common:Description>
-        <common:Name xml:lang="km">៦០%</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="B50">
           <common:Annotations>
             <common:Annotation>
@@ -1146,7 +1146,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Bottom 50%</common:Name>
           <common:Description xml:lang="en">Bottom 50%</common:Description>
-        <common:Name xml:lang="km">ក្រោម ៥០%</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="R50">
           <common:Annotations>
             <common:Annotation>
@@ -1156,7 +1156,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Richest 50%</common:Name>
           <common:Description xml:lang="en">Richest 50%</common:Description>
-        <common:Name xml:lang="km">៥០ ភាគរយបំផុត</common:Name></structure:Code>
+        </structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="IAEG-SDGs" id="CL_REPORTING_TYPE" isFinal="true" version="1.0">
         <common:Name xml:lang="en">Reporting type code list</common:Name>
