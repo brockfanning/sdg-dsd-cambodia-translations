@@ -61,70 +61,70 @@
         <common:Description xml:lang="en">High-level grouping of economic activities based on the types of goods and services produced. Based on the ISIC classification.</common:Description>
         <structure:Code id="_T">
           <common:Name xml:lang="en">No breakdown</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនមានការបែកបាក់</common:Name></structure:Code>
         <structure:Code id="ISIC4_A">
           <common:Name xml:lang="en">Agriculture, forestry and fishing</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កសិកម្មរុក្ខាប្រមាញ់និងនេសាទ</common:Name></structure:Code>
         <structure:Code id="ISIC4_B">
           <common:Name xml:lang="en">Mining and quarrying</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ការជីកយករ៉ែនិងការយកថ្ម</common:Name></structure:Code>
         <structure:Code id="ISIC4_C">
           <common:Name xml:lang="en">Manufacturing</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ផលិតកម្ម</common:Name></structure:Code>
         <structure:Code id="ISIC4_D">
           <common:Name xml:lang="en">Electricity, gas, steam and air conditioning supply</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អគ្គិសនីឧស្ម័នចំហាយនិងការផ្គត់ផ្គង់ម៉ាស៊ីនត្រជាក់</common:Name></structure:Code>
         <structure:Code id="ISIC4_E">
           <common:Name xml:lang="en">Water supply; sewerage, waste management and remediation activities</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ការ​ផ្គត់ផ្គង់​ទឹក; លូទឹកគ្រប់គ្រងសំរាមនិងសកម្មភាពដោះស្រាយ</common:Name></structure:Code>
         <structure:Code id="ISIC4_F">
           <common:Name xml:lang="en">Construction</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សំណង់</common:Name></structure:Code>
         <structure:Code id="ISIC4_G">
           <common:Name xml:lang="en">Wholesale and retail trade; repair of motor vehicles and motorcycles</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ពាណិជ្ជកម្មលក់ដុំនិងរាយ; ជួសជុលយានយន្តនិងម៉ូតូ</common:Name></structure:Code>
         <structure:Code id="ISIC4_H">
           <common:Name xml:lang="en">Transportation and storage</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ការដឹកជញ្ជូននិងការផ្ទុក</common:Name></structure:Code>
         <structure:Code id="ISIC4_I">
           <common:Name xml:lang="en">Accommodation and food service activities</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សកម្មភាពស្នាក់នៅនិងសេវាកម្មអាហារ</common:Name></structure:Code>
         <structure:Code id="ISIC4_J">
           <common:Name xml:lang="en">Information and communication</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ព័ត៌មាននិងទំនាក់ទំនង</common:Name></structure:Code>
         <structure:Code id="ISIC4_K">
           <common:Name xml:lang="en">Financial and insurance activities</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សកម្មភាពហិរញ្ញវត្ថុនិងធានារ៉ាប់រង</common:Name></structure:Code>
         <structure:Code id="ISIC4_L">
           <common:Name xml:lang="en">Real estate activities</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សកម្មភាពអចលនទ្រព្យ</common:Name></structure:Code>
         <structure:Code id="ISIC4_M">
           <common:Name xml:lang="en">Professional, scientific and technical activities</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សកម្មភាពវិជ្ជាជីវៈវិទ្យាសាស្ត្រនិងបច្ចេកទេស</common:Name></structure:Code>
         <structure:Code id="ISIC4_N">
           <common:Name xml:lang="en">Administrative and support service activities</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សកម្មភាពរដ្ឋបាលនិងគាំទ្រសេវាកម្ម</common:Name></structure:Code>
         <structure:Code id="ISIC4_O">
           <common:Name xml:lang="en">Public administration and defence; compulsory social security</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">រដ្ឋបាលសាធារណៈនិងការពារជាតិ; សន្តិសុខសង្គមជាកាតព្វកិច្ច</common:Name></structure:Code>
         <structure:Code id="ISIC4_P">
           <common:Name xml:lang="en">Education</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំ</common:Name></structure:Code>
         <structure:Code id="ISIC4_Q">
           <common:Name xml:lang="en">Human health and social work activities</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សកម្មភាពសុខភាពមនុស្សនិងការងារសង្គម</common:Name></structure:Code>
         <structure:Code id="ISIC4_R">
           <common:Name xml:lang="en">Arts, entertainment and recreation</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សិល្បៈការកំសាន្តនិងការកំសាន្ត</common:Name></structure:Code>
         <structure:Code id="ISIC4_S">
           <common:Name xml:lang="en">Other service activities</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សកម្មភាពសេវាកម្មផ្សេងៗ</common:Name></structure:Code>
         <structure:Code id="ISIC4_T">
           <common:Name xml:lang="en">Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សកម្មភាពរបស់គ្រួសារជានិយោជក; ទំនិញដែលមិនមានអនុគ្រោះនិងសកម្មភាពផលិតសេវាកម្មរបស់គ្រួសារសម្រាប់ការប្រើប្រាស់ផ្ទាល់ខ្លួន</common:Name></structure:Code>
         <structure:Code id="ISIC4_U">
           <common:Name xml:lang="en">Activities of extraterritorial organisations and bodies</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សកម្មភាពរបស់អង្គការនិងសាកសពក្រៅប្រព័ន្ធ</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="IAEG-SDGs" id="CL_CUST_BREAKDOWN" isFinal="true" version="1.0">
         <common:Name xml:lang="en">SDG custom breakdown code list</common:Name>
@@ -1236,527 +1236,527 @@
         <structure:Code id="_T">
           <common:Name xml:lang="en">All age ranges or no breakdown by age</common:Name>
           <common:Description xml:lang="en">All age ranges or no breakdown by age</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជួរអាយុទាំងអស់ឬគ្មានការបែងចែកតាមអាយុ</common:Name></structure:Code>
         <structure:Code id="M0">
           <common:Name xml:lang="en">under 1 month old</common:Name>
           <common:Description xml:lang="en">under 1 month old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុក្រោម ១ ខែ</common:Name></structure:Code>
         <structure:Code id="M36T59">
           <common:Name xml:lang="en">36 to 59 months old</common:Name>
           <common:Description xml:lang="en">36 to 59 months old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៣៦ ទៅ ៥៩ ខែ</common:Name></structure:Code>
         <structure:Code id="Y0">
           <common:Name xml:lang="en">under 1 year old</common:Name>
           <common:Description xml:lang="en">under 1 year old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុក្រោម ១ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y0T4">
           <common:Name xml:lang="en">under 5 years old</common:Name>
           <common:Description xml:lang="en">under 5 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុក្រោម ៥ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y0T14">
           <common:Name xml:lang="en">under 15 years old</common:Name>
           <common:Description xml:lang="en">under 15 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុក្រោម ១៥ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y0T17">
           <common:Name xml:lang="en">under 18 years old</common:Name>
           <common:Description xml:lang="en">under 18 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុក្រោម ១៨ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y1T14">
           <common:Name xml:lang="en">1 to 14 years old</common:Name>
           <common:Description xml:lang="en">1 to 14 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១ ទៅ ១៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y1T17">
           <common:Name xml:lang="en">1 to 17 years old</common:Name>
           <common:Description xml:lang="en">1 to 17 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១ ទៅ ១៧ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y5T14">
           <common:Name xml:lang="en">5 to 14 years old</common:Name>
           <common:Description xml:lang="en">5 to 14 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៥ ទៅ ១៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y5T17">
           <common:Name xml:lang="en">5 to 17 years old</common:Name>
           <common:Description xml:lang="en">5 to 17 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៥ ទៅ ១៧ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE5">
           <common:Name xml:lang="en">5 years old and over</common:Name>
           <common:Description xml:lang="en">5 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៥ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y6T14">
           <common:Name xml:lang="en">6 to 14 years old</common:Name>
           <common:Description xml:lang="en">6 to 14 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៦ ទៅ ១៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y6T17">
           <common:Name xml:lang="en">6 to 17 years old</common:Name>
           <common:Description xml:lang="en">6 to 17 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៦ ទៅ ១៧ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE6">
           <common:Name xml:lang="en">6 years old and over</common:Name>
           <common:Description xml:lang="en">6 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៦ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y7T14">
           <common:Name xml:lang="en">7 to 14 years old</common:Name>
           <common:Description xml:lang="en">7 to 14 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៧ ទៅ ១៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y7T17">
           <common:Name xml:lang="en">7 to 17 years old</common:Name>
           <common:Description xml:lang="en">7 to 17 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៧ ទៅ ១៧ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE7">
           <common:Name xml:lang="en">7 years old and over</common:Name>
           <common:Description xml:lang="en">7 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៧ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y10T14">
           <common:Name xml:lang="en">10 to 14 years old</common:Name>
           <common:Description xml:lang="en">10 to 14 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១០ ទៅ ១៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y10T17">
           <common:Name xml:lang="en">10 to 17 years old</common:Name>
           <common:Description xml:lang="en">10 to 17 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១០ ទៅ ១៧ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y10T24">
           <common:Name xml:lang="en">10 to 24 years old</common:Name>
           <common:Description xml:lang="en">10 to 24 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១០ ទៅ ២៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y10T74">
           <common:Name xml:lang="en">10 to 74 years old</common:Name>
           <common:Description xml:lang="en">10 to 74 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១០ ទៅ ៧៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE10">
           <common:Name xml:lang="en">10 years old and over</common:Name>
           <common:Description xml:lang="en">10 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ១០ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y12T14">
           <common:Name xml:lang="en">12 to 14 years old</common:Name>
           <common:Description xml:lang="en">12 to 14 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១២ ទៅ ១៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y12T17">
           <common:Name xml:lang="en">12 to 17 years old</common:Name>
           <common:Description xml:lang="en">12 to 17 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១២ ទៅ ១៧ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y12T30">
           <common:Name xml:lang="en">12 to 30 years old</common:Name>
           <common:Description xml:lang="en">12 to 30 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១២ ទៅ ៣០ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE12">
           <common:Name xml:lang="en">12 years old and over</common:Name>
           <common:Description xml:lang="en">12 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ១២ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y14T24">
           <common:Name xml:lang="en">14 to 24 years old</common:Name>
           <common:Description xml:lang="en">14 to 24 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៤ ទៅ ២៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y14T28">
           <common:Name xml:lang="en">14 to 28 years old</common:Name>
           <common:Description xml:lang="en">14 to 28 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៤ ទៅ ២៨ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y14T29">
           <common:Name xml:lang="en">14 to 29 years old</common:Name>
           <common:Description xml:lang="en">14 to 29 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៤ ទៅ ២៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE14">
           <common:Name xml:lang="en">14 years old and over</common:Name>
           <common:Description xml:lang="en">14 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ១៤ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y15T17">
           <common:Name xml:lang="en">15 to 17 years old</common:Name>
           <common:Description xml:lang="en">15 to 17 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៥ ទៅ ១៧ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y15T19">
           <common:Name xml:lang="en">15 to 19 years old</common:Name>
           <common:Description xml:lang="en">15 to 19 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៥ ទៅ ១៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y15T24">
           <common:Name xml:lang="en">15 to 24 years old</common:Name>
           <common:Description xml:lang="en">15 to 24 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៥ ទៅ ២៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y15T29">
           <common:Name xml:lang="en">15 to 29 years old</common:Name>
           <common:Description xml:lang="en">15 to 29 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៥ ទៅ ២៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y15T44">
           <common:Name xml:lang="en">15 to 44 years old</common:Name>
           <common:Description xml:lang="en">15 to 44 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៥ ទៅ ៤៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y15T49">
           <common:Name xml:lang="en">15 to 49 years old</common:Name>
           <common:Description xml:lang="en">15 to 49 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៥ ទៅ ៤៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y15T60">
           <common:Name xml:lang="en">15 to 60 years old</common:Name>
           <common:Description xml:lang="en">15 to 60 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៥ ទៅ ៦០ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y15T64">
           <common:Name xml:lang="en">15 to 64 years old</common:Name>
           <common:Description xml:lang="en">15 to 64 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៥ ទៅ ៦៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y15T65">
           <common:Name xml:lang="en">15 to 65 years old</common:Name>
           <common:Description xml:lang="en">15 to 65 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៥ ទៅ ៦៥ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y15T70">
           <common:Name xml:lang="en">15 to 70 years old</common:Name>
           <common:Description xml:lang="en">15 to 70 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៥ ទៅ ៧០ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y15T72">
           <common:Name xml:lang="en">15 to 72 years old</common:Name>
           <common:Description xml:lang="en">15 to 72 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៥ ទៅ ៧២ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y15T74">
           <common:Name xml:lang="en">15 to 74 years old</common:Name>
           <common:Description xml:lang="en">15 to 74 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៥ ទៅ ៧៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y15T80">
           <common:Name xml:lang="en">15 to 80 years old</common:Name>
           <common:Description xml:lang="en">15 to 80 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៥ ទៅ ៨០ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y15T84">
           <common:Name xml:lang="en">15 to 84 years old</common:Name>
           <common:Description xml:lang="en">15 to 84 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៥ ទៅ ៨៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE15">
           <common:Name xml:lang="en">15 years old and over</common:Name>
           <common:Description xml:lang="en">15 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ១៥ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y16T24">
           <common:Name xml:lang="en">16 to 24 years old</common:Name>
           <common:Description xml:lang="en">16 to 24 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៦ ទៅ ២៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y16T65">
           <common:Name xml:lang="en">16 to 65 years old</common:Name>
           <common:Description xml:lang="en">16 to 65 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៦ ទៅ ៦៥ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y16T74">
           <common:Name xml:lang="en">16 to 74 years old</common:Name>
           <common:Description xml:lang="en">16 to 74 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៦ ទៅ ៧៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE16">
           <common:Name xml:lang="en">16 years old and over</common:Name>
           <common:Description xml:lang="en">16 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ១៦ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y18T19">
           <common:Name xml:lang="en">18 to 19 years old</common:Name>
           <common:Description xml:lang="en">18 to 19 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៨ ទៅ ១៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y18T27">
           <common:Name xml:lang="en">18 to 27 years old</common:Name>
           <common:Description xml:lang="en">18 to 27 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៨ ទៅ ២៧ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y18T29">
           <common:Name xml:lang="en">18 to 29 years old</common:Name>
           <common:Description xml:lang="en">18 to 29 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៨ ទៅ ២៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y18T35">
           <common:Name xml:lang="en">18 to 35 years old</common:Name>
           <common:Description xml:lang="en">18 to 35 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៨ ទៅ ៣៥ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y18T44">
           <common:Name xml:lang="en">18 to 44 years old</common:Name>
           <common:Description xml:lang="en">18 to 44 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៨ ទៅ ៤៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE18">
           <common:Name xml:lang="en">18 years old and over</common:Name>
           <common:Description xml:lang="en">18 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ១៨ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y19T65">
           <common:Name xml:lang="en">19 to 65 years old</common:Name>
           <common:Description xml:lang="en">19 to 65 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៩ ទៅ ៦៥ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y20T24">
           <common:Name xml:lang="en">20 to 24 years old</common:Name>
           <common:Description xml:lang="en">20 to 24 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ២០ ទៅ ២៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y20T29">
           <common:Name xml:lang="en">20 to 29 years old</common:Name>
           <common:Description xml:lang="en">20 to 29 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ២០ ទៅ ២៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y20T30">
           <common:Name xml:lang="en">20 to 30 years old</common:Name>
           <common:Description xml:lang="en">20 to 30 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ២០ ទៅ ៣០ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y20T49">
           <common:Name xml:lang="en">20 to 49 years old</common:Name>
           <common:Description xml:lang="en">20 to 49 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ២០ ទៅ ៤៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y20T64">
           <common:Name xml:lang="en">20 to 64 years old</common:Name>
           <common:Description xml:lang="en">20 to 64 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ២០ ទៅ ៦៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y20T74">
           <common:Name xml:lang="en">20 to 74 years old</common:Name>
           <common:Description xml:lang="en">20 to 74 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ២០ ទៅ ៧៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y25T29">
           <common:Name xml:lang="en">25 to 29 years old</common:Name>
           <common:Description xml:lang="en">25 to 29 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ២៥ ទៅ ២៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y25T34">
           <common:Name xml:lang="en">25 to 34 years old</common:Name>
           <common:Description xml:lang="en">25 to 34 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ២៥ ទៅ ៣៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y25T64">
           <common:Name xml:lang="en">25 to 64 years old</common:Name>
           <common:Description xml:lang="en">25 to 64 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ២៥ ទៅ ៦៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE25">
           <common:Name xml:lang="en">25 years old and over</common:Name>
           <common:Description xml:lang="en">25 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ២៥ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y30">
           <common:Name xml:lang="en">30 years old</common:Name>
           <common:Description xml:lang="en">30 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៣០ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y30T34">
           <common:Name xml:lang="en">30 to 34 years old</common:Name>
           <common:Description xml:lang="en">30 to 34 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៣០ ទៅ ៣៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y30T39">
           <common:Name xml:lang="en">30 to 39 years old</common:Name>
           <common:Description xml:lang="en">30 to 39 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៣០ ទៅ ៣៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y30T69">
           <common:Name xml:lang="en">30 to 69 years old</common:Name>
           <common:Description xml:lang="en">30 to 69 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៣០ ទៅ ៦៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y30T70">
           <common:Name xml:lang="en">30 to exact 70 years old</common:Name>
           <common:Description xml:lang="en">30 to exact 70 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៣០ ឆ្នាំដល់ ៧០ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y35">
           <common:Name xml:lang="en">35 years old</common:Name>
           <common:Description xml:lang="en">35 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៣៥ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y35T39">
           <common:Name xml:lang="en">35 to 39 years old</common:Name>
           <common:Description xml:lang="en">35 to 39 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៣៥ ទៅ ៣៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y35T44">
           <common:Name xml:lang="en">35 to 44 years old</common:Name>
           <common:Description xml:lang="en">35 to 44 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៣៥ ទៅ ៤៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y35T49">
           <common:Name xml:lang="en">35 to 49 years old</common:Name>
           <common:Description xml:lang="en">35 to 49 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៣៥ ទៅ ៤៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y40T44">
           <common:Name xml:lang="en">40 to 44 years old</common:Name>
           <common:Description xml:lang="en">40 to 44 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៤០ ទៅ ៤៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y40T49">
           <common:Name xml:lang="en">40 to 49 years old</common:Name>
           <common:Description xml:lang="en">40 to 49 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៤០ ទៅ ៤៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y45T49">
           <common:Name xml:lang="en">45 to 49 years old</common:Name>
           <common:Description xml:lang="en">45 to 49 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៤៥ ទៅ ៤៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y45T59">
           <common:Name xml:lang="en">45 to 59 years old</common:Name>
           <common:Description xml:lang="en">45 to 59 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៤៥ ទៅ ៥៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y0T9">
           <common:Name xml:lang="en">under 10 years old</common:Name>
           <common:Description xml:lang="en">under 10 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុក្រោម ១០ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y5T9">
           <common:Name xml:lang="en">5 to 9 years old</common:Name>
           <common:Description xml:lang="en">5 to 9 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៥ ទៅ ៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y10T19">
           <common:Name xml:lang="en">10 to 19 years old</common:Name>
           <common:Description xml:lang="en">10 to 19 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១០ ទៅ ១៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y50T54">
           <common:Name xml:lang="en">50 to 54 years old</common:Name>
           <common:Description xml:lang="en">50 to 54 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៥០ ទៅ ៥៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y50T59">
           <common:Name xml:lang="en">50 to 59 years old</common:Name>
           <common:Description xml:lang="en">50 to 59 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៥០ ទៅ ៥៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y55T59">
           <common:Name xml:lang="en">55 to 59 years old</common:Name>
           <common:Description xml:lang="en">55 to 59 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៥៥ ទៅ ៥៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y60T64">
           <common:Name xml:lang="en">60 to 64 years old</common:Name>
           <common:Description xml:lang="en">60 to 64 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៦០ ទៅ ៦៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y60T69">
           <common:Name xml:lang="en">60 to 69 years old</common:Name>
           <common:Description xml:lang="en">60 to 69 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៦០ ទៅ ៦៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE60">
           <common:Name xml:lang="en">60 years old and over</common:Name>
           <common:Description xml:lang="en">60 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៦០ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y65T69">
           <common:Name xml:lang="en">65 to 69 years old</common:Name>
           <common:Description xml:lang="en">65 to 69 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៦៥ ទៅ ៦៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE65">
           <common:Name xml:lang="en">65 years old and over</common:Name>
           <common:Description xml:lang="en">65 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៦៥ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y70T74">
           <common:Name xml:lang="en">70 to 74 years old</common:Name>
           <common:Description xml:lang="en">70 to 74 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៧០ ទៅ ៧៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y70T79">
           <common:Name xml:lang="en">70 to 79 years old</common:Name>
           <common:Description xml:lang="en">70 to 79 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៧០ ទៅ ៧៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE70">
           <common:Name xml:lang="en">70 years old and over</common:Name>
           <common:Description xml:lang="en">70 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៧០ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y75T79">
           <common:Name xml:lang="en">75 to 79 years old</common:Name>
           <common:Description xml:lang="en">75 to 79 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៧៥ ទៅ ៧៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE75">
           <common:Name xml:lang="en">75 years old and over</common:Name>
           <common:Description xml:lang="en">75 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៧៥ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y80T84">
           <common:Name xml:lang="en">80 to 84 years old</common:Name>
           <common:Description xml:lang="en">80 to 84 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៨០ ទៅ ៨៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y80T89">
           <common:Name xml:lang="en">80 to 89 years old</common:Name>
           <common:Description xml:lang="en">80 to 89 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៨០ ទៅ ៨៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE80">
           <common:Name xml:lang="en">80 years old and over</common:Name>
           <common:Description xml:lang="en">80 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៨០ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y85T89">
           <common:Name xml:lang="en">85 to 89 years old</common:Name>
           <common:Description xml:lang="en">85 to 89 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៨៥ ទៅ ៨៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE85">
           <common:Name xml:lang="en">85 years old and over</common:Name>
           <common:Description xml:lang="en">85 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៨៥ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y90T94">
           <common:Name xml:lang="en">90 to 94 years old</common:Name>
           <common:Description xml:lang="en">90 to 94 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៩០ ទៅ ៩៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y90T99">
           <common:Name xml:lang="en">90 to 99 years old</common:Name>
           <common:Description xml:lang="en">90 to 99 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៩០ ទៅ ៩៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE90">
           <common:Name xml:lang="en">90 years old and over</common:Name>
           <common:Description xml:lang="en">90 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៩០ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y95T99">
           <common:Name xml:lang="en">95 to 99 years old</common:Name>
           <common:Description xml:lang="en">95 to 99 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៩៥ ទៅ ៩៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE95">
           <common:Name xml:lang="en">95 years old and over</common:Name>
           <common:Description xml:lang="en">95 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៩៥ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y_GE100">
           <common:Name xml:lang="en">100 years old and over</common:Name>
           <common:Description xml:lang="en">100 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ១០០ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y45T54">
           <common:Name xml:lang="en">45 to 54 years old</common:Name>
           <common:Description xml:lang="en">45 to 54 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៤៥ ទៅ ៥៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y45T64">
           <common:Name xml:lang="en">45 to 64 years old</common:Name>
           <common:Description xml:lang="en">45 to 64 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៤៥ ទៅ ៦៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y55T64">
           <common:Name xml:lang="en">55 to 64 years old</common:Name>
           <common:Description xml:lang="en">55 to 64 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៥៥ ទៅ ៦៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="T6T65">
           <common:Name xml:lang="en">6 to 65 years old</common:Name>
           <common:Description xml:lang="en">6 to 65 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៦ ទៅ ៦៥ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y15T28">
           <common:Name xml:lang="en">15 to 28 years old</common:Name>
           <common:Description xml:lang="en">15 to 28 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៥ ទៅ ២៨ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="M36T47">
           <common:Name xml:lang="en">36 to 47 months old</common:Name>
           <common:Description xml:lang="en">36 to 47 months old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៣៦ ទៅ ៤៧ ខែ</common:Name></structure:Code>
         <structure:Code id="Y18T24">
           <common:Name xml:lang="en">18 to 24 years old</common:Name>
           <common:Description xml:lang="en">18 to 24 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៨ ទៅ ២៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y18T49">
           <common:Name xml:lang="en">18 to 49 years old</common:Name>
           <common:Description xml:lang="en">18 to 49 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៨ ទៅ ៤៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y18T50">
           <common:Name xml:lang="en">18 to 50 years old</common:Name>
           <common:Description xml:lang="en">18 to 50 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៨ ទៅ ៥០ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y12T24">
           <common:Name xml:lang="en">12 to 24 years old</common:Name>
           <common:Description xml:lang="en">12 to 24 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១២ ទៅ ២៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y2T14">
           <common:Name xml:lang="en">2 to 14 years old</common:Name>
           <common:Description xml:lang="en">2 to 14 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ២ ទៅ ១៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y25T44">
           <common:Name xml:lang="en">25 to 44 years old</common:Name>
           <common:Description xml:lang="en">25 to 44 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ២៥ ទៅ ៤៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y18T74">
           <common:Name xml:lang="en">18 to 74 years old</common:Name>
           <common:Description xml:lang="en">18 to 74 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៨ ទៅ ៧៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE20">
           <common:Name xml:lang="en">20 years old and over</common:Name>
           <common:Description xml:lang="en">20 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ២០ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="Y0T7">
           <common:Name xml:lang="en">under 8 years old</common:Name>
           <common:Description xml:lang="en">under 8 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុក្រោម ៨ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y1T4">
           <common:Name xml:lang="en">1 to 4 years old</common:Name>
           <common:Description xml:lang="en">1 to 4 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១ ទៅ ៤ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y_GE50">
           <common:Name xml:lang="en">50 years old and over</common:Name>
           <common:Description xml:lang="en">50 years old and over</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុ ៥០ ឆ្នាំឡើងទៅ</common:Name></structure:Code>
         <structure:Code id="M6T59">
           <common:Name xml:lang="en">6 to 59 months old</common:Name>
           <common:Description xml:lang="en">6 to 59 months old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៦ ទៅ ៥៩ ខែ</common:Name></structure:Code>
         <structure:Code id="Y0T5">
           <common:Name xml:lang="en">under 6 years old</common:Name>
           <common:Description xml:lang="en">under 6 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុក្រោម ៦ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y30T35">
           <common:Name xml:lang="en">30 to 35 years old</common:Name>
           <common:Description xml:lang="en">30 to 35 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៣០ ទៅ ៣៥ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y40T59">
           <common:Name xml:lang="en">40 to 59 years old</common:Name>
           <common:Description xml:lang="en">40 to 59 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ៤០ ទៅ ៥៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y20T39">
           <common:Name xml:lang="en">20 to 39 years old</common:Name>
           <common:Description xml:lang="en">20 to 39 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ២០ ទៅ ៣៩ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y13T15">
           <common:Name xml:lang="en">13 to 15 years old</common:Name>
           <common:Description xml:lang="en">13 to 15 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៣ ទៅ ១៥ ឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="Y18T21">
           <common:Name xml:lang="en">18 to 21 years old</common:Name>
           <common:Description xml:lang="en">18 to 21 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាយុពី ១៨ ទៅ ២១ ឆ្នាំ</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="KH_NIS" id="CL_AREA" isFinal="true" version="1.0">
         <common:Name xml:lang="en">Code list for area codes</common:Name>
