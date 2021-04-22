@@ -553,215 +553,215 @@
         <structure:Code id="_T">
           <common:Name xml:lang="en">Total or no breakdown by education level</common:Name>
           <common:Description xml:lang="en">Total or no breakdown by education level</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សរុបឬគ្មានការវិភាគតាមកម្រិតអប់រំ</common:Name></structure:Code>
         <structure:Code id="ISCED11_0">
           <common:Name xml:lang="en">Early childhood education</common:Name>
           <common:Description xml:lang="en">Early childhood education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំកុមារតូច</common:Name></structure:Code>
         <structure:Code id="ISCED11_01">
           <common:Name xml:lang="en">Early childhood educational development</common:Name>
           <common:Description xml:lang="en">Early childhood educational development</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអភិវឌ្ឍការអប់រំកុមារតូច</common:Name></structure:Code>
         <structure:Code id="ISCED11_02">
           <common:Name xml:lang="en">Pre-primary education</common:Name>
           <common:Description xml:lang="en">Pre-primary education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំបឋម</common:Name></structure:Code>
         <structure:Code id="ISCED11_1">
           <common:Name xml:lang="en">Primary education</common:Name>
           <common:Description xml:lang="en">Primary education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំ​បឋម</common:Name></structure:Code>
         <structure:Code id="ISCED11_10">
           <common:Name xml:lang="en">Primary education</common:Name>
           <common:Description xml:lang="en">Primary education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំ​បឋម</common:Name></structure:Code>
         <structure:Code id="ISCED11_2">
           <common:Name xml:lang="en">Lower secondary education</common:Name>
           <common:Description xml:lang="en">Lower secondary education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មធ្យមសិក្សាទុតិយភូមិ</common:Name></structure:Code>
         <structure:Code id="ISCED11_24">
           <common:Name xml:lang="en">Lower secondary general education</common:Name>
           <common:Description xml:lang="en">Lower secondary general education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំទូទៅមធ្យមសិក្សាទុតិយភូមិ</common:Name></structure:Code>
         <structure:Code id="ISCED11_25">
           <common:Name xml:lang="en">Lower secondary vocational education</common:Name>
           <common:Description xml:lang="en">Lower secondary vocational education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំវិជ្ជាជីវៈមធ្យមសិក្សាទុតិយភូមិ</common:Name></structure:Code>
         <structure:Code id="ISCED11_3">
           <common:Name xml:lang="en">Upper secondary education</common:Name>
           <common:Description xml:lang="en">Upper secondary education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មធ្យមសិក្សាទុតិយភូមិ</common:Name></structure:Code>
         <structure:Code id="ISCED11_34">
           <common:Name xml:lang="en">Upper secondary general education</common:Name>
           <common:Description xml:lang="en">Upper secondary general education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំទូទៅមធ្យមសិក្សាទុតិយភូមិ</common:Name></structure:Code>
         <structure:Code id="ISCED11_35">
           <common:Name xml:lang="en">Upper secondary vocational education</common:Name>
           <common:Description xml:lang="en">Upper secondary vocational education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំវិជ្ជាជីវៈមធ្យមសិក្សាទុតិយភូមិ</common:Name></structure:Code>
         <structure:Code id="ISCED11_4">
           <common:Name xml:lang="en">Post-secondary non-tertiary education</common:Name>
           <common:Description xml:lang="en">Post-secondary non-tertiary education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំមិនមែនអនុវិទ្យាល័យ</common:Name></structure:Code>
         <structure:Code id="ISCED11_44">
           <common:Name xml:lang="en">Post-secondary non-tertiary general education</common:Name>
           <common:Description xml:lang="en">Post-secondary non-tertiary general education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំទូទៅមិនមែនមធ្យមសិក្សាក្រោយមធ្យមសិក្សា</common:Name></structure:Code>
         <structure:Code id="ISCED11_45">
           <common:Name xml:lang="en">Post-secondary non-tertiary vocational education</common:Name>
           <common:Description xml:lang="en">Post-secondary non-tertiary vocational education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំវិជ្ជាជីវៈក្រៅឧត្តមសិក្សាក្រោយមធ្យមសិក្សា</common:Name></structure:Code>
         <structure:Code id="ISCED11_5">
           <common:Name xml:lang="en">Short-cycle tertiary education</common:Name>
           <common:Description xml:lang="en">Short-cycle tertiary education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំឧត្តមសិក្សារយៈពេលខ្លី</common:Name></structure:Code>
         <structure:Code id="ISCED11_54">
           <common:Name xml:lang="en">Short-cycle tertiary general education</common:Name>
           <common:Description xml:lang="en">Short-cycle tertiary general education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំទូទៅឧត្តមសិក្សារយៈពេលខ្លី</common:Name></structure:Code>
         <structure:Code id="ISCED11_55">
           <common:Name xml:lang="en">Short-cycle tertiary vocational education</common:Name>
           <common:Description xml:lang="en">Short-cycle tertiary vocational education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំវិជ្ជាជីវៈកម្រិតឧត្តមរយៈពេលវដ្តខ្លី</common:Name></structure:Code>
         <structure:Code id="ISCED11_6">
           <common:Name xml:lang="en">Bachelor’s or equivalent level</common:Name>
           <common:Description xml:lang="en">Bachelor’s or equivalent level</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">កម្រិតបរិញ្ញាបត្រឬសមមូល</common:Name></structure:Code>
         <structure:Code id="ISCED11_7">
           <common:Name xml:lang="en">Master’s or equivalent level</common:Name>
           <common:Description xml:lang="en">Master’s or equivalent level</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">កម្រិតអនុបណ្ឌិតឬសមមូល</common:Name></structure:Code>
         <structure:Code id="ISCED11_8">
           <common:Name xml:lang="en">Doctoral or equivalent level</common:Name>
           <common:Description xml:lang="en">Doctoral or equivalent level</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">កម្រិតបណ្ឌិតឬសមមូល</common:Name></structure:Code>
         <structure:Code id="ISCED11_9">
           <common:Name xml:lang="en">Not elsewhere classified</common:Name>
           <common:Description xml:lang="en">Not elsewhere classified</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនត្រូវបានចាត់ថ្នាក់ផ្សេងទៀតទេ</common:Name></structure:Code>
         <structure:Code id="ISCED11_99">
           <common:Name xml:lang="en">Not elsewhere classified</common:Name>
           <common:Description xml:lang="en">Not elsewhere classified</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនត្រូវបានចាត់ថ្នាក់ផ្សេងទៀតទេ</common:Name></structure:Code>
         <structure:Code id="ISCED11A_0">
           <common:Name xml:lang="en">Less than primary education</common:Name>
           <common:Description xml:lang="en">Less than primary education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">តិចជាងការអប់រំបឋម</common:Name></structure:Code>
         <structure:Code id="ISCED11A_01">
           <common:Name xml:lang="en">Never attended an education programme / No schooling</common:Name>
           <common:Description xml:lang="en">Never attended an education programme / No schooling</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនដែលចូលរៀនកម្មវិធីអប់រំរឺអត់រៀនទេ</common:Name></structure:Code>
         <structure:Code id="ISCED11A_02">
           <common:Name xml:lang="en">Some early childhood education</common:Name>
           <common:Description xml:lang="en">Some early childhood education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំកុមារតូចៗខ្លះ</common:Name></structure:Code>
         <structure:Code id="ISCED11A_03">
           <common:Name xml:lang="en">Some primary education</common:Name>
           <common:Description xml:lang="en">Some primary education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំបឋមមួយចំនួន</common:Name></structure:Code>
         <structure:Code id="ISCED11A_0_G23">
           <common:Name xml:lang="en">Some primary education, grades 2 or 3</common:Name>
           <common:Description xml:lang="en">Some primary education, grades 2 or 3</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">បឋមសិក្សាខ្លះថ្នាក់ទី ២ ឬទី ៣</common:Name></structure:Code>
         <structure:Code id="ISCED11A_1">
           <common:Name xml:lang="en">Primary education, sufficient for level completion</common:Name>
           <common:Description xml:lang="en">Primary education, sufficient for level completion</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">បឋមសិក្សា, គ្រប់គ្រាន់សម្រាប់ការបញ្ចប់កម្រិត</common:Name></structure:Code>
         <structure:Code id="ISCED11A_2">
           <common:Name xml:lang="en">Lower secondary education, sufficient for level completion</common:Name>
           <common:Description xml:lang="en">Lower secondary education, sufficient for level completion</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មធ្យមសិក្សាទុតិយភូមិ, គ្រប់គ្រាន់សម្រាប់ការបញ្ចប់កម្រិត</common:Name></structure:Code>
         <structure:Code id="ISCED11A_3">
           <common:Name xml:lang="en">Upper secondary education, sufficient for level completion</common:Name>
           <common:Description xml:lang="en">Upper secondary education, sufficient for level completion</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មធ្យមសិក្សាទុតិយភូមិគ្រប់គ្រាន់សម្រាប់ការបញ្ចប់កម្រិត</common:Name></structure:Code>
         <structure:Code id="ISCED11A_4">
           <common:Name xml:lang="en">Post-secondary non-tertiary education, sufficient for level completion</common:Name>
           <common:Description xml:lang="en">Post-secondary non-tertiary education, sufficient for level completion</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំមិនមែនមធ្យមសិក្សាក្រោយឧត្តមសិក្សាគ្រប់គ្រាន់សម្រាប់ការបញ្ចប់កម្រិត</common:Name></structure:Code>
         <structure:Code id="ISCED11A_5">
           <common:Name xml:lang="en">Short-cycle tertiary education, sufficient for level completion</common:Name>
           <common:Description xml:lang="en">Short-cycle tertiary education, sufficient for level completion</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំឧត្តមសិក្សារយៈពេលខ្លីវដ្តរដូវគ្រប់គ្រាន់សម្រាប់បញ្ចប់កម្រិត</common:Name></structure:Code>
         <structure:Code id="ISCED11A_6">
           <common:Name xml:lang="en">Bachelor’s or equivalent level, sufficient for level completion</common:Name>
           <common:Description xml:lang="en">Bachelor’s or equivalent level, sufficient for level completion</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">កម្រិតបរិញ្ញាបត្រឬសមមូល, គ្រប់គ្រាន់សម្រាប់ការបញ្ចប់កម្រិត</common:Name></structure:Code>
         <structure:Code id="ISCED11A_7">
           <common:Name xml:lang="en">Master’s or equivalent level, sufficient for level completion</common:Name>
           <common:Description xml:lang="en">Master’s or equivalent level, sufficient for level completion</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">កម្រិតអនុបណ្ឌិតឬសមមូល, គ្រប់គ្រាន់សម្រាប់ការបញ្ចប់កម្រិត</common:Name></structure:Code>
         <structure:Code id="ISCED11A_8">
           <common:Name xml:lang="en">Doctoral or equivalent level, sufficient for level completion</common:Name>
           <common:Description xml:lang="en">Doctoral or equivalent level, sufficient for level completion</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">កម្រិតបណ្ឌិតឬសមមូល, គ្រប់គ្រាន់សម្រាប់ការបញ្ចប់កម្រិត</common:Name></structure:Code>
         <structure:Code id="AGGA_01_02">
           <common:Name xml:lang="en">No primary schooling</common:Name>
           <common:Description xml:lang="en">No primary schooling</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">គ្មានការសិក្សាបឋម</common:Name></structure:Code>
         <structure:Code id="AGG_02T8">
           <common:Name xml:lang="en">Pre-primary to tertiary education</common:Name>
           <common:Description xml:lang="en">Pre-primary to tertiary education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">បឋមសិក្សាដល់ឧត្តមសិក្សា</common:Name></structure:Code>
         <structure:Code id="AGG_1_2">
           <common:Name xml:lang="en">Primary and lower secondary education (basic education)</common:Name>
           <common:Description xml:lang="en">Primary and lower secondary education (basic education)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">បឋមសិក្សានិងមធ្យមសិក្សាបឋមភូមិ (ការអប់រំមូលដ្ឋាន)</common:Name></structure:Code>
         <structure:Code id="AGG_1T3">
           <common:Name xml:lang="en">Primary and secondary education</common:Name>
           <common:Description xml:lang="en">Primary and secondary education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">បឋមសិក្សានិងមធ្យមសិក្សា</common:Name></structure:Code>
         <structure:Code id="AGG_5T8">
           <common:Name xml:lang="en">Tertiary education</common:Name>
           <common:Description xml:lang="en">Tertiary education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការ​អប់រំ​ថ្នាក់​ឧត្តម​សិក្សា</common:Name></structure:Code>
         <structure:Code id="AGG_2_3">
           <common:Name xml:lang="en">Secondary education (lower and upper secondary education)</common:Name>
           <common:Description xml:lang="en">Secondary education (lower and upper secondary education)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អនុវិទ្យាល័យ (អនុវិទ្យាល័យនិងមធ្យមសិក្សាទុតិយភូមិ)</common:Name></structure:Code>
         <structure:Code id="AGG_3_4">
           <common:Name xml:lang="en">Secondary and post-secondary non-tertiary education (intermediate)</common:Name>
           <common:Description xml:lang="en">Secondary and post-secondary non-tertiary education (intermediate)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំមិនមែនមធ្យមសិក្សាក្រោយមធ្យមសិក្សានិងមធ្យមសិក្សា (មធ្យម)</common:Name></structure:Code>
         <structure:Code id="ISCED11_25_35_45">
           <common:Name xml:lang="en">Vocational secondary education</common:Name>
           <common:Description xml:lang="en">Vocational secondary education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មធ្យមសិក្សាវិជ្ជាជីវៈ</common:Name></structure:Code>
         <structure:Code id="ISCED97_0">
           <common:Name xml:lang="en">Pre-primary education</common:Name>
           <common:Description xml:lang="en">Pre-primary education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំបឋម</common:Name></structure:Code>
         <structure:Code id="ISCED97_1">
           <common:Name xml:lang="en">Primary education or first stage of basic education</common:Name>
           <common:Description xml:lang="en">Primary education or first stage of basic education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">បឋមសិក្សាឬដំណាក់កាលដំបូងនៃការអប់រំមូលដ្ឋាន</common:Name></structure:Code>
         <structure:Code id="ISCED97_2">
           <common:Name xml:lang="en">Lower secondary or second stage of basic education</common:Name>
           <common:Description xml:lang="en">Lower secondary or second stage of basic education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អនុវិទ្យាល័យឬដំណាក់កាលទីពីរនៃការអប់រំមូលដ្ឋាន</common:Name></structure:Code>
         <structure:Code id="ISCED97_3">
           <common:Name xml:lang="en">Upper secondary education</common:Name>
           <common:Description xml:lang="en">Upper secondary education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មធ្យមសិក្សាទុតិយភូមិ</common:Name></structure:Code>
         <structure:Code id="ISCED97_4">
           <common:Name xml:lang="en">Post-secondary non-tertiary education</common:Name>
           <common:Description xml:lang="en">Post-secondary non-tertiary education</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការអប់រំមិនមែនអនុវិទ្យាល័យ</common:Name></structure:Code>
         <structure:Code id="ISCED97_5">
           <common:Name xml:lang="en">First stage of tertiary education (not leading directly to an advanced research qualification)</common:Name>
           <common:Description xml:lang="en">First stage of tertiary education (not leading directly to an advanced research qualification)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដំណាក់កាលដំបូងនៃការអប់រំឧត្តមសិក្សា (មិនដឹកនាំដោយផ្ទាល់ទៅនឹងគុណវុឌ្ឍិស្រាវជ្រាវកម្រិតខ្ពស់)</common:Name></structure:Code>
         <structure:Code id="ISCED97_5A">
           <common:Name xml:lang="en">First stage of tertiary education (theoretically based/research preparatory)</common:Name>
           <common:Description xml:lang="en">First stage of tertiary education (theoretically based/research preparatory)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដំណាក់កាលដំបូងនៃការអប់រំឧត្តមសិក្សា (ផ្អែកលើទ្រឹស្តី / ការរៀបចំការស្រាវជ្រាវ)</common:Name></structure:Code>
         <structure:Code id="ISCED97_5B">
           <common:Name xml:lang="en">First stage of tertiary education (practical/technical/occupationally specific)</common:Name>
           <common:Description xml:lang="en">First stage of tertiary education (practical/technical/occupationally specific)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដំណាក់កាលដំបូងនៃការអប់រំឧត្តមសិក្សា (ជាក់ស្តែង / បច្ចេកទេស / វិជ្ជាជីវៈជាក់លាក់)</common:Name></structure:Code>
         <structure:Code id="ISCED97_6">
           <common:Name xml:lang="en">Second stage of tertiary education (leading to an advanced research qualification)</common:Name>
           <common:Description xml:lang="en">Second stage of tertiary education (leading to an advanced research qualification)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដំណាក់កាលទី ២ នៃការអប់រំឧត្តមសិក្សា (នាំឱ្យមានគុណវុឌ្ឍិស្រាវជ្រាវជឿនលឿន)</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="IAEG-SDGs" id="CL_GEO_INFO_TYPE" isFinal="true" version="1.0">
         <common:Name xml:lang="en">Geoinformation type code list</common:Name>
@@ -6192,39 +6192,39 @@
         <structure:Code id="A">
           <common:Name xml:lang="en">Annual</common:Name>
           <common:Description xml:lang="en">To be used for data collected or disseminated every year.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រចាំឆ្នាំ</common:Name></structure:Code>
         <structure:Code id="S">
           <common:Name xml:lang="en">Half-yearly, semester</common:Name>
           <common:Description xml:lang="en">To be used for data collected or disseminated every semester.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ពាក់កណ្តាលឆ្នាំឆមាស</common:Name></structure:Code>
         <structure:Code id="Q">
           <common:Name xml:lang="en">Quarterly</common:Name>
           <common:Description xml:lang="en">To be used for data collected or disseminated every quarter.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រចាំត្រីមាស</common:Name></structure:Code>
         <structure:Code id="M">
           <common:Name xml:lang="en">Monthly</common:Name>
           <common:Description xml:lang="en">To be used for data collected or disseminated every month.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រចាំខែ</common:Name></structure:Code>
         <structure:Code id="W">
           <common:Name xml:lang="en">Weekly</common:Name>
           <common:Description xml:lang="en">To be used for data collected or disseminated every week.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រចាំសប្តាហ៍</common:Name></structure:Code>
         <structure:Code id="D">
           <common:Name xml:lang="en">Daily</common:Name>
           <common:Description xml:lang="en">To be used for data collected or disseminated every day.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាល់ថ្ងៃ</common:Name></structure:Code>
         <structure:Code id="H">
           <common:Name xml:lang="en">Hourly</common:Name>
           <common:Description xml:lang="en">To be used for data collected or disseminated every hour.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រាល់ម៉ោង</common:Name></structure:Code>
         <structure:Code id="B">
           <common:Name xml:lang="en">Daily – businessweek</common:Name>
           <common:Description xml:lang="en">Similar to "daily", however there are no observations for Saturdays and Sundays (so, neither "missing values" nor "numeric values" should be provided for Saturday and Sunday). This treatment  ("business") is one way to deal with such cases, but it is not the only option. Such a time series could alternatively be considered daily ("D"), thus, with missing values in the weekend.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រចាំថ្ងៃ - អាជីវកម្មប្រចាំសប្តាហ៍</common:Name></structure:Code>
         <structure:Code id="N">
           <common:Name xml:lang="en">Minutely</common:Name>
           <common:Description xml:lang="en">While N denotes "minutely", usually, there may be no observations every minute (for several series the frequency is usually "irregular" within a day/days). And though observations may be sparse (not collected or disseminated every minute), missing values do not need to be given for the minutes when no observations exist: in any case the time stamp determines when an observation is observed.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ពិត</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="SDMX" id="CL_OBS_STATUS" isFinal="true" version="2.1">
         <common:Name xml:lang="en">Observation Status</common:Name>
