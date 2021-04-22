@@ -538,15 +538,15 @@
         <structure:Code id="_T">
           <common:Name xml:lang="en">No breakdown</common:Name>
           <common:Description xml:lang="en">No breakdown</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនមានការបែកបាក់</common:Name></structure:Code>
         <structure:Code id="PD">
           <common:Name xml:lang="en">Persons with disability</common:Name>
           <common:Description xml:lang="en">Persons with disability</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជនពិការ</common:Name></structure:Code>
         <structure:Code id="PWD">
           <common:Name xml:lang="en">Persons without disability</common:Name>
           <common:Description xml:lang="en">Persons without disability</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មនុស្សដែលគ្មានពិការភាព</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="IAEG-SDGs" id="CL_EDUCATION_LEV" isFinal="true" version="1.0">
         <common:Name xml:lang="en">SDG Education Level code list</common:Name>
