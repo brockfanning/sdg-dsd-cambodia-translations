@@ -6154,7 +6154,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Total</common:Name>
           <common:Description xml:lang="en">Total</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សរុប</common:Name></structure:Code>
         <structure:Code id="U">
           <common:Annotations>
             <common:Annotation>
@@ -6164,7 +6164,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Urban</common:Name>
           <common:Description xml:lang="en">Urban</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ទីប្រជុំជន</common:Name></structure:Code>
         <structure:Code id="R">
           <common:Annotations>
             <common:Annotation>
@@ -6174,7 +6174,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Rural</common:Name>
           <common:Description xml:lang="en">Rural</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជនបទ</common:Name></structure:Code>
         <structure:Code id="REMOTE">
           <common:Annotations>
             <common:Annotation>
@@ -6184,7 +6184,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Remote Area</common:Name>
           <common:Description xml:lang="en">Remote Area</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">តំបន់ដាច់ស្រយាល</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="SDMX" id="CL_FREQ" isFinal="true" version="2.0">
         <common:Name xml:lang="en">Frequency</common:Name>
