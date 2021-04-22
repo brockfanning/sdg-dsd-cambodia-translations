@@ -941,119 +941,119 @@
         <structure:Code id="_T">
           <common:Name xml:lang="en">No breakdown</common:Name>
           <common:Description xml:lang="en">No breakdown</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនមានការបែកបាក់</common:Name></structure:Code>
         <structure:Code id="AGG_ARMS">
           <common:Name xml:lang="en">Arms</common:Name>
           <common:Description xml:lang="en">Arms</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">អាវុធ</common:Name></structure:Code>
         <structure:Code id="AGG_CLTH">
           <common:Name xml:lang="en">Clothing</common:Name>
           <common:Description xml:lang="en">Clothing</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សម្លៀកបំពាក់</common:Name></structure:Code>
         <structure:Code id="AGG_IND">
           <common:Name xml:lang="en">Industrial products</common:Name>
           <common:Description xml:lang="en">Industrial products</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ផលិតផលឧស្សាហកម្ម</common:Name></structure:Code>
         <structure:Code id="AGG_AGR">
           <common:Name xml:lang="en">Agriculture products</common:Name>
           <common:Description xml:lang="en">Agriculture products</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ផលិតផលកសិកម្ម</common:Name></structure:Code>
         <structure:Code id="AGG_OIL">
           <common:Name xml:lang="en">Oil</common:Name>
           <common:Description xml:lang="en">Oil</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រេង</common:Name></structure:Code>
         <structure:Code id="AGG_TXT">
           <common:Name xml:lang="en">Textiles</common:Name>
           <common:Description xml:lang="en">Textiles</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">វាយនភ័ណ្ឌ</common:Name></structure:Code>
         <structure:Code id="CPC2_1_112">
           <common:Name xml:lang="en">Maize</common:Name>
           <common:Description xml:lang="en">Maize</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ពោត</common:Name></structure:Code>
         <structure:Code id="CPC2_1_118">
           <common:Name xml:lang="en">Millet</common:Name>
           <common:Description xml:lang="en">Millet</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">មីល</common:Name></structure:Code>
         <structure:Code id="CPC2_1_113">
           <common:Name xml:lang="en">Rice</common:Name>
           <common:Description xml:lang="en">Rice</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្រូវ</common:Name></structure:Code>
         <structure:Code id="CPC2_1_114">
           <common:Name xml:lang="en">Sorghum</common:Name>
           <common:Description xml:lang="en">Sorghum</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដុកទ័រ</common:Name></structure:Code>
         <structure:Code id="CPC2_1_111">
           <common:Name xml:lang="en">Wheat</common:Name>
           <common:Description xml:lang="en">Wheat</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្រូវសាលី</common:Name></structure:Code>
         <structure:Code id="MF1">
           <common:Name xml:lang="en">Biomass (material flows)</common:Name>
           <common:Description xml:lang="en">Biomass (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជីវម៉ាស (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF2">
           <common:Name xml:lang="en">Metal ores (material flows)</common:Name>
           <common:Description xml:lang="en">Metal ores (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រ៉ែដែក (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF3">
           <common:Name xml:lang="en">Non-metallic minerals (material flows)</common:Name>
           <common:Description xml:lang="en">Non-metallic minerals (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រ៉ែមិនមែនលោហធាតុ (លំហូរវត្ថុធាតុដើម)</common:Name></structure:Code>
         <structure:Code id="MF4">
           <common:Name xml:lang="en">Fossil fuels (material flows)</common:Name>
           <common:Description xml:lang="en">Fossil fuels (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ឥន្ធនៈហ្វូស៊ីល (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF121">
           <common:Name xml:lang="en">Crop residues (material flows)</common:Name>
           <common:Description xml:lang="en">Crop residues (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សំណល់ដំណាំ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF11">
           <common:Name xml:lang="en">Crops (material flows)</common:Name>
           <common:Description xml:lang="en">Crops (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដំណាំ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF122">
           <common:Name xml:lang="en">Grazed biomass and fodder crops (material flows)</common:Name>
           <common:Description xml:lang="en">Grazed biomass and fodder crops (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជីវម៉ាស់និងដំណាំចំណី (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF14">
           <common:Name xml:lang="en">Wild catch and harvest (material flows)</common:Name>
           <common:Description xml:lang="en">Wild catch and harvest (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ការចាប់និងការប្រមូលផលព្រៃ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF13">
           <common:Name xml:lang="en">Wood (material flows)</common:Name>
           <common:Description xml:lang="en">Wood (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ឈើ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF41">
           <common:Name xml:lang="en">Coal (material flows)</common:Name>
           <common:Description xml:lang="en">Coal (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ធ្យូងថ្ម (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF422">
           <common:Name xml:lang="en">Natural gas (material flows)</common:Name>
           <common:Description xml:lang="en">Natural gas (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ឧស្ម័នធម្មជាតិ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF413">
           <common:Name xml:lang="en">Oil shale and tar sands (material flows)</common:Name>
           <common:Description xml:lang="en">Oil shale and tar sands (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ដីខ្សាច់និងដីខ្សាច់ (លំហូរវត្ថុធាតុដើម)</common:Name></structure:Code>
         <structure:Code id="MF421">
           <common:Name xml:lang="en">Petroleum (material flows)</common:Name>
           <common:Description xml:lang="en">Petroleum (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រេងឥន្ធនៈ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF21">
           <common:Name xml:lang="en">Ferrous ores (material flows)</common:Name>
           <common:Description xml:lang="en">Ferrous ores (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រ៉ែដែក (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF22">
           <common:Name xml:lang="en">Non-ferrous ores (material flows)</common:Name>
           <common:Description xml:lang="en">Non-ferrous ores (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រ៉ែដែលមិនមែនជាជាតិដែក (លំហូរវត្ថុធាតុដើម)</common:Name></structure:Code>
         <structure:Code id="MF_AGG3A">
           <common:Name xml:lang="en">Non-metallic minerals - construction dominant (material flows)</common:Name>
           <common:Description xml:lang="en">Non-metallic minerals - construction dominant (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រ៉ែមិនមែនលោហធាតុ - សំណង់លេចធ្លោ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
         <structure:Code id="MF_AGG3B">
           <common:Name xml:lang="en">Non-metallic minerals - industrial or agricultural dominant (material flows)</common:Name>
           <common:Description xml:lang="en">Non-metallic minerals - industrial or agricultural dominant (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">រ៉ែមិនមែនលោហធាតុ - ឥទ្ធិពលឧស្សាហកម្មឬកសិកម្ម (លំហូរវត្ថុធាតុដើម)</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="IAEG-SDGs" id="CL_QUANTILE" isFinal="true" version="1.2">
         <common:Name xml:lang="en">Income/wealth quantile code list</common:Name>
@@ -1164,15 +1164,15 @@
         <structure:Code id="G">
           <common:Name xml:lang="en">Global</common:Name>
           <common:Description xml:lang="en">Global</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">សកល</common:Name></structure:Code>
         <structure:Code id="R">
           <common:Name xml:lang="en">Regional</common:Name>
           <common:Description xml:lang="en">Regional</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">តំបន់</common:Name></structure:Code>
         <structure:Code id="N">
           <common:Name xml:lang="en">National</common:Name>
           <common:Description xml:lang="en">National</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="km">ជាតិ</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="IAEG-SDGs" id="CL_SEX" isFinal="true" version="1.0">
         <common:Name xml:lang="en">The state of being male or female.</common:Name>
@@ -1184,7 +1184,7 @@
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Female</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្រី</common:Name></structure:Code>
         <structure:Code id="M">
           <common:Annotations>
             <common:Annotation>
@@ -1193,7 +1193,7 @@
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Male</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រុស</common:Name></structure:Code>
         <structure:Code id="_N">
           <common:Annotations>
             <common:Annotation>
@@ -1202,7 +1202,7 @@
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Non response</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនឆ្លើយតប</common:Name></structure:Code>
         <structure:Code id="_O">
           <common:Annotations>
             <common:Annotation>
@@ -1211,7 +1211,7 @@
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Other</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ផ្សេងទៀត</common:Name></structure:Code>
         <structure:Code id="_U">
           <common:Annotations>
             <common:Annotation>
@@ -1220,7 +1220,7 @@
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Unknown</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មិនស្គាល់</common:Name></structure:Code>
         <structure:Code id="_T">
           <common:Annotations>
             <common:Annotation>
@@ -1229,7 +1229,7 @@
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Both sexes or no breakdown by sex</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ទាំងភេទទាំងការបែកបាក់គ្នាដោយការរួមភេទ</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="KH_NIS" id="CL_AGE" isFinal="true" version="1.0">
         <common:Name xml:lang="en">SDG age group code list</common:Name>
@@ -1762,1819 +1762,1819 @@
         <common:Name xml:lang="en">Code list for area codes</common:Name>
         <structure:Code id="1">
           <common:Name xml:lang="en">World</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ពិភពលោក</common:Name></structure:Code>
         <structure:Code id="2">
           <common:Name xml:lang="en">Africa (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាហ្វ្រិក (M49)</common:Name></structure:Code>
         <structure:Code id="4">
           <common:Name xml:lang="en">Afghanistan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាហ្វហ្គានីស្ថាន</common:Name></structure:Code>
         <structure:Code id="5">
           <common:Name xml:lang="en">South America (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាមេរិកខាងត្បូង (M49)</common:Name></structure:Code>
         <structure:Code id="8">
           <common:Name xml:lang="en">Albania</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាល់បានី</common:Name></structure:Code>
         <structure:Code id="9">
           <common:Name xml:lang="en">Oceania (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អូសេអានី (M49)</common:Name></structure:Code>
         <structure:Code id="10">
           <common:Name xml:lang="en">Antarctica</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អង់តាក់ទិក</common:Name></structure:Code>
         <structure:Code id="11">
           <common:Name xml:lang="en">Western Africa (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាហ្វ្រិកខាងលិច (M49)</common:Name></structure:Code>
         <structure:Code id="12">
           <common:Name xml:lang="en">Algeria</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាល់ហ្សេរី</common:Name></structure:Code>
         <structure:Code id="13">
           <common:Name xml:lang="en">Central America (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាមេរិកកណ្ដាល (M49)</common:Name></structure:Code>
         <structure:Code id="14">
           <common:Name xml:lang="en">Eastern Africa (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាហ្វ្រិកខាងកើត (M49)</common:Name></structure:Code>
         <structure:Code id="15">
           <common:Name xml:lang="en">Northern Africa (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាហ្រ្វិកខាងជើង (M49)</common:Name></structure:Code>
         <structure:Code id="16">
           <common:Name xml:lang="en">American Samoa</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាម័រអាមេរិក</common:Name></structure:Code>
         <structure:Code id="17">
           <common:Name xml:lang="en">Middle Africa (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាហ្វ្រិកកណ្ដាល (M49)</common:Name></structure:Code>
         <structure:Code id="18">
           <common:Name xml:lang="en">Southern Africa (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាហ្រ្វិកខាងត្បូង (M49)</common:Name></structure:Code>
         <structure:Code id="19">
           <common:Name xml:lang="en">Americas (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាមេរិក (M49)</common:Name></structure:Code>
         <structure:Code id="20">
           <common:Name xml:lang="en">Andorra</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អង់ដូរ៉ា</common:Name></structure:Code>
         <structure:Code id="21">
           <common:Name xml:lang="en">Northern America (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាមេរិកខាងជើង (M49)</common:Name></structure:Code>
         <structure:Code id="24">
           <common:Name xml:lang="en">Angola</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អង់ហ្គោឡា</common:Name></structure:Code>
         <structure:Code id="28">
           <common:Name xml:lang="en">Antigua and Barbuda</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អង់ទីហ្គាហ្គនិងបាបាដា</common:Name></structure:Code>
         <structure:Code id="29">
           <common:Name xml:lang="en">Caribbean (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ការ៉ាបៀន (M49)</common:Name></structure:Code>
         <structure:Code id="30">
           <common:Name xml:lang="en">Eastern Asia (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាស៊ីបូព៌ា (ម ៤៩)</common:Name></structure:Code>
         <structure:Code id="31">
           <common:Name xml:lang="en">Azerbaijan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាស៊ែបៃហ្សង់</common:Name></structure:Code>
         <structure:Code id="32">
           <common:Name xml:lang="en">Argentina</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាហ្សង់ទីន</common:Name></structure:Code>
         <structure:Code id="34">
           <common:Name xml:lang="en">Southern Asia (M49-MDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាស៊ីខាងត្បូង (M49-MDG)</common:Name></structure:Code>
         <structure:Code id="35">
           <common:Name xml:lang="en">South-eastern Asia (M49-MDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាស៊ីភាគអាគ្នេយ៍ (M49-MDG)</common:Name></structure:Code>
         <structure:Code id="36">
           <common:Name xml:lang="en">Australia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អូស្ត្រាលី</common:Name></structure:Code>
         <structure:Code id="39">
           <common:Name xml:lang="en">Southern Europe (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អឺរ៉ុបខាងត្បូង (M49)</common:Name></structure:Code>
         <structure:Code id="40">
           <common:Name xml:lang="en">Austria</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អូទ្រីស</common:Name></structure:Code>
         <structure:Code id="44">
           <common:Name xml:lang="en">Bahamas</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បាហាម៉ាស</common:Name></structure:Code>
         <structure:Code id="48">
           <common:Name xml:lang="en">Bahrain</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បារ៉ែន</common:Name></structure:Code>
         <structure:Code id="50">
           <common:Name xml:lang="en">Bangladesh</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បង់ក្លាដែស</common:Name></structure:Code>
         <structure:Code id="51">
           <common:Name xml:lang="en">Armenia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាមេនី</common:Name></structure:Code>
         <structure:Code id="52">
           <common:Name xml:lang="en">Barbados</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បាបាដុស</common:Name></structure:Code>
         <structure:Code id="53">
           <common:Name xml:lang="en">Australia and New Zealand (SDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អូស្ត្រាលីនិងញូវែលសេឡង់ (អេសជីជី)</common:Name></structure:Code>
         <structure:Code id="54">
           <common:Name xml:lang="en">Melanesia (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មីលែនយ៉ា (M49)</common:Name></structure:Code>
         <structure:Code id="56">
           <common:Name xml:lang="en">Belgium</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បែលហ្ស៊ិក</common:Name></structure:Code>
         <structure:Code id="57">
           <common:Name xml:lang="en">Micronesia (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មីក្រូណេស៊ីស (មី ៤៩)</common:Name></structure:Code>
         <structure:Code id="60">
           <common:Name xml:lang="en">Bermuda</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៊ឺមូដា</common:Name></structure:Code>
         <structure:Code id="61">
           <common:Name xml:lang="en">Polynesia (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៉ូលីណេស៊ី (M49)</common:Name></structure:Code>
         <structure:Code id="62">
           <common:Name xml:lang="en">Central Asia and Southern Asia (SDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាស៊ីកណ្តាលនិងអាស៊ីខាងត្បូង (SDG)</common:Name></structure:Code>
         <structure:Code id="64">
           <common:Name xml:lang="en">Bhutan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៊ូតាន</common:Name></structure:Code>
         <structure:Code id="68">
           <common:Name xml:lang="en">Bolivia (Plurinational State of)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បូលីវី (រដ្ឋ Plurinational នៃ)</common:Name></structure:Code>
         <structure:Code id="70">
           <common:Name xml:lang="en">Bosnia and Herzegovina</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បូស្នីនិងហឺហ្សេហ្គូវីណា</common:Name></structure:Code>
         <structure:Code id="72">
           <common:Name xml:lang="en">Botswana</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បុតស្វាណា</common:Name></structure:Code>
         <structure:Code id="76">
           <common:Name xml:lang="en">Brazil</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រេស៊ីល</common:Name></structure:Code>
         <structure:Code id="84">
           <common:Name xml:lang="en">Belize</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បេលីស</common:Name></structure:Code>
         <structure:Code id="86">
           <common:Name xml:lang="en">British Indian Ocean Territory</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ទឹកដីមហាសមុទ្រឥណ្ឌាអង់គ្លេស</common:Name></structure:Code>
         <structure:Code id="90">
           <common:Name xml:lang="en">Solomon Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះសាឡូម៉ូន</common:Name></structure:Code>
         <structure:Code id="92">
           <common:Name xml:lang="en">British Virgin Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះវឺដ្យីនអង់គ្លេស</common:Name></structure:Code>
         <structure:Code id="96">
           <common:Name xml:lang="en">Brunei Darussalam</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេស​ព្រុយ​ណេ​ដា​រូ​សា​ឡឹម</common:Name></structure:Code>
         <structure:Code id="100">
           <common:Name xml:lang="en">Bulgaria</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៊ុលហ្គារី</common:Name></structure:Code>
         <structure:Code id="104">
           <common:Name xml:lang="en">Myanmar</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មីយ៉ាន់ម៉ា</common:Name></structure:Code>
         <structure:Code id="108">
           <common:Name xml:lang="en">Burundi</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៊ូរុនឌី</common:Name></structure:Code>
         <structure:Code id="112">
           <common:Name xml:lang="en">Belarus</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បេឡារុស្ស</common:Name></structure:Code>
         <structure:Code id="116">
           <common:Name xml:lang="en">Cambodia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសកម្ពុជា</common:Name></structure:Code>
         <structure:Code id="120">
           <common:Name xml:lang="en">Cameroon</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កាមេរូន</common:Name></structure:Code>
         <structure:Code id="124">
           <common:Name xml:lang="en">Canada</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កាណាដា</common:Name></structure:Code>
         <structure:Code id="127">
           <common:Name xml:lang="en">Southern Asia, exc. India (MDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាស៊ីខាងត្បូងលើកលែង។ ឥណ្ឌា (MDG)</common:Name></structure:Code>
         <structure:Code id="132">
           <common:Name xml:lang="en">Cabo Verde</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ខាបាវេដ</common:Name></structure:Code>
         <structure:Code id="135">
           <common:Name xml:lang="en">Caucasus and Central Asia (MDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">Caucasus និងអាស៊ីកណ្តាល (MDG)</common:Name></structure:Code>
         <structure:Code id="136">
           <common:Name xml:lang="en">Cayman Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះកៃម៉ាន</common:Name></structure:Code>
         <structure:Code id="140">
           <common:Name xml:lang="en">Central African Republic</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋអាហ្វ្រិកកណ្តាល</common:Name></structure:Code>
         <structure:Code id="142">
           <common:Name xml:lang="en">Asia (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាស៊ី (M49)</common:Name></structure:Code>
         <structure:Code id="143">
           <common:Name xml:lang="en">Central Asia (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាស៊ីកណ្តាល (M49)</common:Name></structure:Code>
         <structure:Code id="144">
           <common:Name xml:lang="en">Sri Lanka</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្រី​លង្កា</common:Name></structure:Code>
         <structure:Code id="145">
           <common:Name xml:lang="en">Western Asia (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាស៊ីខាងលិច (M49)</common:Name></structure:Code>
         <structure:Code id="148">
           <common:Name xml:lang="en">Chad</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ឆាដ</common:Name></structure:Code>
         <structure:Code id="150">
           <common:Name xml:lang="en">Europe (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អឺរ៉ុប (M49)</common:Name></structure:Code>
         <structure:Code id="151">
           <common:Name xml:lang="en">Eastern Europe (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អឺរ៉ុបខាងកើត (M49)</common:Name></structure:Code>
         <structure:Code id="152">
           <common:Name xml:lang="en">Chile</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ឈីលី</common:Name></structure:Code>
         <structure:Code id="154">
           <common:Name xml:lang="en">Northern Europe (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អឺរ៉ុបខាងជើង (M49)</common:Name></structure:Code>
         <structure:Code id="155">
           <common:Name xml:lang="en">Western Europe (M49)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អឺរ៉ុបខាងលិច (ម ៤៩)</common:Name></structure:Code>
         <structure:Code id="156">
           <common:Name xml:lang="en">China</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ចិន</common:Name></structure:Code>
         <structure:Code id="162">
           <common:Name xml:lang="en">Christmas Island</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះគ្រីស្មាស</common:Name></structure:Code>
         <structure:Code id="166">
           <common:Name xml:lang="en">Cocos (Keeling) Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះកូកូស (ឃីលលីង)</common:Name></structure:Code>
         <structure:Code id="170">
           <common:Name xml:lang="en">Colombia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កូឡុំប៊ី</common:Name></structure:Code>
         <structure:Code id="174">
           <common:Name xml:lang="en">Comoros</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កូម័រ</common:Name></structure:Code>
         <structure:Code id="175">
           <common:Name xml:lang="en">Mayotte</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ាយតូត</common:Name></structure:Code>
         <structure:Code id="178">
           <common:Name xml:lang="en">Congo</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កុងហ្គោ</common:Name></structure:Code>
         <structure:Code id="180">
           <common:Name xml:lang="en">Democratic Republic of the Congo</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋប្រជាធិបតេយ្យកុងហ្គោ</common:Name></structure:Code>
         <structure:Code id="184">
           <common:Name xml:lang="en">Cook Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះឃុក</common:Name></structure:Code>
         <structure:Code id="188">
           <common:Name xml:lang="en">Costa Rica</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កូស្តារីកា</common:Name></structure:Code>
         <structure:Code id="191">
           <common:Name xml:lang="en">Croatia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្រូអាត</common:Name></structure:Code>
         <structure:Code id="192">
           <common:Name xml:lang="en">Cuba</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">គុយបា</common:Name></structure:Code>
         <structure:Code id="196">
           <common:Name xml:lang="en">Cyprus</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស៊ីប</common:Name></structure:Code>
         <structure:Code id="198">
           <common:Name xml:lang="en">OECD Member States</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">រដ្ឋជាសមាជិក OECD</common:Name></structure:Code>
         <structure:Code id="199">
           <common:Name xml:lang="en">Least Developed Countries (LDCs)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសអភិវឌ្ឍន៍តិចតួច (LDCs)</common:Name></structure:Code>
         <structure:Code id="202">
           <common:Name xml:lang="en">Sub-Saharan Africa (SDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អនុសាហារ៉ាទ្វីបអាហ្វ្រិក (SDG)</common:Name></structure:Code>
         <structure:Code id="203">
           <common:Name xml:lang="en">Czechia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ឆែក</common:Name></structure:Code>
         <structure:Code id="204">
           <common:Name xml:lang="en">Benin</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បេនីន</common:Name></structure:Code>
         <structure:Code id="208">
           <common:Name xml:lang="en">Denmark</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសដាណឺម៉ាក</common:Name></structure:Code>
         <structure:Code id="212">
           <common:Name xml:lang="en">Dominica</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ដូមីនីកា</common:Name></structure:Code>
         <structure:Code id="214">
           <common:Name xml:lang="en">Dominican Republic</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋ​ដូ​មីនី​កែន</common:Name></structure:Code>
         <structure:Code id="218">
           <common:Name xml:lang="en">Ecuador</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អេក្វាឌ័រ</common:Name></structure:Code>
         <structure:Code id="222">
           <common:Name xml:lang="en">El Salvador</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អែលសាវ៉ាឌ័រ</common:Name></structure:Code>
         <structure:Code id="223">
           <common:Name xml:lang="en">Eastern Asia, exc. Japan and China (MDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាស៊ីបូព៌ា។ ជប៉ុននិងចិន (MDG)</common:Name></structure:Code>
         <structure:Code id="226">
           <common:Name xml:lang="en">Equatorial Guinea</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គីណេអេក្វាទ័រ</common:Name></structure:Code>
         <structure:Code id="231">
           <common:Name xml:lang="en">Ethiopia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសអេត្យូពី</common:Name></structure:Code>
         <structure:Code id="232">
           <common:Name xml:lang="en">Eritrea</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អេរីទ្រា</common:Name></structure:Code>
         <structure:Code id="233">
           <common:Name xml:lang="en">Estonia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អេស្តូនី</common:Name></structure:Code>
         <structure:Code id="234">
           <common:Name xml:lang="en">Faroe Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះហ្វារ៉ូ</common:Name></structure:Code>
         <structure:Code id="238">
           <common:Name xml:lang="en">Falkland Islands (Malvinas)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះហ្វក់ឡែន (ម៉ាលវីណាស)</common:Name></structure:Code>
         <structure:Code id="239">
           <common:Name xml:lang="en">South Georgia and the South Sandwich Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្សកហ្ស៊ីខាងត្បូងនិងកោះសាន់វិចខាងត្បូង</common:Name></structure:Code>
         <structure:Code id="242">
           <common:Name xml:lang="en">Fiji</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្វីជី</common:Name></structure:Code>
         <structure:Code id="246">
           <common:Name xml:lang="en">Finland</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្វាំងឡង់</common:Name></structure:Code>
         <structure:Code id="248">
           <common:Name xml:lang="en">Åland Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះលែន</common:Name></structure:Code>
         <structure:Code id="250">
           <common:Name xml:lang="en">France</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បារាំង</common:Name></structure:Code>
         <structure:Code id="254">
           <common:Name xml:lang="en">French Guiana</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គីយ៉ាណាបារាំង</common:Name></structure:Code>
         <structure:Code id="258">
           <common:Name xml:lang="en">French Polynesia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៉ូលីនេស៊ីបារាំង</common:Name></structure:Code>
         <structure:Code id="260">
           <common:Name xml:lang="en">French Southern Territories</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ដែនដីភាគខាងត្បូងបារាំង</common:Name></structure:Code>
         <structure:Code id="262">
           <common:Name xml:lang="en">Djibouti</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ជីប៊ូទី</common:Name></structure:Code>
         <structure:Code id="266">
           <common:Name xml:lang="en">Gabon</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គាបុង</common:Name></structure:Code>
         <structure:Code id="268">
           <common:Name xml:lang="en">Georgia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្សកហ្ស៊ី</common:Name></structure:Code>
         <structure:Code id="270">
           <common:Name xml:lang="en">Gambia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គាំបៀ</common:Name></structure:Code>
         <structure:Code id="275">
           <common:Name xml:lang="en">State of Palestine</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">រដ្ឋប៉ាឡេស្ទីន</common:Name></structure:Code>
         <structure:Code id="276">
           <common:Name xml:lang="en">Germany</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសអាល្លឺម៉ង់</common:Name></structure:Code>
         <structure:Code id="288">
           <common:Name xml:lang="en">Ghana</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្កាណា</common:Name></structure:Code>
         <structure:Code id="292">
           <common:Name xml:lang="en">Gibraltar</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គីប្រាលតា</common:Name></structure:Code>
         <structure:Code id="296">
           <common:Name xml:lang="en">Kiribati</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">គីរីបាទី</common:Name></structure:Code>
         <structure:Code id="300">
           <common:Name xml:lang="en">Greece</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសក្រិក</common:Name></structure:Code>
         <structure:Code id="304">
           <common:Name xml:lang="en">Greenland</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គ្រីនឡែន</common:Name></structure:Code>
         <structure:Code id="308">
           <common:Name xml:lang="en">Grenada</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គ្រេណាដា</common:Name></structure:Code>
         <structure:Code id="312">
           <common:Name xml:lang="en">Guadeloupe</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គូដាឡូយ</common:Name></structure:Code>
         <structure:Code id="316">
           <common:Name xml:lang="en">Guam</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះហ្គាំ</common:Name></structure:Code>
         <structure:Code id="320">
           <common:Name xml:lang="en">Guatemala</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គាតេម៉ាឡា</common:Name></structure:Code>
         <structure:Code id="324">
           <common:Name xml:lang="en">Guinea</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គីណេ</common:Name></structure:Code>
         <structure:Code id="328">
           <common:Name xml:lang="en">Guyana</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គីយ៉ាណា</common:Name></structure:Code>
         <structure:Code id="332">
           <common:Name xml:lang="en">Haiti</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហៃទី</common:Name></structure:Code>
         <structure:Code id="334">
           <common:Name xml:lang="en">Heard Island and McDonald Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះហាដនិងកោះម៉ាកដូលែន</common:Name></structure:Code>
         <structure:Code id="336">
           <common:Name xml:lang="en">Holy See</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សូមមើលបរិសុទ្ធ</common:Name></structure:Code>
         <structure:Code id="340">
           <common:Name xml:lang="en">Honduras</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហុងឌូរ៉ាស</common:Name></structure:Code>
         <structure:Code id="344">
           <common:Name xml:lang="en">China, Hong Kong Special Administrative Region</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តំបន់រដ្ឋបាលពិសេសហុងកុងប្រទេសចិន</common:Name></structure:Code>
         <structure:Code id="348">
           <common:Name xml:lang="en">Hungary</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហុងគ្រី</common:Name></structure:Code>
         <structure:Code id="352">
           <common:Name xml:lang="en">Iceland</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ៊ីស្លង់</common:Name></structure:Code>
         <structure:Code id="356">
           <common:Name xml:lang="en">India</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ឥណ្ឌា</common:Name></structure:Code>
         <structure:Code id="360">
           <common:Name xml:lang="en">Indonesia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ឥណ្ឌូនេស៊ី</common:Name></structure:Code>
         <structure:Code id="364">
           <common:Name xml:lang="en">Iran (Islamic Republic of)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ៊ីរ៉ង់ (សាធារណរដ្ឋអ៊ីស្លាមនៃ)</common:Name></structure:Code>
         <structure:Code id="368">
           <common:Name xml:lang="en">Iraq</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ៊ីរ៉ាក់</common:Name></structure:Code>
         <structure:Code id="372">
           <common:Name xml:lang="en">Ireland</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អៀរឡង់</common:Name></structure:Code>
         <structure:Code id="376">
           <common:Name xml:lang="en">Israel</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ៊ីស្រាអែល</common:Name></structure:Code>
         <structure:Code id="380">
           <common:Name xml:lang="en">Italy</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសអ៊ីតាលី</common:Name></structure:Code>
         <structure:Code id="384">
           <common:Name xml:lang="en">Côte d'Ivoire</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កូតេឌីវ័រ</common:Name></structure:Code>
         <structure:Code id="388">
           <common:Name xml:lang="en">Jamaica</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្សាម៉ាអ៊ីក</common:Name></structure:Code>
         <structure:Code id="392">
           <common:Name xml:lang="en">Japan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ជប៉ុន</common:Name></structure:Code>
         <structure:Code id="398">
           <common:Name xml:lang="en">Kazakhstan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កាហ្សាក់ស្ថាន</common:Name></structure:Code>
         <structure:Code id="400">
           <common:Name xml:lang="en">Jordan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្ស៊កដានី</common:Name></structure:Code>
         <structure:Code id="404">
           <common:Name xml:lang="en">Kenya</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កេនយ៉ា</common:Name></structure:Code>
         <structure:Code id="408">
           <common:Name xml:lang="en">Democratic People's Republic of Korea</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋប្រជាធិបតេយ្យកូរ៉េ</common:Name></structure:Code>
         <structure:Code id="410">
           <common:Name xml:lang="en">Republic of Korea</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណៈ​រដ្ឋ​កូរ៉េ</common:Name></structure:Code>
         <structure:Code id="412">
           <common:Name xml:lang="en">Kosovo</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កូសូវ៉ូ</common:Name></structure:Code>
         <structure:Code id="414">
           <common:Name xml:lang="en">Kuwait</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">គុយវ៉ែត</common:Name></structure:Code>
         <structure:Code id="417">
           <common:Name xml:lang="en">Kyrgyzstan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កៀហ្ស៊ីស៊ីស្ថាន</common:Name></structure:Code>
         <structure:Code id="418">
           <common:Name xml:lang="en">Lao People's Democratic Republic</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋប្រជាធិបតេយ្យប្រជាមានិតឡាវ</common:Name></structure:Code>
         <structure:Code id="419">
           <common:Name xml:lang="en">Latin America and the Caribbean (SDG-MDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាមេរិកឡាទីននិងការ៉ាបៀន (SDG-MDG)</common:Name></structure:Code>
         <structure:Code id="420">
           <common:Name xml:lang="en">Latin America (MDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាមេរិកឡាទីន (MDG)</common:Name></structure:Code>
         <structure:Code id="422">
           <common:Name xml:lang="en">Lebanon</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">លីបង់</common:Name></structure:Code>
         <structure:Code id="426">
           <common:Name xml:lang="en">Lesotho</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ឡេសូថូ</common:Name></structure:Code>
         <structure:Code id="428">
           <common:Name xml:lang="en">Latvia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ឡាតវី</common:Name></structure:Code>
         <structure:Code id="430">
           <common:Name xml:lang="en">Liberia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">លីបេរីយ៉ា</common:Name></structure:Code>
         <structure:Code id="432">
           <common:Name xml:lang="en">Landlocked developing countries (LLDCs)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសកំពុងអភិវឌ្ឍន៍នៅលើដីគោក (LLDCs)</common:Name></structure:Code>
         <structure:Code id="434">
           <common:Name xml:lang="en">Libya</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">លីប៊ី</common:Name></structure:Code>
         <structure:Code id="438">
           <common:Name xml:lang="en">Liechtenstein</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">Liechtenstein</common:Name></structure:Code>
         <structure:Code id="440">
           <common:Name xml:lang="en">Lithuania</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">លីទុយអានី</common:Name></structure:Code>
         <structure:Code id="442">
           <common:Name xml:lang="en">Luxembourg</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">លុចសំបួ</common:Name></structure:Code>
         <structure:Code id="446">
           <common:Name xml:lang="en">China, Macao Special Administrative Region</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសចិនតំបន់រដ្ឋបាលពិសេសម៉ាកាវ</common:Name></structure:Code>
         <structure:Code id="450">
           <common:Name xml:lang="en">Madagascar</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ាដាហ្គាស្ការ</common:Name></structure:Code>
         <structure:Code id="454">
           <common:Name xml:lang="en">Malawi</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ាឡាវី</common:Name></structure:Code>
         <structure:Code id="458">
           <common:Name xml:lang="en">Malaysia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសម៉ាឡេស៊ី</common:Name></structure:Code>
         <structure:Code id="462">
           <common:Name xml:lang="en">Maldives</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ាល់ឌីវ</common:Name></structure:Code>
         <structure:Code id="466">
           <common:Name xml:lang="en">Mali</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ាលី</common:Name></structure:Code>
         <structure:Code id="470">
           <common:Name xml:lang="en">Malta</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ាលតា</common:Name></structure:Code>
         <structure:Code id="474">
           <common:Name xml:lang="en">Martinique</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ាទីនីក</common:Name></structure:Code>
         <structure:Code id="478">
           <common:Name xml:lang="en">Mauritania</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ូរីតានី</common:Name></structure:Code>
         <structure:Code id="480">
           <common:Name xml:lang="en">Mauritius</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ូរីស</common:Name></structure:Code>
         <structure:Code id="484">
           <common:Name xml:lang="en">Mexico</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ិកស៊ិក</common:Name></structure:Code>
         <structure:Code id="485">
           <common:Name xml:lang="en">Western Asia, exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia (MDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាស៊ីខាងលិច, លើកលែង។ អាមេនីអាស៊ែបៃហ្សង់ស៊ីព្រីសអ៊ីស្រាអែលនិងហ្សកហ្ស៊ី (MDG)</common:Name></structure:Code>
         <structure:Code id="492">
           <common:Name xml:lang="en">Monaco</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ូណាកូ</common:Name></structure:Code>
         <structure:Code id="496">
           <common:Name xml:lang="en">Mongolia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ុងហ្គោលី</common:Name></structure:Code>
         <structure:Code id="498">
           <common:Name xml:lang="en">Republic of Moldova</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋម៉ុលដាវី</common:Name></structure:Code>
         <structure:Code id="499">
           <common:Name xml:lang="en">Montenegro</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ុងតេណេហ្គ្រោ</common:Name></structure:Code>
         <structure:Code id="500">
           <common:Name xml:lang="en">Montserrat</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ុនសឺរ</common:Name></structure:Code>
         <structure:Code id="504">
           <common:Name xml:lang="en">Morocco</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ារ៉ុក</common:Name></structure:Code>
         <structure:Code id="508">
           <common:Name xml:lang="en">Mozambique</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ូសំប៊ិក</common:Name></structure:Code>
         <structure:Code id="512">
           <common:Name xml:lang="en">Oman</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អូម៉ង់</common:Name></structure:Code>
         <structure:Code id="513">
           <common:Name xml:lang="en">Northern America and Europe (SDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាមេរិកខាងជើងនិងអឺរ៉ុប (SDG)</common:Name></structure:Code>
         <structure:Code id="514">
           <common:Name xml:lang="en">Developed regions - Europe, Cyprus, Israel, Northern America, Japan, Australia &amp; New Zealand (MDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តំបន់អភិវឌ្ឍន៍ - អ៊ឺរ៉ុបសាយព្រីសអ៊ីស្រាអែលអាមេរិកខាងជើងជប៉ុនអូស្រ្តាលីនិងនូវែលសេឡង់ (MDG)</common:Name></structure:Code>
         <structure:Code id="515">
           <common:Name xml:lang="en">Developing regions (MDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តំបន់កំពុងអភិវឌ្ឍន៍ (MDG)</common:Name></structure:Code>
         <structure:Code id="516">
           <common:Name xml:lang="en">Namibia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ណាមមីបៀ</common:Name></structure:Code>
         <structure:Code id="518">
           <common:Name xml:lang="en">Eastern Asia, exc. Japan (MDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាស៊ីបូព៌ា។ ជប៉ុន (MDG)</common:Name></structure:Code>
         <structure:Code id="520">
           <common:Name xml:lang="en">Nauru</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ណៅរូ</common:Name></structure:Code>
         <structure:Code id="524">
           <common:Name xml:lang="en">Nepal</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">នេប៉ាល់</common:Name></structure:Code>
         <structure:Code id="528">
           <common:Name xml:lang="en">Netherlands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហូល្លង់</common:Name></structure:Code>
         <structure:Code id="530">
           <common:Name xml:lang="en">Netherlands Antilles [former, 1986 to 2010]</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អង់ទីលហូឡង់ [អតីតឆ្នាំ ១៩៨៦ ដល់ឆ្នាំ ២០១០]</common:Name></structure:Code>
         <structure:Code id="531">
           <common:Name xml:lang="en">Curaçao</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កូរ៉ាវៅ</common:Name></structure:Code>
         <structure:Code id="533">
           <common:Name xml:lang="en">Aruba</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អារូបា</common:Name></structure:Code>
         <structure:Code id="534">
           <common:Name xml:lang="en">Sint Maarten (Dutch part)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">Sint Maarten (ផ្នែកហូឡង់)</common:Name></structure:Code>
         <structure:Code id="535">
           <common:Name xml:lang="en">Bonaire, Sint Eustatius and Saba</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៊ូរី, ស៊ីនអ៊ូស្តាតសនិងសាបា</common:Name></structure:Code>
         <structure:Code id="540">
           <common:Name xml:lang="en">New Caledonia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កាលីដូនីថ្មី</common:Name></structure:Code>
         <structure:Code id="543">
           <common:Name xml:lang="en">Oceania, exc. Australia and New Zealand (SDG-MDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អូសេអានី, exc ។ អូស្រ្តាលីនិងនូវែលសេឡង់ (SDG-MDG)</common:Name></structure:Code>
         <structure:Code id="548">
           <common:Name xml:lang="en">Vanuatu</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">វ៉ានូអាទូ</common:Name></structure:Code>
         <structure:Code id="554">
           <common:Name xml:lang="en">New Zealand</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">នូវែលសេឡង់</common:Name></structure:Code>
         <structure:Code id="558">
           <common:Name xml:lang="en">Nicaragua</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">នីការ៉ាហ្គាវ៉ា</common:Name></structure:Code>
         <structure:Code id="562">
           <common:Name xml:lang="en">Niger</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">នីហ្សេរីយ៉ា</common:Name></structure:Code>
         <structure:Code id="566">
           <common:Name xml:lang="en">Nigeria</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">នីហ្សេរីយ៉ា</common:Name></structure:Code>
         <structure:Code id="570">
           <common:Name xml:lang="en">Niue</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">នីយូ</common:Name></structure:Code>
         <structure:Code id="574">
           <common:Name xml:lang="en">Norfolk Island</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះ Norfolk</common:Name></structure:Code>
         <structure:Code id="578">
           <common:Name xml:lang="en">Norway</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ន័រវែស</common:Name></structure:Code>
         <structure:Code id="580">
           <common:Name xml:lang="en">Northern Mariana Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះម៉ារៀណាខាងជើង</common:Name></structure:Code>
         <structure:Code id="581">
           <common:Name xml:lang="en">United States minor outlying islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះតូចៗដែលនៅឆ្ងាយពីសហរដ្ឋអាមេរិក</common:Name></structure:Code>
         <structure:Code id="583">
           <common:Name xml:lang="en">Micronesia (Federated States of)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មីក្រូណេស៊ីស (រដ្ឋសហព័ន្ធនៃ)</common:Name></structure:Code>
         <structure:Code id="584">
           <common:Name xml:lang="en">Marshall Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះ Marshall</common:Name></structure:Code>
         <structure:Code id="585">
           <common:Name xml:lang="en">Palau</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៉ាឡៅ</common:Name></structure:Code>
         <structure:Code id="586">
           <common:Name xml:lang="en">Pakistan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៉ាគីស្ថាន</common:Name></structure:Code>
         <structure:Code id="591">
           <common:Name xml:lang="en">Panama</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៉ាណាម៉ា</common:Name></structure:Code>
         <structure:Code id="593">
           <common:Name xml:lang="en">Development Assistance Committee members (DAC)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សមាជិកគណៈកម្មាធិការជំនួយអភិវឌ្ឍន៍ (ឌីស៊ី)</common:Name></structure:Code>
         <structure:Code id="598">
           <common:Name xml:lang="en">Papua New Guinea</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៉ាពួញូហ្គីណេ</common:Name></structure:Code>
         <structure:Code id="600">
           <common:Name xml:lang="en">Paraguay</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៉ារ៉ាហ្គាយ</common:Name></structure:Code>
         <structure:Code id="604">
           <common:Name xml:lang="en">Peru</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសប៉េរូ</common:Name></structure:Code>
         <structure:Code id="608">
           <common:Name xml:lang="en">Philippines</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្វីលីពីន</common:Name></structure:Code>
         <structure:Code id="612">
           <common:Name xml:lang="en">Pitcairn</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">Pitcairn</common:Name></structure:Code>
         <structure:Code id="616">
           <common:Name xml:lang="en">Poland</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេស​ប៉ូឡូញ</common:Name></structure:Code>
         <structure:Code id="620">
           <common:Name xml:lang="en">Portugal</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ព័រទុយហ្កាល់</common:Name></structure:Code>
         <structure:Code id="624">
           <common:Name xml:lang="en">Guinea-Bissau</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គីណេ - ប៊ីសៅ</common:Name></structure:Code>
         <structure:Code id="626">
           <common:Name xml:lang="en">Timor-Leste</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ទីម័រខាងកើត</common:Name></structure:Code>
         <structure:Code id="630">
           <common:Name xml:lang="en">Puerto Rico</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ព័រតូរីកូ</common:Name></structure:Code>
         <structure:Code id="634">
           <common:Name xml:lang="en">Qatar</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កាតា</common:Name></structure:Code>
         <structure:Code id="638">
           <common:Name xml:lang="en">Réunion</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">រីណូនីន</common:Name></structure:Code>
         <structure:Code id="642">
           <common:Name xml:lang="en">Romania</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">រូម៉ានី</common:Name></structure:Code>
         <structure:Code id="643">
           <common:Name xml:lang="en">Russian Federation</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សហព័ន្ធរុស្ស៊ី</common:Name></structure:Code>
         <structure:Code id="646">
           <common:Name xml:lang="en">Rwanda</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">រវ៉ាន់ដា</common:Name></structure:Code>
         <structure:Code id="652">
           <common:Name xml:lang="en">Saint Barthélemy</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សេនបារថឺលមី</common:Name></structure:Code>
         <structure:Code id="654">
           <common:Name xml:lang="en">Saint Helena</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាំងហេលេណា</common:Name></structure:Code>
         <structure:Code id="659">
           <common:Name xml:lang="en">Saint Kitts and Nevis</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាំងឃីតនិងណេវីស</common:Name></structure:Code>
         <structure:Code id="660">
           <common:Name xml:lang="en">Anguilla</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អង់ហ្គីឡា</common:Name></structure:Code>
         <structure:Code id="662">
           <common:Name xml:lang="en">Saint Lucia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាំងលូសៀ</common:Name></structure:Code>
         <structure:Code id="663">
           <common:Name xml:lang="en">Saint Martin (French Part)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាំងម៉ាទីន (ផ្នែកបារាំង)</common:Name></structure:Code>
         <structure:Code id="666">
           <common:Name xml:lang="en">Saint Pierre and Miquelon</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាំងព្យែរនិងមីគែលឡុន</common:Name></structure:Code>
         <structure:Code id="670">
           <common:Name xml:lang="en">Saint Vincent and the Grenadines</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាំងវ៉ាំងសង់និងហ្គ្រីណាឌីន</common:Name></structure:Code>
         <structure:Code id="674">
           <common:Name xml:lang="en">San Marino</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សានម៉ារីណូ</common:Name></structure:Code>
         <structure:Code id="678">
           <common:Name xml:lang="en">Sao Tome and Principe</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សៅថូមនិងប្រីពលីន</common:Name></structure:Code>
         <structure:Code id="682">
           <common:Name xml:lang="en">Saudi Arabia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អារ៉ាប៊ីសាអូឌីត</common:Name></structure:Code>
         <structure:Code id="686">
           <common:Name xml:lang="en">Senegal</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សេណេហ្គាល់</common:Name></structure:Code>
         <structure:Code id="688">
           <common:Name xml:lang="en">Serbia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស៊ែប៊ី</common:Name></structure:Code>
         <structure:Code id="690">
           <common:Name xml:lang="en">Seychelles</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សីស្ហែល</common:Name></structure:Code>
         <structure:Code id="694">
           <common:Name xml:lang="en">Sierra Leone</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សៀរ៉ាឡេអូន</common:Name></structure:Code>
         <structure:Code id="702">
           <common:Name xml:lang="en">Singapore</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សិង្ហបុរី</common:Name></structure:Code>
         <structure:Code id="703">
           <common:Name xml:lang="en">Slovakia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្លូវ៉ាគី</common:Name></structure:Code>
         <structure:Code id="704">
           <common:Name xml:lang="en">Viet Nam</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">វៀតណាម</common:Name></structure:Code>
         <structure:Code id="705">
           <common:Name xml:lang="en">Slovenia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្លូវេនី</common:Name></structure:Code>
         <structure:Code id="706">
           <common:Name xml:lang="en">Somalia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សូម៉ាលី</common:Name></structure:Code>
         <structure:Code id="710">
           <common:Name xml:lang="en">South Africa</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អា​ព្រិច​ខាងត្បូង</common:Name></structure:Code>
         <structure:Code id="716">
           <common:Name xml:lang="en">Zimbabwe</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្សីមបាវេ</common:Name></structure:Code>
         <structure:Code id="722">
           <common:Name xml:lang="en">Small island developing States (SIDS)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">រដ្ឋកំពុងអភិវឌ្ឍកោះតូចៗ (SIDS)</common:Name></structure:Code>
         <structure:Code id="724">
           <common:Name xml:lang="en">Spain</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អេស្ប៉ាញ</common:Name></structure:Code>
         <structure:Code id="728">
           <common:Name xml:lang="en">South Sudan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស៊ូដង់​ខាងត្បូង</common:Name></structure:Code>
         <structure:Code id="729">
           <common:Name xml:lang="en">Sudan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស៊ូដង់</common:Name></structure:Code>
         <structure:Code id="732">
           <common:Name xml:lang="en">Western Sahara</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាហារ៉ាខាងលិច</common:Name></structure:Code>
         <structure:Code id="736">
           <common:Name xml:lang="en">Sudan [former]</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស៊ូដង់ [អតីត]</common:Name></structure:Code>
         <structure:Code id="738">
           <common:Name xml:lang="en">Sub-Saharan Africa, inc. Sudan (MDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អនុតំបន់សាហារ៉ាទ្វីបអាហ្វ្រិក។ ស៊ូដង់ (MDG)</common:Name></structure:Code>
         <structure:Code id="740">
           <common:Name xml:lang="en">Suriname</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សុរិន្ទ</common:Name></structure:Code>
         <structure:Code id="744">
           <common:Name xml:lang="en">Svalbard and Jan Mayen Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះវ៉ាលបាដនិងចានមេនណេន</common:Name></structure:Code>
         <structure:Code id="746">
           <common:Name xml:lang="en">Northern Africa, exc. Sudan (MDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាហ្រ្វិកខាងជើងឧ។ ស៊ូដង់ (MDG)</common:Name></structure:Code>
         <structure:Code id="747">
           <common:Name xml:lang="en">Western Asia and Northern Africa (SDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាស៊ីខាងលិចនិងអាហ្វ្រិកខាងជើង (អេសជីជី)</common:Name></structure:Code>
         <structure:Code id="748">
           <common:Name xml:lang="en">Swaziland</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្វាស៊ីឡង់</common:Name></structure:Code>
         <structure:Code id="752">
           <common:Name xml:lang="en">Sweden</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស៊ុយអែត</common:Name></structure:Code>
         <structure:Code id="753">
           <common:Name xml:lang="en">Eastern Asia and South-eastern Asia (SDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាស៊ីខាងកើតនិងអាស៊ីអាគ្នេយ៍ (អេសស៊ីជី)</common:Name></structure:Code>
         <structure:Code id="756">
           <common:Name xml:lang="en">Switzerland</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេស​ស្វីស</common:Name></structure:Code>
         <structure:Code id="760">
           <common:Name xml:lang="en">Syrian Arab Republic</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋអារ៉ាប់ស៊ីរី</common:Name></structure:Code>
         <structure:Code id="762">
           <common:Name xml:lang="en">Tajikistan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តាជីគីស្ថាន</common:Name></structure:Code>
         <structure:Code id="764">
           <common:Name xml:lang="en">Thailand</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ថៃ</common:Name></structure:Code>
         <structure:Code id="768">
           <common:Name xml:lang="en">Togo</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តូហ្គោ</common:Name></structure:Code>
         <structure:Code id="772">
           <common:Name xml:lang="en">Tokelau</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តូកូឡូ</common:Name></structure:Code>
         <structure:Code id="776">
           <common:Name xml:lang="en">Tonga</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តុងហ្គា</common:Name></structure:Code>
         <structure:Code id="780">
           <common:Name xml:lang="en">Trinidad and Tobago</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ទ្រី​នី​ដា​ដ​និង​តូបាហ្គោ</common:Name></structure:Code>
         <structure:Code id="784">
           <common:Name xml:lang="en">United Arab Emirates</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សហព័ន្ធ​អារ៉ាប់រួម</common:Name></structure:Code>
         <structure:Code id="788">
           <common:Name xml:lang="en">Tunisia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ទុយនីស៊ី</common:Name></structure:Code>
         <structure:Code id="792">
           <common:Name xml:lang="en">Turkey</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តួកគី</common:Name></structure:Code>
         <structure:Code id="795">
           <common:Name xml:lang="en">Turkmenistan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តូមិននីស្ថាន</common:Name></structure:Code>
         <structure:Code id="796">
           <common:Name xml:lang="en">Turks and Caicos Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះទួកនិងកៃកូស</common:Name></structure:Code>
         <structure:Code id="798">
           <common:Name xml:lang="en">Tuvalu</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តូវលូ</common:Name></structure:Code>
         <structure:Code id="800">
           <common:Name xml:lang="en">Uganda</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ៊ូហ្គង់ដា</common:Name></structure:Code>
         <structure:Code id="804">
           <common:Name xml:lang="en">Ukraine</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ៊ុយក្រែន</common:Name></structure:Code>
         <structure:Code id="807">
           <common:Name xml:lang="en">The former Yugoslav Republic of Macedonia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋយូហ្គោស្លាវីម៉ាសេដូនី</common:Name></structure:Code>
         <structure:Code id="818">
           <common:Name xml:lang="en">Egypt</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អេហ្ស៊ីប</common:Name></structure:Code>
         <structure:Code id="826">
           <common:Name xml:lang="en">United Kingdom of Great Britain and Northern Ireland</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ចក្រភពអង់គ្លេសនិងអៀរឡង់ខាងជើង</common:Name></structure:Code>
         <structure:Code id="830">
           <common:Name xml:lang="en">Channel Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះឆានែល</common:Name></structure:Code>
         <structure:Code id="831">
           <common:Name xml:lang="en">Guernsey</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គីនសី</common:Name></structure:Code>
         <structure:Code id="832">
           <common:Name xml:lang="en">Jersey</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">Jersey</common:Name></structure:Code>
         <structure:Code id="833">
           <common:Name xml:lang="en">Isle of Man</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះ Manle</common:Name></structure:Code>
         <structure:Code id="834">
           <common:Name xml:lang="en">United Republic of Tanzania</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋតង់ហ្សានី</common:Name></structure:Code>
         <structure:Code id="835">
           <common:Name xml:lang="en">United Republic of Tanzania (Mainland)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋតង់ហ្សានី (ចិនដីគោក)</common:Name></structure:Code>
         <structure:Code id="836">
           <common:Name xml:lang="en">United Republic of Tanzania (Zanzibar)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋតង់ហ្សានី (ហ្សាណាហ្សីបា)</common:Name></structure:Code>
         <structure:Code id="840">
           <common:Name xml:lang="en">United States of America</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សហរដ្ឋអាមេរិក</common:Name></structure:Code>
         <structure:Code id="850">
           <common:Name xml:lang="en">United States Virgin Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះវឺដ្យីនសហរដ្ឋអាមេរិក</common:Name></structure:Code>
         <structure:Code id="854">
           <common:Name xml:lang="en">Burkina Faso</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៊ូគីណាហ្វាសូ</common:Name></structure:Code>
         <structure:Code id="858">
           <common:Name xml:lang="en">Uruguay</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ៊ុយរូហ្គាយ</common:Name></structure:Code>
         <structure:Code id="860">
           <common:Name xml:lang="en">Uzbekistan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ៊ូសបេគីស្ថាន</common:Name></structure:Code>
         <structure:Code id="862">
           <common:Name xml:lang="en">Venezuela (Bolivarian Republic of)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">Venezuela (សាធារណរដ្ឋបូលីវី)</common:Name></structure:Code>
         <structure:Code id="876">
           <common:Name xml:lang="en">Wallis and Futuna Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះ Wallis និង Futuna</common:Name></structure:Code>
         <structure:Code id="882">
           <common:Name xml:lang="en">Samoa</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាម័រ</common:Name></structure:Code>
         <structure:Code id="887">
           <common:Name xml:lang="en">Yemen</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">យេម៉ែន</common:Name></structure:Code>
         <structure:Code id="889">
           <common:Name xml:lang="en">WTO Member States</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">រដ្ឋជាសមាជិកអង្គការពាណិជ្ជកម្មពិភពលោក</common:Name></structure:Code>
         <structure:Code id="891">
           <common:Name xml:lang="en">Serbia and Montenegro [former]</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស៊ែប៊ីនិងម៉ុងតេណេហ្គ្រោ [អតីត]</common:Name></structure:Code>
         <structure:Code id="894">
           <common:Name xml:lang="en">Zambia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្សំបៀ</common:Name></structure:Code>
         <structure:Code id="901">
           <common:Name xml:lang="en">Africa (ILO)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាហ្វ្រិក (អាយ។ អ៊ី។ អាយ។ អេ។ )</common:Name></structure:Code>
         <structure:Code id="902">
           <common:Name xml:lang="en">Asia and the Pacific (ILO)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាស៊ីនិងប៉ាស៊ីហ្វិក (អាយ។ អ៊ី។ អាយ។ អេ។ )</common:Name></structure:Code>
         <structure:Code id="903">
           <common:Name xml:lang="en">Central and Eastern Europe (ILO)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អឺរ៉ុបកណ្តាលនិងអឺរ៉ុបខាងកើត</common:Name></structure:Code>
         <structure:Code id="904">
           <common:Name xml:lang="en">Middle East and North Africa (ILO)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មជ្ឈឹមបូព៌ានិងអាហ្រ្វិកខាងជើង (អាយ។ អាយ។ អាយ។ អេ។ អាយ។ អិល)</common:Name></structure:Code>
         <structure:Code id="905">
           <common:Name xml:lang="en">Middle East (ILO)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មជ្ឈឹមបូព៌ា (ILO)</common:Name></structure:Code>
         <structure:Code id="906">
           <common:Name xml:lang="en">North America (ILO)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាមេរិកខាងជើង</common:Name></structure:Code>
         <structure:Code id="907">
           <common:Name xml:lang="en">Other regions (ILO)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តំបន់ផ្សេងៗទៀត</common:Name></structure:Code>
         <structure:Code id="908">
           <common:Name xml:lang="en">Western Europe (ILO)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ៊ឺរ៉ុបខាងលិច</common:Name></structure:Code>
         <structure:Code id="909">
           <common:Name xml:lang="en">Eastern Southern South-Eastern Asia and Oceania (MDG)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាស៊ីខាងត្បូងខាងត្បូង - អាស៊ីអាគ្នេយ៍និងអូសេអានី (MDG)</common:Name></structure:Code>
         <structure:Code id="910">
           <common:Name xml:lang="en">High income economies (WB)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សេដ្ឋកិច្ចមានប្រាក់ចំណូលខ្ពស់ (WB)</common:Name></structure:Code>
         <structure:Code id="911">
           <common:Name xml:lang="en">Low income economies (WB)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សេដ្ឋកិច្ចមានប្រាក់ចំណូលទាប (WB)</common:Name></structure:Code>
         <structure:Code id="912">
           <common:Name xml:lang="en">Lower middle economies (WB)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សេដ្ឋកិច្ចកណ្តាលទាប (WB)</common:Name></structure:Code>
         <structure:Code id="913">
           <common:Name xml:lang="en">Low and middle income economies (WB)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សេដ្ឋកិច្ចមានប្រាក់ចំណូលទាបនិងមធ្យម (WB)</common:Name></structure:Code>
         <structure:Code id="914">
           <common:Name xml:lang="en">Upper middle economies (WB)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សេដ្ឋកិច្ចកណ្តាលខ្ពស់ (WB)</common:Name></structure:Code>
         <structure:Code id="915">
           <common:Name xml:lang="en">WTO Developing Member States</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសកំពុងអភិវឌ្ឍន៍របស់អង្គការពាណិជ្ជកម្មពិភពលោក</common:Name></structure:Code>
         <structure:Code id="916">
           <common:Name xml:lang="en">WTO Developed Member States</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">រដ្ឋជាសមាជិកអភិវឌ្ឍន៍របស់អង្គការពាណិជ្ជកម្មពិភពលោក</common:Name></structure:Code>
         <structure:Code id="917">
           <common:Name xml:lang="en">International Centers (FAO)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មជ្ឈមណ្ឌលអន្តរជាតិ (អេហ្វ។ អូ)</common:Name></structure:Code>
         <structure:Code id="AD">
           <common:Name xml:lang="en">Andorra</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អង់ដូរ៉ា</common:Name></structure:Code>
         <structure:Code id="AE">
           <common:Name xml:lang="en">United Arab Emirates</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សហព័ន្ធ​អារ៉ាប់រួម</common:Name></structure:Code>
         <structure:Code id="AF">
           <common:Name xml:lang="en">Afghanistan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាហ្វហ្គានីស្ថាន</common:Name></structure:Code>
         <structure:Code id="AG">
           <common:Name xml:lang="en">Antigua and Barbuda</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អង់ទីហ្គាហ្គនិងបាបាដា</common:Name></structure:Code>
         <structure:Code id="AI">
           <common:Name xml:lang="en">Anguilla</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អង់ហ្គីឡា</common:Name></structure:Code>
         <structure:Code id="AL">
           <common:Name xml:lang="en">Albania</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាល់បានី</common:Name></structure:Code>
         <structure:Code id="AM">
           <common:Name xml:lang="en">Armenia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាមេនី</common:Name></structure:Code>
         <structure:Code id="AN">
           <common:Name xml:lang="en">Netherlands Antilles [former]</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អង់ទីលហូឡង់ [អតីត]</common:Name></structure:Code>
         <structure:Code id="AO">
           <common:Name xml:lang="en">Angola</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អង់ហ្គោឡា</common:Name></structure:Code>
         <structure:Code id="AQ">
           <common:Name xml:lang="en">Antarctica</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អង់តាក់ទិក</common:Name></structure:Code>
         <structure:Code id="AR">
           <common:Name xml:lang="en">Argentina</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាហ្សង់ទីន</common:Name></structure:Code>
         <structure:Code id="AS">
           <common:Name xml:lang="en">American Samoa</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាម័រអាមេរិក</common:Name></structure:Code>
         <structure:Code id="AT">
           <common:Name xml:lang="en">Austria</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អូទ្រីស</common:Name></structure:Code>
         <structure:Code id="AU">
           <common:Name xml:lang="en">Australia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អូស្ត្រាលី</common:Name></structure:Code>
         <structure:Code id="AW">
           <common:Name xml:lang="en">Aruba</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អារូបា</common:Name></structure:Code>
         <structure:Code id="AX">
           <common:Name xml:lang="en">Åland Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះលែន</common:Name></structure:Code>
         <structure:Code id="AZ">
           <common:Name xml:lang="en">Azerbaijan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាស៊ែបៃហ្សង់</common:Name></structure:Code>
         <structure:Code id="BA">
           <common:Name xml:lang="en">Bosnia and Herzegovina</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បូស្នីនិងហឺហ្សេហ្គូវីណា</common:Name></structure:Code>
         <structure:Code id="BB">
           <common:Name xml:lang="en">Barbados</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បាបាដុស</common:Name></structure:Code>
         <structure:Code id="BD">
           <common:Name xml:lang="en">Bangladesh</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បង់ក្លាដែស</common:Name></structure:Code>
         <structure:Code id="BE">
           <common:Name xml:lang="en">Belgium</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បែលហ្ស៊ិក</common:Name></structure:Code>
         <structure:Code id="BF">
           <common:Name xml:lang="en">Burkina Faso</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៊ូគីណាហ្វាសូ</common:Name></structure:Code>
         <structure:Code id="BG">
           <common:Name xml:lang="en">Bulgaria</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៊ុលហ្គារី</common:Name></structure:Code>
         <structure:Code id="BH">
           <common:Name xml:lang="en">Bahrain</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បារ៉ែន</common:Name></structure:Code>
         <structure:Code id="BI">
           <common:Name xml:lang="en">Burundi</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៊ូរុនឌី</common:Name></structure:Code>
         <structure:Code id="BJ">
           <common:Name xml:lang="en">Benin</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បេនីន</common:Name></structure:Code>
         <structure:Code id="BL">
           <common:Name xml:lang="en">Saint Barthélemy</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សេនបារថឺលមី</common:Name></structure:Code>
         <structure:Code id="BM">
           <common:Name xml:lang="en">Bermuda</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៊ឺមូដា</common:Name></structure:Code>
         <structure:Code id="BN">
           <common:Name xml:lang="en">Brunei Darussalam</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេស​ព្រុយ​ណេ​ដា​រូ​សា​ឡឹម</common:Name></structure:Code>
         <structure:Code id="BO">
           <common:Name xml:lang="en">Bolivia (Plurinational State of)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បូលីវី (រដ្ឋ Plurinational នៃ)</common:Name></structure:Code>
         <structure:Code id="BQ">
           <common:Name xml:lang="en">Bonaire, Sint Eustatius and Saba</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៊ូរី, ស៊ីនអ៊ូស្តាតសនិងសាបា</common:Name></structure:Code>
         <structure:Code id="BR">
           <common:Name xml:lang="en">Brazil</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រេស៊ីល</common:Name></structure:Code>
         <structure:Code id="BS">
           <common:Name xml:lang="en">Bahamas</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បាហាម៉ាស</common:Name></structure:Code>
         <structure:Code id="BT">
           <common:Name xml:lang="en">Bhutan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៊ូតាន</common:Name></structure:Code>
         <structure:Code id="BW">
           <common:Name xml:lang="en">Botswana</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បុតស្វាណា</common:Name></structure:Code>
         <structure:Code id="BY">
           <common:Name xml:lang="en">Belarus</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បេឡារុស្ស</common:Name></structure:Code>
         <structure:Code id="BZ">
           <common:Name xml:lang="en">Belize</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បេលីស</common:Name></structure:Code>
         <structure:Code id="CA">
           <common:Name xml:lang="en">Canada</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កាណាដា</common:Name></structure:Code>
         <structure:Code id="CC">
           <common:Name xml:lang="en">Cocos (Keeling) Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះកូកូស (ឃីលលីង)</common:Name></structure:Code>
         <structure:Code id="CD">
           <common:Name xml:lang="en">Democratic Republic of the Congo</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋប្រជាធិបតេយ្យកុងហ្គោ</common:Name></structure:Code>
         <structure:Code id="CF">
           <common:Name xml:lang="en">Central African Republic</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋអាហ្វ្រិកកណ្តាល</common:Name></structure:Code>
         <structure:Code id="CG">
           <common:Name xml:lang="en">Congo</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កុងហ្គោ</common:Name></structure:Code>
         <structure:Code id="CH">
           <common:Name xml:lang="en">Switzerland</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេស​ស្វីស</common:Name></structure:Code>
         <structure:Code id="CI">
           <common:Name xml:lang="en">Côte d'Ivoire</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កូតេឌីវ័រ</common:Name></structure:Code>
         <structure:Code id="CK">
           <common:Name xml:lang="en">Cook Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះឃុក</common:Name></structure:Code>
         <structure:Code id="CL">
           <common:Name xml:lang="en">Chile</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ឈីលី</common:Name></structure:Code>
         <structure:Code id="CM">
           <common:Name xml:lang="en">Cameroon</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កាមេរូន</common:Name></structure:Code>
         <structure:Code id="CN">
           <common:Name xml:lang="en">China</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ចិន</common:Name></structure:Code>
         <structure:Code id="CO">
           <common:Name xml:lang="en">Colombia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កូឡុំប៊ី</common:Name></structure:Code>
         <structure:Code id="CR">
           <common:Name xml:lang="en">Costa Rica</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កូស្តារីកា</common:Name></structure:Code>
         <structure:Code id="CU">
           <common:Name xml:lang="en">Cuba</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">គុយបា</common:Name></structure:Code>
         <structure:Code id="CV">
           <common:Name xml:lang="en">Cabo Verde</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ខាបាវេដ</common:Name></structure:Code>
         <structure:Code id="CW">
           <common:Name xml:lang="en">Curaçao</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កូរ៉ាវៅ</common:Name></structure:Code>
         <structure:Code id="CX">
           <common:Name xml:lang="en">Christmas Island</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះគ្រីស្មាស</common:Name></structure:Code>
         <structure:Code id="CY">
           <common:Name xml:lang="en">Cyprus</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស៊ីប</common:Name></structure:Code>
         <structure:Code id="CZ">
           <common:Name xml:lang="en">Czechia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ឆែក</common:Name></structure:Code>
         <structure:Code id="DE">
           <common:Name xml:lang="en">Germany</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសអាល្លឺម៉ង់</common:Name></structure:Code>
         <structure:Code id="DJ">
           <common:Name xml:lang="en">Djibouti</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ជីប៊ូទី</common:Name></structure:Code>
         <structure:Code id="DK">
           <common:Name xml:lang="en">Denmark</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសដាណឺម៉ាក</common:Name></structure:Code>
         <structure:Code id="DM">
           <common:Name xml:lang="en">Dominica</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ដូមីនីកា</common:Name></structure:Code>
         <structure:Code id="DO">
           <common:Name xml:lang="en">Dominican Republic</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋ​ដូ​មីនី​កែន</common:Name></structure:Code>
         <structure:Code id="DZ">
           <common:Name xml:lang="en">Algeria</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អាល់ហ្សេរី</common:Name></structure:Code>
         <structure:Code id="EC">
           <common:Name xml:lang="en">Ecuador</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អេក្វាឌ័រ</common:Name></structure:Code>
         <structure:Code id="EE">
           <common:Name xml:lang="en">Estonia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អេស្តូនី</common:Name></structure:Code>
         <structure:Code id="EG">
           <common:Name xml:lang="en">Egypt</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អេហ្ស៊ីប</common:Name></structure:Code>
         <structure:Code id="EH">
           <common:Name xml:lang="en">Western Sahara</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាហារ៉ាខាងលិច</common:Name></structure:Code>
         <structure:Code id="ER">
           <common:Name xml:lang="en">Eritrea</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អេរីទ្រា</common:Name></structure:Code>
         <structure:Code id="ES">
           <common:Name xml:lang="en">Spain</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អេស្ប៉ាញ</common:Name></structure:Code>
         <structure:Code id="ET">
           <common:Name xml:lang="en">Ethiopia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសអេត្យូពី</common:Name></structure:Code>
         <structure:Code id="FI">
           <common:Name xml:lang="en">Finland</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្វាំងឡង់</common:Name></structure:Code>
         <structure:Code id="FJ">
           <common:Name xml:lang="en">Fiji</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្វីជី</common:Name></structure:Code>
         <structure:Code id="FK">
           <common:Name xml:lang="en">Falkland Islands (Malvinas)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះហ្វក់ឡែន (ម៉ាលវីណាស)</common:Name></structure:Code>
         <structure:Code id="FM">
           <common:Name xml:lang="en">Micronesia (Federated States of)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មីក្រូណេស៊ីស (រដ្ឋសហព័ន្ធនៃ)</common:Name></structure:Code>
         <structure:Code id="FO">
           <common:Name xml:lang="en">Faroe Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះហ្វារ៉ូ</common:Name></structure:Code>
         <structure:Code id="FQ">
           <common:Name xml:lang="en">French Southern Territories</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ដែនដីភាគខាងត្បូងបារាំង</common:Name></structure:Code>
         <structure:Code id="FR">
           <common:Name xml:lang="en">France</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បារាំង</common:Name></structure:Code>
         <structure:Code id="GA">
           <common:Name xml:lang="en">Gabon</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គាបុង</common:Name></structure:Code>
         <structure:Code id="GB">
           <common:Name xml:lang="en">United Kingdom of Great Britain and Northern Ireland</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ចក្រភពអង់គ្លេសនិងអៀរឡង់ខាងជើង</common:Name></structure:Code>
         <structure:Code id="GD">
           <common:Name xml:lang="en">Grenada</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គ្រេណាដា</common:Name></structure:Code>
         <structure:Code id="GE">
           <common:Name xml:lang="en">Georgia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្សកហ្ស៊ី</common:Name></structure:Code>
         <structure:Code id="GF">
           <common:Name xml:lang="en">French Guiana</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គីយ៉ាណាបារាំង</common:Name></structure:Code>
         <structure:Code id="GG">
           <common:Name xml:lang="en">Guernsey</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គីនសី</common:Name></structure:Code>
         <structure:Code id="GH">
           <common:Name xml:lang="en">Ghana</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្កាណា</common:Name></structure:Code>
         <structure:Code id="GI">
           <common:Name xml:lang="en">Gibraltar</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គីប្រាលតា</common:Name></structure:Code>
         <structure:Code id="GL">
           <common:Name xml:lang="en">Greenland</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គ្រីនឡែន</common:Name></structure:Code>
         <structure:Code id="GM">
           <common:Name xml:lang="en">Gambia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គាំបៀ</common:Name></structure:Code>
         <structure:Code id="GN">
           <common:Name xml:lang="en">Guinea</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គីណេ</common:Name></structure:Code>
         <structure:Code id="GP">
           <common:Name xml:lang="en">Guadeloupe</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គូដាឡូយ</common:Name></structure:Code>
         <structure:Code id="GQ">
           <common:Name xml:lang="en">Equatorial Guinea</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គីណេអេក្វាទ័រ</common:Name></structure:Code>
         <structure:Code id="GR">
           <common:Name xml:lang="en">Greece</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសក្រិក</common:Name></structure:Code>
         <structure:Code id="GS">
           <common:Name xml:lang="en">South Georgia and the South Sandwich Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្សកហ្ស៊ីខាងត្បូងនិងកោះសាន់វិចខាងត្បូង</common:Name></structure:Code>
         <structure:Code id="GT">
           <common:Name xml:lang="en">Guatemala</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គាតេម៉ាឡា</common:Name></structure:Code>
         <structure:Code id="GU">
           <common:Name xml:lang="en">Guam</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះហ្គាំ</common:Name></structure:Code>
         <structure:Code id="GW">
           <common:Name xml:lang="en">Guinea-Bissau</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គីណេ - ប៊ីសៅ</common:Name></structure:Code>
         <structure:Code id="GY">
           <common:Name xml:lang="en">Guyana</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្គីយ៉ាណា</common:Name></structure:Code>
         <structure:Code id="HK">
           <common:Name xml:lang="en">China, Hong Kong Special Administrative Region</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តំបន់រដ្ឋបាលពិសេសហុងកុងប្រទេសចិន</common:Name></structure:Code>
         <structure:Code id="HM">
           <common:Name xml:lang="en">Heard Island and McDonald Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះហាដនិងកោះម៉ាកដូលែន</common:Name></structure:Code>
         <structure:Code id="HN">
           <common:Name xml:lang="en">Honduras</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហុងឌូរ៉ាស</common:Name></structure:Code>
         <structure:Code id="HR">
           <common:Name xml:lang="en">Croatia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ក្រូអាត</common:Name></structure:Code>
         <structure:Code id="HT">
           <common:Name xml:lang="en">Haiti</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហៃទី</common:Name></structure:Code>
         <structure:Code id="HU">
           <common:Name xml:lang="en">Hungary</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហុងគ្រី</common:Name></structure:Code>
         <structure:Code id="ID">
           <common:Name xml:lang="en">Indonesia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ឥណ្ឌូនេស៊ី</common:Name></structure:Code>
         <structure:Code id="IE">
           <common:Name xml:lang="en">Ireland</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អៀរឡង់</common:Name></structure:Code>
         <structure:Code id="IL">
           <common:Name xml:lang="en">Israel</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ៊ីស្រាអែល</common:Name></structure:Code>
         <structure:Code id="IM">
           <common:Name xml:lang="en">Isle of Man</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះ Manle</common:Name></structure:Code>
         <structure:Code id="IN">
           <common:Name xml:lang="en">India</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ឥណ្ឌា</common:Name></structure:Code>
         <structure:Code id="IO">
           <common:Name xml:lang="en">British Indian Ocean Territory</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ទឹកដីមហាសមុទ្រឥណ្ឌាអង់គ្លេស</common:Name></structure:Code>
         <structure:Code id="IQ">
           <common:Name xml:lang="en">Iraq</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ៊ីរ៉ាក់</common:Name></structure:Code>
         <structure:Code id="IR">
           <common:Name xml:lang="en">Iran (Islamic Republic of)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ៊ីរ៉ង់ (សាធារណរដ្ឋអ៊ីស្លាមនៃ)</common:Name></structure:Code>
         <structure:Code id="IS">
           <common:Name xml:lang="en">Iceland</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ៊ីស្លង់</common:Name></structure:Code>
         <structure:Code id="IT">
           <common:Name xml:lang="en">Italy</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសអ៊ីតាលី</common:Name></structure:Code>
         <structure:Code id="JE">
           <common:Name xml:lang="en">Jersey</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">Jersey</common:Name></structure:Code>
         <structure:Code id="JM">
           <common:Name xml:lang="en">Jamaica</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្សាម៉ាអ៊ីក</common:Name></structure:Code>
         <structure:Code id="JO">
           <common:Name xml:lang="en">Jordan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្ស៊កដានី</common:Name></structure:Code>
         <structure:Code id="JP">
           <common:Name xml:lang="en">Japan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ជប៉ុន</common:Name></structure:Code>
         <structure:Code id="KE">
           <common:Name xml:lang="en">Kenya</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កេនយ៉ា</common:Name></structure:Code>
         <structure:Code id="KG">
           <common:Name xml:lang="en">Kyrgyzstan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កៀហ្ស៊ីស៊ីស្ថាន</common:Name></structure:Code>
         <structure:Code id="KH">
           <common:Name xml:lang="en">Cambodia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសកម្ពុជា</common:Name></structure:Code>
         <structure:Code id="KI">
           <common:Name xml:lang="en">Kiribati</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">គីរីបាទី</common:Name></structure:Code>
         <structure:Code id="KM">
           <common:Name xml:lang="en">Comoros</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កូម័រ</common:Name></structure:Code>
         <structure:Code id="KN">
           <common:Name xml:lang="en">Saint Kitts and Nevis</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាំងឃីតនិងណេវីស</common:Name></structure:Code>
         <structure:Code id="KP">
           <common:Name xml:lang="en">Democratic People's Republic of Korea</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋប្រជាធិបតេយ្យកូរ៉េ</common:Name></structure:Code>
         <structure:Code id="KR">
           <common:Name xml:lang="en">Republic of Korea</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណៈ​រដ្ឋ​កូរ៉េ</common:Name></structure:Code>
         <structure:Code id="KW">
           <common:Name xml:lang="en">Kuwait</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">គុយវ៉ែត</common:Name></structure:Code>
         <structure:Code id="KY">
           <common:Name xml:lang="en">Cayman Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះកៃម៉ាន</common:Name></structure:Code>
         <structure:Code id="KZ">
           <common:Name xml:lang="en">Kazakhstan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កាហ្សាក់ស្ថាន</common:Name></structure:Code>
         <structure:Code id="LA">
           <common:Name xml:lang="en">Lao People's Democratic Republic</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋប្រជាធិបតេយ្យប្រជាមានិតឡាវ</common:Name></structure:Code>
         <structure:Code id="LB">
           <common:Name xml:lang="en">Lebanon</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">លីបង់</common:Name></structure:Code>
         <structure:Code id="LC">
           <common:Name xml:lang="en">Saint Lucia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាំងលូសៀ</common:Name></structure:Code>
         <structure:Code id="LI">
           <common:Name xml:lang="en">Liechtenstein</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">Liechtenstein</common:Name></structure:Code>
         <structure:Code id="LK">
           <common:Name xml:lang="en">Sri Lanka</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្រី​លង្កា</common:Name></structure:Code>
         <structure:Code id="LR">
           <common:Name xml:lang="en">Liberia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">លីបេរីយ៉ា</common:Name></structure:Code>
         <structure:Code id="LS">
           <common:Name xml:lang="en">Lesotho</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ឡេសូថូ</common:Name></structure:Code>
         <structure:Code id="LT">
           <common:Name xml:lang="en">Lithuania</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">លីទុយអានី</common:Name></structure:Code>
         <structure:Code id="LU">
           <common:Name xml:lang="en">Luxembourg</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">លុចសំបួ</common:Name></structure:Code>
         <structure:Code id="LV">
           <common:Name xml:lang="en">Latvia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ឡាតវី</common:Name></structure:Code>
         <structure:Code id="LY">
           <common:Name xml:lang="en">Libya</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">លីប៊ី</common:Name></structure:Code>
         <structure:Code id="MA">
           <common:Name xml:lang="en">Morocco</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ារ៉ុក</common:Name></structure:Code>
         <structure:Code id="MC">
           <common:Name xml:lang="en">Monaco</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ូណាកូ</common:Name></structure:Code>
         <structure:Code id="MD">
           <common:Name xml:lang="en">Republic of Moldova</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋម៉ុលដាវី</common:Name></structure:Code>
         <structure:Code id="ME">
           <common:Name xml:lang="en">Montenegro</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ុងតេណេហ្គ្រោ</common:Name></structure:Code>
         <structure:Code id="MF">
           <common:Name xml:lang="en">Saint Martin (French part)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាំងម៉ាទីន (ផ្នែកបារាំង)</common:Name></structure:Code>
         <structure:Code id="MG">
           <common:Name xml:lang="en">Madagascar</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ាដាហ្គាស្ការ</common:Name></structure:Code>
         <structure:Code id="MH">
           <common:Name xml:lang="en">Marshall Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះ Marshall</common:Name></structure:Code>
         <structure:Code id="MK">
           <common:Name xml:lang="en">The former Yugoslav Republic of Macedonia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋយូហ្គោស្លាវីម៉ាសេដូនី</common:Name></structure:Code>
         <structure:Code id="ML">
           <common:Name xml:lang="en">Mali</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ាលី</common:Name></structure:Code>
         <structure:Code id="MM">
           <common:Name xml:lang="en">Myanmar</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មីយ៉ាន់ម៉ា</common:Name></structure:Code>
         <structure:Code id="MN">
           <common:Name xml:lang="en">Mongolia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ុងហ្គោលី</common:Name></structure:Code>
         <structure:Code id="MO">
           <common:Name xml:lang="en">China, Macao Special Administrative Region</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសចិនតំបន់រដ្ឋបាលពិសេសម៉ាកាវ</common:Name></structure:Code>
         <structure:Code id="MP">
           <common:Name xml:lang="en">Northern Mariana Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះម៉ារៀណាខាងជើង</common:Name></structure:Code>
         <structure:Code id="MQ">
           <common:Name xml:lang="en">Martinique</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ាទីនីក</common:Name></structure:Code>
         <structure:Code id="MR">
           <common:Name xml:lang="en">Mauritania</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ូរីតានី</common:Name></structure:Code>
         <structure:Code id="MS">
           <common:Name xml:lang="en">Montserrat</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ុនសឺរ</common:Name></structure:Code>
         <structure:Code id="MT">
           <common:Name xml:lang="en">Malta</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ាលតា</common:Name></structure:Code>
         <structure:Code id="MU">
           <common:Name xml:lang="en">Mauritius</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ូរីស</common:Name></structure:Code>
         <structure:Code id="MV">
           <common:Name xml:lang="en">Maldives</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ាល់ឌីវ</common:Name></structure:Code>
         <structure:Code id="MW">
           <common:Name xml:lang="en">Malawi</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ាឡាវី</common:Name></structure:Code>
         <structure:Code id="MX">
           <common:Name xml:lang="en">Mexico</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ិកស៊ិក</common:Name></structure:Code>
         <structure:Code id="MY">
           <common:Name xml:lang="en">Malaysia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសម៉ាឡេស៊ី</common:Name></structure:Code>
         <structure:Code id="MZ">
           <common:Name xml:lang="en">Mozambique</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ូសំប៊ិក</common:Name></structure:Code>
         <structure:Code id="NA">
           <common:Name xml:lang="en">Namibia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ណាមមីបៀ</common:Name></structure:Code>
         <structure:Code id="NC">
           <common:Name xml:lang="en">New Caledonia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កាលីដូនីថ្មី</common:Name></structure:Code>
         <structure:Code id="NE">
           <common:Name xml:lang="en">Niger</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">នីហ្សេរីយ៉ា</common:Name></structure:Code>
         <structure:Code id="NF">
           <common:Name xml:lang="en">Norfolk Island</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះ Norfolk</common:Name></structure:Code>
         <structure:Code id="NG">
           <common:Name xml:lang="en">Nigeria</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">នីហ្សេរីយ៉ា</common:Name></structure:Code>
         <structure:Code id="NI">
           <common:Name xml:lang="en">Nicaragua</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">នីការ៉ាហ្គាវ៉ា</common:Name></structure:Code>
         <structure:Code id="NL">
           <common:Name xml:lang="en">Netherlands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហូល្លង់</common:Name></structure:Code>
         <structure:Code id="NO">
           <common:Name xml:lang="en">Norway</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ន័រវែស</common:Name></structure:Code>
         <structure:Code id="NP">
           <common:Name xml:lang="en">Nepal</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">នេប៉ាល់</common:Name></structure:Code>
         <structure:Code id="NR">
           <common:Name xml:lang="en">Nauru</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ណៅរូ</common:Name></structure:Code>
         <structure:Code id="NU">
           <common:Name xml:lang="en">Niue</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">នីយូ</common:Name></structure:Code>
         <structure:Code id="NZ">
           <common:Name xml:lang="en">New Zealand</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">នូវែលសេឡង់</common:Name></structure:Code>
         <structure:Code id="OM">
           <common:Name xml:lang="en">Oman</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អូម៉ង់</common:Name></structure:Code>
         <structure:Code id="PA">
           <common:Name xml:lang="en">Panama</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៉ាណាម៉ា</common:Name></structure:Code>
         <structure:Code id="PE">
           <common:Name xml:lang="en">Peru</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេសប៉េរូ</common:Name></structure:Code>
         <structure:Code id="PF">
           <common:Name xml:lang="en">French Polynesia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៉ូលីនេស៊ីបារាំង</common:Name></structure:Code>
         <structure:Code id="PG">
           <common:Name xml:lang="en">Papua New Guinea</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៉ាពួញូហ្គីណេ</common:Name></structure:Code>
         <structure:Code id="PH">
           <common:Name xml:lang="en">Philippines</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្វីលីពីន</common:Name></structure:Code>
         <structure:Code id="PK">
           <common:Name xml:lang="en">Pakistan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៉ាគីស្ថាន</common:Name></structure:Code>
         <structure:Code id="PL">
           <common:Name xml:lang="en">Poland</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប្រទេស​ប៉ូឡូញ</common:Name></structure:Code>
         <structure:Code id="PM">
           <common:Name xml:lang="en">Saint Pierre and Miquelon</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាំងព្យែរនិងមីគែលឡុន</common:Name></structure:Code>
         <structure:Code id="PN">
           <common:Name xml:lang="en">Pitcairn</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">Pitcairn</common:Name></structure:Code>
         <structure:Code id="PR">
           <common:Name xml:lang="en">Puerto Rico</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ព័រតូរីកូ</common:Name></structure:Code>
         <structure:Code id="PS">
           <common:Name xml:lang="en">State of Palestine</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">រដ្ឋប៉ាឡេស្ទីន</common:Name></structure:Code>
         <structure:Code id="PT">
           <common:Name xml:lang="en">Portugal</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ព័រទុយហ្កាល់</common:Name></structure:Code>
         <structure:Code id="PW">
           <common:Name xml:lang="en">Palau</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៉ាឡៅ</common:Name></structure:Code>
         <structure:Code id="PY">
           <common:Name xml:lang="en">Paraguay</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៉ារ៉ាហ្គាយ</common:Name></structure:Code>
         <structure:Code id="QA">
           <common:Name xml:lang="en">Qatar</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កាតា</common:Name></structure:Code>
         <structure:Code id="RE">
           <common:Name xml:lang="en">Réunion</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">រីណូនីន</common:Name></structure:Code>
         <structure:Code id="RO">
           <common:Name xml:lang="en">Romania</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">រូម៉ានី</common:Name></structure:Code>
         <structure:Code id="RS">
           <common:Name xml:lang="en">Serbia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស៊ែប៊ី</common:Name></structure:Code>
         <structure:Code id="RU">
           <common:Name xml:lang="en">Russian Federation</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សហព័ន្ធរុស្ស៊ី</common:Name></structure:Code>
         <structure:Code id="RW">
           <common:Name xml:lang="en">Rwanda</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">រវ៉ាន់ដា</common:Name></structure:Code>
         <structure:Code id="SA">
           <common:Name xml:lang="en">Saudi Arabia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អារ៉ាប៊ីសាអូឌីត</common:Name></structure:Code>
         <structure:Code id="SB">
           <common:Name xml:lang="en">Solomon Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះសាឡូម៉ូន</common:Name></structure:Code>
         <structure:Code id="SC">
           <common:Name xml:lang="en">Seychelles</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សីស្ហែល</common:Name></structure:Code>
         <structure:Code id="SD">
           <common:Name xml:lang="en">Sudan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស៊ូដង់</common:Name></structure:Code>
         <structure:Code id="SE">
           <common:Name xml:lang="en">Sweden</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស៊ុយអែត</common:Name></structure:Code>
         <structure:Code id="SG">
           <common:Name xml:lang="en">Singapore</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សិង្ហបុរី</common:Name></structure:Code>
         <structure:Code id="SH">
           <common:Name xml:lang="en">Saint Helena</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាំងហេលេណា</common:Name></structure:Code>
         <structure:Code id="SI">
           <common:Name xml:lang="en">Slovenia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្លូវេនី</common:Name></structure:Code>
         <structure:Code id="SJ">
           <common:Name xml:lang="en">Svalbard and Jan Mayen Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះវ៉ាលបាដនិងចានមេនណេន</common:Name></structure:Code>
         <structure:Code id="SK">
           <common:Name xml:lang="en">Slovakia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្លូវ៉ាគី</common:Name></structure:Code>
         <structure:Code id="SL">
           <common:Name xml:lang="en">Sierra Leone</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សៀរ៉ាឡេអូន</common:Name></structure:Code>
         <structure:Code id="SM">
           <common:Name xml:lang="en">San Marino</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សានម៉ារីណូ</common:Name></structure:Code>
         <structure:Code id="SN">
           <common:Name xml:lang="en">Senegal</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សេណេហ្គាល់</common:Name></structure:Code>
         <structure:Code id="SO">
           <common:Name xml:lang="en">Somalia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សូម៉ាលី</common:Name></structure:Code>
         <structure:Code id="SR">
           <common:Name xml:lang="en">Suriname</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សុរិន្ទ</common:Name></structure:Code>
         <structure:Code id="SS">
           <common:Name xml:lang="en">South Sudan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស៊ូដង់​ខាងត្បូង</common:Name></structure:Code>
         <structure:Code id="ST">
           <common:Name xml:lang="en">Sao Tome and Principe</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សៅថូមនិងប្រីពលីន</common:Name></structure:Code>
         <structure:Code id="SV">
           <common:Name xml:lang="en">El Salvador</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អែលសាវ៉ាឌ័រ</common:Name></structure:Code>
         <structure:Code id="SX">
           <common:Name xml:lang="en">Sint Maarten (Dutch part)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">Sint Maarten (ផ្នែកហូឡង់)</common:Name></structure:Code>
         <structure:Code id="SY">
           <common:Name xml:lang="en">Syrian Arab Republic</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋអារ៉ាប់ស៊ីរី</common:Name></structure:Code>
         <structure:Code id="SZ">
           <common:Name xml:lang="en">Swaziland</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្វាស៊ីឡង់</common:Name></structure:Code>
         <structure:Code id="TC">
           <common:Name xml:lang="en">Turks and Caicos Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះទួកនិងកៃកូស</common:Name></structure:Code>
         <structure:Code id="TD">
           <common:Name xml:lang="en">Chad</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ឆាដ</common:Name></structure:Code>
         <structure:Code id="TG">
           <common:Name xml:lang="en">Togo</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តូហ្គោ</common:Name></structure:Code>
         <structure:Code id="TH">
           <common:Name xml:lang="en">Thailand</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ថៃ</common:Name></structure:Code>
         <structure:Code id="TJ">
           <common:Name xml:lang="en">Tajikistan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តាជីគីស្ថាន</common:Name></structure:Code>
         <structure:Code id="TK">
           <common:Name xml:lang="en">Tokelau</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តូកូឡូ</common:Name></structure:Code>
         <structure:Code id="TL">
           <common:Name xml:lang="en">Timor-Leste</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ទីម័រខាងកើត</common:Name></structure:Code>
         <structure:Code id="TM">
           <common:Name xml:lang="en">Turkmenistan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តូមិននីស្ថាន</common:Name></structure:Code>
         <structure:Code id="TN">
           <common:Name xml:lang="en">Tunisia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ទុយនីស៊ី</common:Name></structure:Code>
         <structure:Code id="TO">
           <common:Name xml:lang="en">Tonga</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តុងហ្គា</common:Name></structure:Code>
         <structure:Code id="TR">
           <common:Name xml:lang="en">Turkey</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តួកគី</common:Name></structure:Code>
         <structure:Code id="TT">
           <common:Name xml:lang="en">Trinidad and Tobago</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ទ្រី​នី​ដា​ដ​និង​តូបាហ្គោ</common:Name></structure:Code>
         <structure:Code id="TV">
           <common:Name xml:lang="en">Tuvalu</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តូវលូ</common:Name></structure:Code>
         <structure:Code id="TZ">
           <common:Name xml:lang="en">United Republic of Tanzania</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាធារណរដ្ឋតង់ហ្សានី</common:Name></structure:Code>
         <structure:Code id="UA">
           <common:Name xml:lang="en">Ukraine</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ៊ុយក្រែន</common:Name></structure:Code>
         <structure:Code id="UG">
           <common:Name xml:lang="en">Uganda</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ៊ូហ្គង់ដា</common:Name></structure:Code>
         <structure:Code id="UM">
           <common:Name xml:lang="en">United States minor outlying islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះតូចៗដែលនៅឆ្ងាយពីសហរដ្ឋអាមេរិក</common:Name></structure:Code>
         <structure:Code id="US">
           <common:Name xml:lang="en">United States of America</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សហរដ្ឋអាមេរិក</common:Name></structure:Code>
         <structure:Code id="UY">
           <common:Name xml:lang="en">Uruguay</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ៊ុយរូហ្គាយ</common:Name></structure:Code>
         <structure:Code id="UZ">
           <common:Name xml:lang="en">Uzbekistan</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អ៊ូសបេគីស្ថាន</common:Name></structure:Code>
         <structure:Code id="VA">
           <common:Name xml:lang="en">Holy See</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សូមមើលបរិសុទ្ធ</common:Name></structure:Code>
         <structure:Code id="VC">
           <common:Name xml:lang="en">Saint Vincent and the Grenadines</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាំងវ៉ាំងសង់និងហ្គ្រីណាឌីន</common:Name></structure:Code>
         <structure:Code id="VE">
           <common:Name xml:lang="en">Venezuela (Bolivarian Republic of)</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">Venezuela (សាធារណរដ្ឋបូលីវី)</common:Name></structure:Code>
         <structure:Code id="VG">
           <common:Name xml:lang="en">British Virgin Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះវឺដ្យីនអង់គ្លេស</common:Name></structure:Code>
         <structure:Code id="VI">
           <common:Name xml:lang="en">United States Virgin Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះវឺដ្យីនសហរដ្ឋអាមេរិក</common:Name></structure:Code>
         <structure:Code id="VN">
           <common:Name xml:lang="en">Viet Nam</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">វៀតណាម</common:Name></structure:Code>
         <structure:Code id="VU">
           <common:Name xml:lang="en">Vanuatu</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">វ៉ានូអាទូ</common:Name></structure:Code>
         <structure:Code id="WF">
           <common:Name xml:lang="en">Wallis and Futuna Islands</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះ Wallis និង Futuna</common:Name></structure:Code>
         <structure:Code id="WS">
           <common:Name xml:lang="en">Samoa</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សាម័រ</common:Name></structure:Code>
         <structure:Code id="XK">
           <common:Name xml:lang="en">Kosovo</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កូសូវ៉ូ</common:Name></structure:Code>
         <structure:Code id="YE">
           <common:Name xml:lang="en">Yemen</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">យេម៉ែន</common:Name></structure:Code>
         <structure:Code id="YT">
           <common:Name xml:lang="en">Mayotte</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ម៉ាយតូត</common:Name></structure:Code>
         <structure:Code id="YU">
           <common:Name xml:lang="en">Serbia and Montenegro [former]</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស៊ែប៊ីនិងម៉ុងតេណេហ្គ្រោ [អតីត]</common:Name></structure:Code>
         <structure:Code id="ZA">
           <common:Name xml:lang="en">South Africa</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">អា​ព្រិច​ខាងត្បូង</common:Name></structure:Code>
         <structure:Code id="ZM">
           <common:Name xml:lang="en">Zambia</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្សំបៀ</common:Name></structure:Code>
         <structure:Code id="ZW">
           <common:Name xml:lang="en">Zimbabwe</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ហ្សីមបាវេ</common:Name></structure:Code>
         <structure:Code id="KH01">
           <common:Name xml:lang="en">Banteay Meanchey</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បន្ទាយមានជ័យ</common:Name></structure:Code>
         <structure:Code id="KH02">
           <common:Name xml:lang="en">Battambang</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">បាត់ដំបង</common:Name></structure:Code>
         <structure:Code id="KH03">
           <common:Name xml:lang="en">Kampong Cham</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កំពង់ចាម</common:Name></structure:Code>
         <structure:Code id="KH04">
           <common:Name xml:lang="en">Kampong Chhnang</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កំពង់ឆ្នាំង</common:Name></structure:Code>
         <structure:Code id="KH05">
           <common:Name xml:lang="en">Kampong Speu</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កំពង់ស្ពឺ</common:Name></structure:Code>
         <structure:Code id="KH06">
           <common:Name xml:lang="en">Kampong Thom</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កំពង់ធំ</common:Name></structure:Code>
         <structure:Code id="KH07">
           <common:Name xml:lang="en">Kampot</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កំពត</common:Name></structure:Code>
         <structure:Code id="KH08">
           <common:Name xml:lang="en">Kandal</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កណ្តាល</common:Name></structure:Code>
         <structure:Code id="KH23">
           <common:Name xml:lang="en">Kep</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កែប</common:Name></structure:Code>
         <structure:Code id="KH09">
           <common:Name xml:lang="en">Koh Kong</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះកុង</common:Name></structure:Code>
         <structure:Code id="KH10">
           <common:Name xml:lang="en">Kratie</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ខេត្តក្រចេះ</common:Name></structure:Code>
         <structure:Code id="KH11">
           <common:Name xml:lang="en">Mondul Kiri</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មណ្ឌលគីរី</common:Name></structure:Code>
         <structure:Code id="KH22">
           <common:Name xml:lang="en">Oddar Meanchey</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ឧត្តរមានជ័យ</common:Name></structure:Code>
         <structure:Code id="KH24">
           <common:Name xml:lang="en">Pailin</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ប៉ៃលិន</common:Name></structure:Code>
         <structure:Code id="KH12">
           <common:Name xml:lang="en">Phnom Penh</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ភ្នំពេញ</common:Name></structure:Code>
         <structure:Code id="KH18">
           <common:Name xml:lang="en">Preah Sihanouk</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ព្រះសីហនុ</common:Name></structure:Code>
         <structure:Code id="KH13">
           <common:Name xml:lang="en">Preah Vihear</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ព្រះវិហារ</common:Name></structure:Code>
         <structure:Code id="KH14">
           <common:Name xml:lang="en">Prey Veng</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ព្រៃវែង</common:Name></structure:Code>
         <structure:Code id="KH15">
           <common:Name xml:lang="en">Pursat</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ពោធិសាត់</common:Name></structure:Code>
         <structure:Code id="KH16">
           <common:Name xml:lang="en">Ratanak Kiri</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">រតនគិរី</common:Name></structure:Code>
         <structure:Code id="KH17">
           <common:Name xml:lang="en">Siemreap</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">សៀមរាប</common:Name></structure:Code>
         <structure:Code id="KH19">
           <common:Name xml:lang="en">Stung Treng</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្ទឹងត្រែង</common:Name></structure:Code>
         <structure:Code id="KH20">
           <common:Name xml:lang="en">Svay Rieng</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ស្វាយរៀង</common:Name></structure:Code>
         <structure:Code id="KH21">
           <common:Name xml:lang="en">Takeo</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">តាកែវ</common:Name></structure:Code>
         <structure:Code id="KH25">
           <common:Name xml:lang="en">Tboung Khmum</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ត្បូងឃ្មុំ</common:Name></structure:Code>
         <structure:Code id="KH_AGG_KH02_KH24">
           <common:Name xml:lang="en">Battambang and Pailin</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ខេត្តបាត់ដំបងនិងប៉ៃលិន</common:Name></structure:Code>
         <structure:Code id="KH_AGG_KH07_KH18_KH23">
           <common:Name xml:lang="en">Kampot, Preah Sihanouk and Kep</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កំពតព្រះសីហនុនិងកែប</common:Name></structure:Code>
         <structure:Code id="KH_AGG_KH10_KH13_KH19">
           <common:Name xml:lang="en">Kratie, Preah Vihear and Stung Treng</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង</common:Name></structure:Code>
         <structure:Code id="KH_AGG_KH11_KH16">
           <common:Name xml:lang="en">Mondul Kiri and Ratanak Kiri</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">មណ្ឌលគីរីនិងរតនគិរី</common:Name></structure:Code>
         <structure:Code id="KH_AGG_KH22_KH17">
           <common:Name xml:lang="en">Otdar Meanchey and Siem Reap</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ឧត្តរមានជ័យនិងសៀមរាប</common:Name></structure:Code>
         <structure:Code id="KH_AGG_KH07_KH23">
           <common:Name xml:lang="en">Kampot and Kep</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កំពតនិងកែប</common:Name></structure:Code>
         <structure:Code id="KH_KH09_KH18">
           <common:Name xml:lang="en">Koh Kong and Preah Sihanouk</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">កោះកុងនិងព្រះសីហនុ</common:Name></structure:Code>
         <structure:Code id="KH_AGG_KH13_KH19">
           <common:Name xml:lang="en">Preah Vihear and Stung Treng</common:Name>
-        </structure:Code>
+        <common:Name xml:lang="km">ព្រះវិហារនិងស្ទឹងត្រែង</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="KH_NIS" id="CL_COMP_BREAKDOWN" isFinal="false" version="1.2">
         <common:Name xml:lang="en">SDG composite breakdown code list</common:Name>
