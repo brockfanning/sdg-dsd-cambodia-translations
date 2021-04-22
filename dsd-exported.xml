@@ -941,119 +941,119 @@
         <structure:Code id="_T">
           <common:Name xml:lang="en">No breakdown</common:Name>
           <common:Description xml:lang="en">No breakdown</common:Description>
-        <common:Name xml:lang="km">មិនមានការបែកបាក់</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="AGG_ARMS">
           <common:Name xml:lang="en">Arms</common:Name>
           <common:Description xml:lang="en">Arms</common:Description>
-        <common:Name xml:lang="km">អាវុធ</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="AGG_CLTH">
           <common:Name xml:lang="en">Clothing</common:Name>
           <common:Description xml:lang="en">Clothing</common:Description>
-        <common:Name xml:lang="km">សម្លៀកបំពាក់</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="AGG_IND">
           <common:Name xml:lang="en">Industrial products</common:Name>
           <common:Description xml:lang="en">Industrial products</common:Description>
-        <common:Name xml:lang="km">ផលិតផលឧស្សាហកម្ម</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="AGG_AGR">
           <common:Name xml:lang="en">Agriculture products</common:Name>
           <common:Description xml:lang="en">Agriculture products</common:Description>
-        <common:Name xml:lang="km">ផលិតផលកសិកម្ម</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="AGG_OIL">
           <common:Name xml:lang="en">Oil</common:Name>
           <common:Description xml:lang="en">Oil</common:Description>
-        <common:Name xml:lang="km">ប្រេង</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="AGG_TXT">
           <common:Name xml:lang="en">Textiles</common:Name>
           <common:Description xml:lang="en">Textiles</common:Description>
-        <common:Name xml:lang="km">វាយនភ័ណ្ឌ</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="CPC2_1_112">
           <common:Name xml:lang="en">Maize</common:Name>
           <common:Description xml:lang="en">Maize</common:Description>
-        <common:Name xml:lang="km">ពោត</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="CPC2_1_118">
           <common:Name xml:lang="en">Millet</common:Name>
           <common:Description xml:lang="en">Millet</common:Description>
-        <common:Name xml:lang="km">មីល</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="CPC2_1_113">
           <common:Name xml:lang="en">Rice</common:Name>
           <common:Description xml:lang="en">Rice</common:Description>
-        <common:Name xml:lang="km">ស្រូវ</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="CPC2_1_114">
           <common:Name xml:lang="en">Sorghum</common:Name>
           <common:Description xml:lang="en">Sorghum</common:Description>
-        <common:Name xml:lang="km">ដុកទ័រ</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="CPC2_1_111">
           <common:Name xml:lang="en">Wheat</common:Name>
           <common:Description xml:lang="en">Wheat</common:Description>
-        <common:Name xml:lang="km">ស្រូវសាលី</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="MF1">
           <common:Name xml:lang="en">Biomass (material flows)</common:Name>
           <common:Description xml:lang="en">Biomass (material flows)</common:Description>
-        <common:Name xml:lang="km">ជីវម៉ាស (លំហូរសម្ភារៈ)</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="MF2">
           <common:Name xml:lang="en">Metal ores (material flows)</common:Name>
           <common:Description xml:lang="en">Metal ores (material flows)</common:Description>
-        <common:Name xml:lang="km">រ៉ែដែក (លំហូរសម្ភារៈ)</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="MF3">
           <common:Name xml:lang="en">Non-metallic minerals (material flows)</common:Name>
           <common:Description xml:lang="en">Non-metallic minerals (material flows)</common:Description>
-        <common:Name xml:lang="km">រ៉ែមិនមែនលោហធាតុ (លំហូរវត្ថុធាតុដើម)</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="MF4">
           <common:Name xml:lang="en">Fossil fuels (material flows)</common:Name>
           <common:Description xml:lang="en">Fossil fuels (material flows)</common:Description>
-        <common:Name xml:lang="km">ឥន្ធនៈហ្វូស៊ីល (លំហូរសម្ភារៈ)</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="MF121">
           <common:Name xml:lang="en">Crop residues (material flows)</common:Name>
           <common:Description xml:lang="en">Crop residues (material flows)</common:Description>
-        <common:Name xml:lang="km">សំណល់ដំណាំ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="MF11">
           <common:Name xml:lang="en">Crops (material flows)</common:Name>
           <common:Description xml:lang="en">Crops (material flows)</common:Description>
-        <common:Name xml:lang="km">ដំណាំ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="MF122">
           <common:Name xml:lang="en">Grazed biomass and fodder crops (material flows)</common:Name>
           <common:Description xml:lang="en">Grazed biomass and fodder crops (material flows)</common:Description>
-        <common:Name xml:lang="km">ជីវម៉ាស់និងដំណាំចំណី (លំហូរសម្ភារៈ)</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="MF14">
           <common:Name xml:lang="en">Wild catch and harvest (material flows)</common:Name>
           <common:Description xml:lang="en">Wild catch and harvest (material flows)</common:Description>
-        <common:Name xml:lang="km">ការចាប់និងការប្រមូលផលព្រៃ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="MF13">
           <common:Name xml:lang="en">Wood (material flows)</common:Name>
           <common:Description xml:lang="en">Wood (material flows)</common:Description>
-        <common:Name xml:lang="km">ឈើ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="MF41">
           <common:Name xml:lang="en">Coal (material flows)</common:Name>
           <common:Description xml:lang="en">Coal (material flows)</common:Description>
-        <common:Name xml:lang="km">ធ្យូងថ្ម (លំហូរសម្ភារៈ)</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="MF422">
           <common:Name xml:lang="en">Natural gas (material flows)</common:Name>
           <common:Description xml:lang="en">Natural gas (material flows)</common:Description>
-        <common:Name xml:lang="km">ឧស្ម័នធម្មជាតិ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="MF413">
           <common:Name xml:lang="en">Oil shale and tar sands (material flows)</common:Name>
           <common:Description xml:lang="en">Oil shale and tar sands (material flows)</common:Description>
-        <common:Name xml:lang="km">ដីខ្សាច់និងដីខ្សាច់ (លំហូរវត្ថុធាតុដើម)</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="MF421">
           <common:Name xml:lang="en">Petroleum (material flows)</common:Name>
           <common:Description xml:lang="en">Petroleum (material flows)</common:Description>
-        <common:Name xml:lang="km">ប្រេងឥន្ធនៈ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="MF21">
           <common:Name xml:lang="en">Ferrous ores (material flows)</common:Name>
           <common:Description xml:lang="en">Ferrous ores (material flows)</common:Description>
-        <common:Name xml:lang="km">រ៉ែដែក (លំហូរសម្ភារៈ)</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="MF22">
           <common:Name xml:lang="en">Non-ferrous ores (material flows)</common:Name>
           <common:Description xml:lang="en">Non-ferrous ores (material flows)</common:Description>
-        <common:Name xml:lang="km">រ៉ែដែលមិនមែនជាជាតិដែក (លំហូរវត្ថុធាតុដើម)</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="MF_AGG3A">
           <common:Name xml:lang="en">Non-metallic minerals - construction dominant (material flows)</common:Name>
           <common:Description xml:lang="en">Non-metallic minerals - construction dominant (material flows)</common:Description>
-        <common:Name xml:lang="km">រ៉ែមិនមែនលោហធាតុ - សំណង់លេចធ្លោ (លំហូរសម្ភារៈ)</common:Name></structure:Code>
+        </structure:Code>
         <structure:Code id="MF_AGG3B">
           <common:Name xml:lang="en">Non-metallic minerals - industrial or agricultural dominant (material flows)</common:Name>
           <common:Description xml:lang="en">Non-metallic minerals - industrial or agricultural dominant (material flows)</common:Description>
-        <common:Name xml:lang="km">រ៉ែមិនមែនលោហធាតុ - ឥទ្ធិពលឧស្សាហកម្មឬកសិកម្ម (លំហូរវត្ថុធាតុដើម)</common:Name></structure:Code>
+        </structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="IAEG-SDGs" id="CL_QUANTILE" isFinal="true" version="1.2">
         <common:Name xml:lang="en">Income/wealth quantile code list</common:Name>
