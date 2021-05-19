@@ -38,7 +38,7 @@
       <structure:Codelist agencyID="IAEG-SDGs" id="CL_ACTIVITY" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IAEG-SDGs:CL_ACTIVITY(1.0)" version="1.0">
         <common:Name xml:lang="en">Industrial activity</common:Name>
         <structure:Code id="_T" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.0)._T">
-          <common:Name xml:lang="en">No breakdown</common:Name>
+          <common:Name xml:lang="en">Total</common:Name>
         <common:Name xml:lang="km">មិនមានការបែកបាក់</common:Name></structure:Code>
         <structure:Code id="ISIC4_A" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.0).ISIC4_A">
           <common:Name xml:lang="en">Agriculture, forestry and fishing</common:Name>
