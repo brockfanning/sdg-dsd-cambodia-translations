@@ -60,7 +60,7 @@
         <common:Name xml:lang="en">Industrial activity</common:Name>
         <common:Description xml:lang="en">High-level grouping of economic activities based on the types of goods and services produced. Based on the ISIC classification.</common:Description>
         <structure:Code id="_T">
-          <common:Name xml:lang="en">No breakdown</common:Name>
+          <common:Name xml:lang="en">Total</common:Name>
         <common:Name xml:lang="km">មិនមានការបែកបាក់</common:Name></structure:Code>
         <structure:Code id="ISIC4_A">
           <common:Name xml:lang="en">Agriculture, forestry and fishing</common:Name>
