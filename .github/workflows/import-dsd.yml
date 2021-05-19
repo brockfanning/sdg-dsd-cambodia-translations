@@ -1,0 +1,27 @@
+name: Import DSD
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Install dependencies
+      run: make install
+    - name: Import changes in the DSD
+      run: make import
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
+      with:
+        commit-message: import uploaded DSD
+        title: Import uploaded DSD
+        body: Import source translations from the latest uploaded DSD.
+        branch: import-dsd
