@@ -8,4 +8,4 @@ Repository for translating Cambodia's DSD for the Sustainable Development Goals.
 
 These translations are made possible by [Weblate](https://weblate.org).
 
-More information: https://brock.tips/sdg-dsd-translations-cambodia/
+More information: https://sdg-cambodia.github.io/translate-dsd/
