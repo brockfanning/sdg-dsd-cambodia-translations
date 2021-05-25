@@ -9,8 +9,8 @@ title_separator          : "-"
 subtitle                 : "Translation of Cambodia's DSD for the Sustainable Development Goals"
 description              : "Translation of Cambodia's DSD for the Sustainable Development Goals"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : /sdg-dsd-translations-cambodia
-repository               : brockfanning/sdg-dsd-translations-cambodia
+baseurl                  : /translate-dsd
+repository               : sdg-cambodia/translate-dsd
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 
@@ -26,7 +26,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/brockfanning/sdg-dsd-translations-cambodia
+      url: https://github.com/sdg-cambodia/translate-dsd
 
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
